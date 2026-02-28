@@ -1,0 +1,6350 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "026",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-06-16T23:00:44.004000",
+  "timestamp": "2024-06-16T23:00:44.004000",
+  "cutLines": [
+    {
+      "cutCount": 82,
+      "cutScore": "+5"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "DeChambeau",
+      "firstName": "Bryson",
+      "playerId": "47959",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "1",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:21pm",
+      "teeTimeTimestamp": "2024-06-16T18:21:00"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "2",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:10pm",
+      "teeTimeTimestamp": "2024-06-16T18:10:00"
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T3",
+      "total": "-4",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:48pm",
+      "teeTimeTimestamp": "2024-06-16T17:48:00"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T3",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:10pm",
+      "teeTimeTimestamp": "2024-06-16T18:10:00"
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "playerId": "48153",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "5",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:21pm",
+      "teeTimeTimestamp": "2024-06-16T18:21:00"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "6",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:59pm",
+      "teeTimeTimestamp": "2024-06-16T17:59:00"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T7",
+      "total": "-1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:48pm",
+      "teeTimeTimestamp": "2024-06-16T16:48:00"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T7",
+      "total": "-1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:59pm",
+      "teeTimeTimestamp": "2024-06-16T16:59:00"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T9",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-06-16T16:15:00"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T9",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:59pm",
+      "teeTimeTimestamp": "2024-06-16T16:59:00"
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T9",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": "2024-06-16T17:37:00"
+    },
+    {
+      "lastName": "Garcia",
+      "firstName": "Sergio",
+      "playerId": "21209",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T12",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2024-06-16T17:10:00"
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "playerId": "52955",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T12",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:59pm",
+      "teeTimeTimestamp": "2024-06-16T17:59:00"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T14",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:37pm",
+      "teeTimeTimestamp": "2024-06-16T16:37:00"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T14",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:37pm",
+      "teeTimeTimestamp": "2024-06-16T17:37:00"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T16",
+      "total": "+3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-06-16T15:15:00"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T16",
+      "total": "+3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:48pm",
+      "teeTimeTimestamp": "2024-06-16T16:48:00"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T16",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2024-06-16T17:10:00"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T19",
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:31am",
+      "teeTimeTimestamp": "2024-06-16T15:31:00"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T19",
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:26pm",
+      "teeTimeTimestamp": "2024-06-16T17:26:00"
+    },
+    {
+      "lastName": "Greyserman",
+      "firstName": "Max",
+      "playerId": "51977",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T21",
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:58am",
+      "teeTimeTimestamp": "2024-06-16T13:58:00"
+    },
+    {
+      "lastName": "Berger",
+      "firstName": "Daniel",
+      "playerId": "40026",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T21",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:09am",
+      "teeTimeTimestamp": "2024-06-16T14:09:00"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T21",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:53am",
+      "teeTimeTimestamp": "2024-06-16T15:53:00"
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T21",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-06-16T16:15:00"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T21",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:26pm",
+      "teeTimeTimestamp": "2024-06-16T16:26:00"
+    },
+    {
+      "lastName": "Koepka",
+      "firstName": "Brooks",
+      "playerId": "36689",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:31am",
+      "teeTimeTimestamp": "2024-06-16T14:31:00"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:31am",
+      "teeTimeTimestamp": "2024-06-16T15:31:00"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2024-06-16T15:42:00"
+    },
+    {
+      "lastName": "Shipley",
+      "firstName": "Neal",
+      "playerId": "63807",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:04pm",
+      "teeTimeTimestamp": "2024-06-16T16:04:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:26pm",
+      "teeTimeTimestamp": "2024-06-16T17:26:00"
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T26",
+      "total": "+6",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:48pm",
+      "teeTimeTimestamp": "2024-06-16T17:48:00"
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:09am",
+      "teeTimeTimestamp": "2024-06-16T13:09:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:47am",
+      "teeTimeTimestamp": "2024-06-16T13:47:00"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:58am",
+      "teeTimeTimestamp": "2024-06-16T13:58:00"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:09am",
+      "teeTimeTimestamp": "2024-06-16T14:09:00"
+    },
+    {
+      "lastName": "Salinda",
+      "firstName": "Isaiah",
+      "playerId": "56781",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:53am",
+      "teeTimeTimestamp": "2024-06-16T14:53:00"
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:53am",
+      "teeTimeTimestamp": "2024-06-16T14:53:00"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Cameron",
+      "playerId": "35891",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:04am",
+      "teeTimeTimestamp": "2024-06-16T15:04:00"
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-06-16T15:15:00"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T32",
+      "total": "+7",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:53am",
+      "teeTimeTimestamp": "2024-06-16T15:53:00"
+    },
+    {
+      "lastName": "Capan III",
+      "firstName": "Frankie",
+      "playerId": "49590",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-06-16T13:25:00"
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:36am",
+      "teeTimeTimestamp": "2024-06-16T13:36:00"
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:47am",
+      "teeTimeTimestamp": "2024-06-16T13:47:00"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "teeTimeTimestamp": "2024-06-16T14:20:00"
+    },
+    {
+      "lastName": "McKibbin",
+      "firstName": "Tom",
+      "playerId": "50823",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "teeTimeTimestamp": "2024-06-16T14:20:00"
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:31am",
+      "teeTimeTimestamp": "2024-06-16T14:31:00"
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:42am",
+      "teeTimeTimestamp": "2024-06-16T14:42:00"
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2024-06-16T15:42:00"
+    },
+    {
+      "lastName": "Clanton",
+      "firstName": "Luke",
+      "playerId": "66743",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T41",
+      "total": "+8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:04pm",
+      "teeTimeTimestamp": "2024-06-16T16:04:00"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T50",
+      "total": "+9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:58am",
+      "teeTimeTimestamp": "2024-06-16T12:58:00"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T50",
+      "total": "+9",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-06-16T13:25:00"
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T50",
+      "total": "+9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:42am",
+      "teeTimeTimestamp": "2024-06-16T14:42:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T50",
+      "total": "+9",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:26pm",
+      "teeTimeTimestamp": "2024-06-16T16:26:00"
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "54",
+      "total": "+10",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:47am",
+      "teeTimeTimestamp": "2024-06-16T12:47:00"
+    },
+    {
+      "lastName": "Puig",
+      "firstName": "David",
+      "playerId": "61193",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "55",
+      "total": "+11",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:37pm",
+      "teeTimeTimestamp": "2024-06-16T16:37:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Seonghyeon",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 3,
+          "strokes": 83,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:30am",
+      "teeTimeTimestamp": "2024-06-16T11:30:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:03am",
+      "teeTimeTimestamp": "2024-06-16T12:03:00"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:14am",
+      "teeTimeTimestamp": "2024-06-16T12:14:00"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "teeTimeTimestamp": "2024-06-16T12:25:00"
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:36am",
+      "teeTimeTimestamp": "2024-06-16T12:36:00"
+    },
+    {
+      "lastName": "Campbell",
+      "firstName": "Brian",
+      "playerId": "46443",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:09am",
+      "teeTimeTimestamp": "2024-06-16T13:09:00"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:36am",
+      "teeTimeTimestamp": "2024-06-16T13:36:00"
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T56",
+      "total": "+12",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:04am",
+      "teeTimeTimestamp": "2024-06-16T15:04:00"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matthew",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T64",
+      "total": "+13",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:41am",
+      "teeTimeTimestamp": "2024-06-16T11:41:00"
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T64",
+      "total": "+13",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:03am",
+      "teeTimeTimestamp": "2024-06-16T12:03:00"
+    },
+    {
+      "lastName": "Kaymer",
+      "firstName": "Martin",
+      "playerId": "27408",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T64",
+      "total": "+13",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "teeTimeTimestamp": "2024-06-16T12:25:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T67",
+      "total": "+14",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:36am",
+      "teeTimeTimestamp": "2024-06-16T12:36:00"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T67",
+      "total": "+14",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:47am",
+      "teeTimeTimestamp": "2024-06-16T12:47:00"
+    },
+    {
+      "lastName": "Burmester",
+      "firstName": "Dean",
+      "playerId": "33974",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "69",
+      "total": "+15",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:14am",
+      "teeTimeTimestamp": "2024-06-16T12:14:00"
+    },
+    {
+      "lastName": "Broin",
+      "firstName": "Gunnar",
+      "playerId": "65880",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T70",
+      "total": "+16",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "296",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 3,
+          "strokes": 81,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:30am",
+      "teeTimeTimestamp": "2024-06-16T11:30:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "T70",
+      "total": "+16",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "296",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:52am",
+      "teeTimeTimestamp": "2024-06-16T11:52:00"
+    },
+    {
+      "lastName": "Bennett",
+      "firstName": "Sam",
+      "playerId": "59652",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "72",
+      "total": "+17",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "297",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:58am",
+      "teeTimeTimestamp": "2024-06-16T12:58:00"
+    },
+    {
+      "lastName": "Suber",
+      "firstName": "Jackson",
+      "playerId": "60019",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "73",
+      "total": "+18",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "298",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 3,
+          "strokes": 81,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:41am",
+      "teeTimeTimestamp": "2024-06-16T11:41:00"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "complete",
+      "position": "74",
+      "total": "+20",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "300",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:52am",
+      "teeTimeTimestamp": "2024-06-16T11:52:00"
+    },
+    {
+      "lastName": "Kjettrup",
+      "firstName": "Frederik",
+      "playerId": "55077",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Shimizu",
+      "firstName": "Taisei",
+      "playerId": "66583",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Scrivener",
+      "firstName": "Jason",
+      "playerId": "31569",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buchanan",
+      "firstName": "Jackson",
+      "playerId": "66742",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Robinson Thompson",
+      "firstName": "Brandon",
+      "playerId": "65374",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "James",
+      "firstName": "Ben",
+      "playerId": "57869",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Bryan",
+      "playerId": "66346",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Woods",
+      "firstName": "Tiger",
+      "playerId": "08793",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Morales",
+      "firstName": "Omar",
+      "playerId": "64690",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bell",
+      "firstName": "Parker",
+      "playerId": "66624",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ishikawa",
+      "firstName": "Ryo",
+      "playerId": "30852",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mansell",
+      "firstName": "Richard",
+      "playerId": "54190",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Will",
+      "playerId": "47483",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chacarra",
+      "firstName": "Eugenio",
+      "playerId": "57492",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Victor",
+      "playerId": "47679",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McAllister",
+      "firstName": "Logan",
+      "playerId": "60015",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tai",
+      "firstName": "Hiroshi",
+      "playerId": "55741",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Vrzich",
+      "firstName": "Joey",
+      "playerId": "59203",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Dustin",
+      "playerId": "30925",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Petefish",
+      "firstName": "Chris",
+      "playerId": "54792",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Edoardo",
+      "playerId": "23814",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rock",
+      "firstName": "Robert",
+      "playerId": "26539",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kang",
+      "firstName": "Sung",
+      "playerId": "27974",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kanaya",
+      "firstName": "Takumi",
+      "playerId": "47917",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McCulloch",
+      "firstName": "Ashton",
+      "playerId": "59409",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGowan",
+      "firstName": "Michael",
+      "playerId": "47349",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Valdes",
+      "firstName": "Brendan",
+      "playerId": "65110",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Williams",
+      "firstName": "Wells",
+      "playerId": "66745",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bairstow",
+      "firstName": "Sam",
+      "playerId": "60369",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+14",
+          "roundId": 1,
+          "strokes": 84,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svoboda",
+      "firstName": "Andrew",
+      "playerId": "29425",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jenkins",
+      "firstName": "Carter",
+      "playerId": "35437",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mack III",
+      "firstName": "Willie",
+      "playerId": "50006",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jarvis",
+      "firstName": "Casey",
+      "playerId": "57688",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sargent",
+      "firstName": "Gordon",
+      "playerId": "64442",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Knapp",
+      "firstName": "Jake",
+      "playerId": "47420",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meronk",
+      "firstName": "Adrian",
+      "playerId": "33674",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "de la Fuente",
+      "firstName": "Santiago",
+      "playerId": "61520",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Forrest",
+      "firstName": "Grant",
+      "playerId": "37066",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chin",
+      "firstName": "John",
+      "playerId": "34306",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Moldovan",
+      "firstName": "Maxwell",
+      "playerId": "57860",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hagestad",
+      "firstName": "Stewart",
+      "playerId": "51586",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Manassero",
+      "firstName": "Matteo",
+      "playerId": "33199",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schaake",
+      "firstName": "Carson",
+      "playerId": "48102",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mickelson",
+      "firstName": "Phil",
+      "playerId": "01810",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Naegel",
+      "firstName": "Chris",
+      "playerId": "39537",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Prater",
+      "firstName": "Colin",
+      "playerId": "66744",
+      "isAmateur": true,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kawamoto",
+      "firstName": "Riki",
+      "playerId": "51366",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+19",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoshino",
+      "firstName": "Rikuya",
+      "playerId": "47056",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+19",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Black",
+      "firstName": "Otto",
+      "playerId": "49371",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+19",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Reiter",
+      "firstName": "Charlie",
+      "playerId": "54303",
+      "isAmateur": false,
+      "courseId": "528",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+20",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "160",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "528",
+          "courseName": "Pinehurst Resort & Country Club (Course No. 2)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    }
+  ]
+}

@@ -1,0 +1,3648 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "470",
+  "status": "Completed",
+  "roundId": 7,
+  "lastUpdated": "2023-03-29T13:54:12.794000",
+  "timestamp": "2023-03-29T13:54:12.794000",
+  "roundStatus": "In Progress",
+  "brackets": [
+    {
+      "roundId": 7,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "112",
+              "matchStatus": "Complete",
+              "score": "6 & 5",
+              "players": [
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "111",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 6,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "109",
+              "matchStatus": "Complete",
+              "score": "21 HOLES",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            },
+            {
+              "matchId": "110",
+              "matchStatus": "Complete",
+              "score": "19 HOLES",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 5,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "105",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "106",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "28089",
+                  "lastName": "Day",
+                  "firstName": "Jason",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "107",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "48081",
+                  "lastName": "Schauffele",
+                  "firstName": "Xander",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "108",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 4,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "97",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "39977",
+                  "lastName": "Homa",
+                  "firstName": "Max",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            },
+            {
+              "matchId": "98",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "35450",
+                  "lastName": "Cantlay",
+                  "firstName": "Patrick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "99",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "28089",
+                  "lastName": "Day",
+                  "firstName": "Jason",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "23108",
+                  "lastName": "Kuchar",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            },
+            {
+              "matchId": "100",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "49771",
+                  "lastName": "Poston",
+                  "firstName": "J.T.",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "101",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "48081",
+                  "lastName": "Schauffele",
+                  "firstName": "Xander",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "39324",
+                  "lastName": "Spaun",
+                  "firstName": "J.J.",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            },
+            {
+              "matchId": "102",
+              "matchStatus": "Complete",
+              "score": "2 UP",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "39058",
+                  "lastName": "Herbert",
+                  "firstName": "Lucas",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "103",
+              "matchStatus": "Complete",
+              "score": "6 & 5",
+              "players": [
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "34256",
+                  "lastName": "Putnam",
+                  "firstName": "Andrew",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            },
+            {
+              "matchId": "104",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "29420",
+                  "lastName": "Horschel",
+                  "firstName": "Billy",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 301,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "10",
+              "matchStatus": "Complete",
+              "score": null,
+              "players": [
+                {
+                  "playerId": "29725",
+                  "lastName": "Finau",
+                  "firstName": "Tony",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                },
+                {
+                  "playerId": "33674",
+                  "lastName": "Meronk",
+                  "firstName": "Adrian",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "12",
+              "matchStatus": "Complete",
+              "score": null,
+              "players": [
+                {
+                  "playerId": "55789",
+                  "lastName": "Montgomery",
+                  "firstName": "Taylor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": null
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 3,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "72",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "32791",
+                  "lastName": "Lee",
+                  "firstName": "K.H.",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                },
+                {
+                  "playerId": "25493",
+                  "lastName": "Taylor",
+                  "firstName": "Nick",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "71",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "35450",
+                  "lastName": "Cantlay",
+                  "firstName": "Patrick",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "27644",
+                  "lastName": "Harman",
+                  "firstName": "Brian",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "2-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "74",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "40115",
+                  "lastName": "Svensson",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                },
+                {
+                  "playerId": "47679",
+                  "lastName": "Perez",
+                  "firstName": "Victor",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "73",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "50525",
+                  "lastName": "Morikawa",
+                  "firstName": "Collin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-1"
+                },
+                {
+                  "playerId": "28089",
+                  "lastName": "Day",
+                  "firstName": "Jason",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "75",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "46717",
+                  "lastName": "Hovland",
+                  "firstName": "Viktor",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "30926",
+                  "lastName": "Kirk",
+                  "firstName": "Chris",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                }
+              ]
+            },
+            {
+              "matchId": "76",
+              "matchStatus": "Complete",
+              "score": "7 & 6",
+              "players": [
+                {
+                  "playerId": "37455",
+                  "lastName": "Kim",
+                  "firstName": "Si Woo",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "23108",
+                  "lastName": "Kuchar",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "88",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "47993",
+                  "lastName": "McCarthy",
+                  "firstName": "Denny",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                },
+                {
+                  "playerId": "30692",
+                  "lastName": "Stallings",
+                  "firstName": "Scott",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "87",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "33141",
+                  "lastName": "Bradley",
+                  "firstName": "Keegan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "65",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "34046",
+                  "lastName": "Spieth",
+                  "firstName": "Jordan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "33204",
+                  "lastName": "Lowry",
+                  "firstName": "Shane",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "66",
+              "matchStatus": "Complete",
+              "score": "6 & 4",
+              "players": [
+                {
+                  "playerId": "55789",
+                  "lastName": "Montgomery",
+                  "firstName": "Taylor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "67",
+              "matchStatus": "Complete",
+              "score": "CON",
+              "players": [
+                {
+                  "playerId": "39977",
+                  "lastName": "Homa",
+                  "firstName": "Max",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "32839",
+                  "lastName": "Matsuyama",
+                  "firstName": "Hideki",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "68",
+              "matchStatus": "Complete",
+              "score": "2 UP",
+              "players": [
+                {
+                  "playerId": "29478",
+                  "lastName": "Kisner",
+                  "firstName": "Kevin",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "50493",
+                  "lastName": "Suh",
+                  "firstName": "Justin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "69",
+              "matchStatus": "Complete",
+              "score": "2 UP",
+              "players": [
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "28252",
+                  "lastName": "Power",
+                  "firstName": "Seamus",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "70",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "24502",
+                  "lastName": "Scott",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "33399",
+                  "lastName": "Hadwin",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "77",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "39971",
+                  "lastName": "Im",
+                  "firstName": "Sungjae",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "30911",
+                  "lastName": "Fleetwood",
+                  "firstName": "Tommy",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                }
+              ]
+            },
+            {
+              "matchId": "78",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "49771",
+                  "lastName": "Poston",
+                  "firstName": "J.T.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "46442",
+                  "lastName": "McNealy",
+                  "firstName": "Maverick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "79",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "55182",
+                  "lastName": "Kim",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "80",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "27349",
+                  "lastName": "Noren",
+                  "firstName": "Alex",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                },
+                {
+                  "playerId": "47995",
+                  "lastName": "Riley",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "81",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "40098",
+                  "lastName": "Fitzpatrick",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "51634",
+                  "lastName": "Theegala",
+                  "firstName": "Sahith",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "82",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "37378",
+                  "lastName": "Lee",
+                  "firstName": "Min Woo",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "39324",
+                  "lastName": "Spaun",
+                  "firstName": "J.J.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "83",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "48081",
+                  "lastName": "Schauffele",
+                  "firstName": "Xander",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "35532",
+                  "lastName": "Hoge",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                }
+              ]
+            },
+            {
+              "matchId": "84",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "49964",
+                  "lastName": "Wise",
+                  "firstName": "Aaron",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "45157",
+                  "lastName": "Davis",
+                  "firstName": "Cam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "85",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "34363",
+                  "lastName": "Hatton",
+                  "firstName": "Tyrrell",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                },
+                {
+                  "playerId": "34098",
+                  "lastName": "Henley",
+                  "firstName": "Russell",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "86",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "39058",
+                  "lastName": "Herbert",
+                  "firstName": "Lucas",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "54591",
+                  "lastName": "Griffin",
+                  "firstName": "Ben",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "89",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "29725",
+                  "lastName": "Finau",
+                  "firstName": "Tony",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "90",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "33674",
+                  "lastName": "Meronk",
+                  "firstName": "Adrian",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "45522",
+                  "lastName": "Bezuidenhout",
+                  "firstName": "Christiaan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "91",
+              "matchStatus": "Complete",
+              "score": "CON",
+              "players": [
+                {
+                  "playerId": "47483",
+                  "lastName": "Zalatoris",
+                  "firstName": "Will",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                },
+                {
+                  "playerId": "29936",
+                  "lastName": "Fox",
+                  "firstName": "Ryan",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "92",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "34099",
+                  "lastName": "English",
+                  "firstName": "Harris",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "34256",
+                  "lastName": "Putnam",
+                  "firstName": "Andrew",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "93",
+              "matchStatus": "Complete",
+              "score": "5 & 3",
+              "players": [
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "3-0-0"
+                },
+                {
+                  "playerId": "49960",
+                  "lastName": "Straka",
+                  "firstName": "Sepp",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-3-0"
+                }
+              ]
+            },
+            {
+              "matchId": "94",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "39997",
+                  "lastName": "Conners",
+                  "firstName": "Corey",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                },
+                {
+                  "playerId": "58168",
+                  "lastName": "Thompson",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "95",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "46970",
+                  "lastName": "Rahm",
+                  "firstName": "Jon",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-2-0"
+                },
+                {
+                  "playerId": "29420",
+                  "lastName": "Horschel",
+                  "firstName": "Billy",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-1"
+                }
+              ]
+            },
+            {
+              "matchId": "96",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "39546",
+                  "lastName": "Mitchell",
+                  "firstName": "Keith",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-1"
+                },
+                {
+                  "playerId": "32102",
+                  "lastName": "Fowler",
+                  "firstName": "Rickie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-1-0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 2,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "33",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "29725",
+                  "lastName": "Finau",
+                  "firstName": "Tony",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "33674",
+                  "lastName": "Meronk",
+                  "firstName": "Adrian",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "34",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "45522",
+                  "lastName": "Bezuidenhout",
+                  "firstName": "Christiaan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "35",
+              "matchStatus": "Complete",
+              "score": "5 & 3",
+              "players": [
+                {
+                  "playerId": "47483",
+                  "lastName": "Zalatoris",
+                  "firstName": "Will",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "34099",
+                  "lastName": "English",
+                  "firstName": "Harris",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "36",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "29936",
+                  "lastName": "Fox",
+                  "firstName": "Ryan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "34256",
+                  "lastName": "Putnam",
+                  "firstName": "Andrew",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "37",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "39997",
+                  "lastName": "Conners",
+                  "firstName": "Corey",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "38",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "49960",
+                  "lastName": "Straka",
+                  "firstName": "Sepp",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "58168",
+                  "lastName": "Thompson",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "39",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "46970",
+                  "lastName": "Rahm",
+                  "firstName": "Jon",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "39546",
+                  "lastName": "Mitchell",
+                  "firstName": "Keith",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                }
+              ]
+            },
+            {
+              "matchId": "40",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "29420",
+                  "lastName": "Horschel",
+                  "firstName": "Billy",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-1"
+                },
+                {
+                  "playerId": "32102",
+                  "lastName": "Fowler",
+                  "firstName": "Rickie",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "41",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "34046",
+                  "lastName": "Spieth",
+                  "firstName": "Jordan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "55789",
+                  "lastName": "Montgomery",
+                  "firstName": "Taylor",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "42",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "33204",
+                  "lastName": "Lowry",
+                  "firstName": "Shane",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "43",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "39977",
+                  "lastName": "Homa",
+                  "firstName": "Max",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "29478",
+                  "lastName": "Kisner",
+                  "firstName": "Kevin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "44",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "32839",
+                  "lastName": "Matsuyama",
+                  "firstName": "Hideki",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "50493",
+                  "lastName": "Suh",
+                  "firstName": "Justin",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "45",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "24502",
+                  "lastName": "Scott",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "46",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "28252",
+                  "lastName": "Power",
+                  "firstName": "Seamus",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "33399",
+                  "lastName": "Hadwin",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "47",
+              "matchStatus": "Complete",
+              "score": "4 & 2",
+              "players": [
+                {
+                  "playerId": "35450",
+                  "lastName": "Cantlay",
+                  "firstName": "Patrick",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "32791",
+                  "lastName": "Lee",
+                  "firstName": "K.H.",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "48",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "27644",
+                  "lastName": "Harman",
+                  "firstName": "Brian",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "25493",
+                  "lastName": "Taylor",
+                  "firstName": "Nick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "49",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "50525",
+                  "lastName": "Morikawa",
+                  "firstName": "Collin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-0-1"
+                },
+                {
+                  "playerId": "40115",
+                  "lastName": "Svensson",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                }
+              ]
+            },
+            {
+              "matchId": "50",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "28089",
+                  "lastName": "Day",
+                  "firstName": "Jason",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "47679",
+                  "lastName": "Perez",
+                  "firstName": "Victor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "51",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "46717",
+                  "lastName": "Hovland",
+                  "firstName": "Viktor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "37455",
+                  "lastName": "Kim",
+                  "firstName": "Si Woo",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "52",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "30926",
+                  "lastName": "Kirk",
+                  "firstName": "Chris",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                },
+                {
+                  "playerId": "23108",
+                  "lastName": "Kuchar",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-0-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "53",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "39971",
+                  "lastName": "Im",
+                  "firstName": "Sungjae",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "49771",
+                  "lastName": "Poston",
+                  "firstName": "J.T.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "54",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "30911",
+                  "lastName": "Fleetwood",
+                  "firstName": "Tommy",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                },
+                {
+                  "playerId": "46442",
+                  "lastName": "McNealy",
+                  "firstName": "Maverick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "55",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "27349",
+                  "lastName": "Noren",
+                  "firstName": "Alex",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            },
+            {
+              "matchId": "56",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "55182",
+                  "lastName": "Kim",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "47995",
+                  "lastName": "Riley",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "57",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "40098",
+                  "lastName": "Fitzpatrick",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "37378",
+                  "lastName": "Lee",
+                  "firstName": "Min Woo",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "58",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "51634",
+                  "lastName": "Theegala",
+                  "firstName": "Sahith",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "39324",
+                  "lastName": "Spaun",
+                  "firstName": "J.J.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "59",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "48081",
+                  "lastName": "Schauffele",
+                  "firstName": "Xander",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "49964",
+                  "lastName": "Wise",
+                  "firstName": "Aaron",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "60",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "35532",
+                  "lastName": "Hoge",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "45157",
+                  "lastName": "Davis",
+                  "firstName": "Cam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "61",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "34363",
+                  "lastName": "Hatton",
+                  "firstName": "Tyrrell",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                },
+                {
+                  "playerId": "39058",
+                  "lastName": "Herbert",
+                  "firstName": "Lucas",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "62",
+              "matchStatus": "Complete",
+              "score": "5 & 4",
+              "players": [
+                {
+                  "playerId": "34098",
+                  "lastName": "Henley",
+                  "firstName": "Russell",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-1-0"
+                },
+                {
+                  "playerId": "54591",
+                  "lastName": "Griffin",
+                  "firstName": "Ben",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "1-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "63",
+              "matchStatus": "Complete",
+              "score": "2 UP",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "2-0-0"
+                },
+                {
+                  "playerId": "47993",
+                  "lastName": "McCarthy",
+                  "firstName": "Denny",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-1"
+                }
+              ]
+            },
+            {
+              "matchId": "64",
+              "matchStatus": "Complete",
+              "score": "6 & 5",
+              "players": [
+                {
+                  "playerId": "33141",
+                  "lastName": "Bradley",
+                  "firstName": "Keegan",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-1"
+                },
+                {
+                  "playerId": "30692",
+                  "lastName": "Stallings",
+                  "firstName": "Scott",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-2-0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roundId": 1,
+      "brackets": [
+        {
+          "matches": [
+            {
+              "matchId": "1",
+              "matchStatus": "Complete",
+              "score": "5 & 3",
+              "players": [
+                {
+                  "playerId": "40098",
+                  "lastName": "Fitzpatrick",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "39324",
+                  "lastName": "Spaun",
+                  "firstName": "J.J.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "2",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "51634",
+                  "lastName": "Theegala",
+                  "firstName": "Sahith",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "37378",
+                  "lastName": "Lee",
+                  "firstName": "Min Woo",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "3",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "48081",
+                  "lastName": "Schauffele",
+                  "firstName": "Xander",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "45157",
+                  "lastName": "Davis",
+                  "firstName": "Cam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "4",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "35532",
+                  "lastName": "Hoge",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "49964",
+                  "lastName": "Wise",
+                  "firstName": "Aaron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "5",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "34363",
+                  "lastName": "Hatton",
+                  "firstName": "Tyrrell",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "54591",
+                  "lastName": "Griffin",
+                  "firstName": "Ben",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "6",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "34098",
+                  "lastName": "Henley",
+                  "firstName": "Russell",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "39058",
+                  "lastName": "Herbert",
+                  "firstName": "Lucas",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "7",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "28237",
+                  "lastName": "McIlroy",
+                  "firstName": "Rory",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "30692",
+                  "lastName": "Stallings",
+                  "firstName": "Scott",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "8",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "33141",
+                  "lastName": "Bradley",
+                  "firstName": "Keegan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-0-1"
+                },
+                {
+                  "playerId": "47993",
+                  "lastName": "McCarthy",
+                  "firstName": "Denny",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-0-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "9",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "29725",
+                  "lastName": "Finau",
+                  "firstName": "Tony",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "45522",
+                  "lastName": "Bezuidenhout",
+                  "firstName": "Christiaan",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "10",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "48117",
+                  "lastName": "Kitayama",
+                  "firstName": "Kurt",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "33674",
+                  "lastName": "Meronk",
+                  "firstName": "Adrian",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "11",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "47483",
+                  "lastName": "Zalatoris",
+                  "firstName": "Will",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "34256",
+                  "lastName": "Putnam",
+                  "firstName": "Andrew",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "12",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "29936",
+                  "lastName": "Fox",
+                  "firstName": "Ryan",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "34099",
+                  "lastName": "English",
+                  "firstName": "Harris",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "13",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "57366",
+                  "lastName": "Young",
+                  "firstName": "Cameron",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "58168",
+                  "lastName": "Thompson",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "14",
+              "matchStatus": "Complete",
+              "score": "6 & 5",
+              "players": [
+                {
+                  "playerId": "49960",
+                  "lastName": "Straka",
+                  "firstName": "Sepp",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "39997",
+                  "lastName": "Conners",
+                  "firstName": "Corey",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "15",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "46970",
+                  "lastName": "Rahm",
+                  "firstName": "Jon",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "32102",
+                  "lastName": "Fowler",
+                  "firstName": "Rickie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "16",
+              "matchStatus": "Complete",
+              "score": "AS",
+              "players": [
+                {
+                  "playerId": "29420",
+                  "lastName": "Horschel",
+                  "firstName": "Billy",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-0-1"
+                },
+                {
+                  "playerId": "39546",
+                  "lastName": "Mitchell",
+                  "firstName": "Keith",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-0-1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "17",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "34046",
+                  "lastName": "Spieth",
+                  "firstName": "Jordan",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "35506",
+                  "lastName": "Hughes",
+                  "firstName": "Mackenzie",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "18",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "33204",
+                  "lastName": "Lowry",
+                  "firstName": "Shane",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "55789",
+                  "lastName": "Montgomery",
+                  "firstName": "Taylor",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "19",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "39977",
+                  "lastName": "Homa",
+                  "firstName": "Max",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "50493",
+                  "lastName": "Suh",
+                  "firstName": "Justin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "20",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "32839",
+                  "lastName": "Matsuyama",
+                  "firstName": "Hideki",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "29478",
+                  "lastName": "Kisner",
+                  "firstName": "Kevin",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "21",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "47504",
+                  "lastName": "Burns",
+                  "firstName": "Sam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "33399",
+                  "lastName": "Hadwin",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "22",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "28252",
+                  "lastName": "Power",
+                  "firstName": "Seamus",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "24502",
+                  "lastName": "Scott",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "23",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "35450",
+                  "lastName": "Cantlay",
+                  "firstName": "Patrick",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "25493",
+                  "lastName": "Taylor",
+                  "firstName": "Nick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "24",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "27644",
+                  "lastName": "Harman",
+                  "firstName": "Brian",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "32791",
+                  "lastName": "Lee",
+                  "firstName": "K.H.",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "25",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "50525",
+                  "lastName": "Morikawa",
+                  "firstName": "Collin",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "47679",
+                  "lastName": "Perez",
+                  "firstName": "Victor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "26",
+              "matchStatus": "Complete",
+              "score": "4 & 2",
+              "players": [
+                {
+                  "playerId": "28089",
+                  "lastName": "Day",
+                  "firstName": "Jason",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "40115",
+                  "lastName": "Svensson",
+                  "firstName": "Adam",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "27",
+              "matchStatus": "Complete",
+              "score": "3 & 1",
+              "players": [
+                {
+                  "playerId": "46717",
+                  "lastName": "Hovland",
+                  "firstName": "Viktor",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "23108",
+                  "lastName": "Kuchar",
+                  "firstName": "Matt",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            },
+            {
+              "matchId": "28",
+              "matchStatus": "Complete",
+              "score": "4 & 3",
+              "players": [
+                {
+                  "playerId": "30926",
+                  "lastName": "Kirk",
+                  "firstName": "Chris",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "37455",
+                  "lastName": "Kim",
+                  "firstName": "Si Woo",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "29",
+              "matchStatus": "Complete",
+              "score": "8 & 6",
+              "players": [
+                {
+                  "playerId": "39971",
+                  "lastName": "Im",
+                  "firstName": "Sungjae",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "46442",
+                  "lastName": "McNealy",
+                  "firstName": "Maverick",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "30",
+              "matchStatus": "Complete",
+              "score": "3 & 2",
+              "players": [
+                {
+                  "playerId": "30911",
+                  "lastName": "Fleetwood",
+                  "firstName": "Tommy",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                },
+                {
+                  "playerId": "49771",
+                  "lastName": "Poston",
+                  "firstName": "J.T.",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "matches": [
+            {
+              "matchId": "31",
+              "matchStatus": "Complete",
+              "score": "1 UP",
+              "players": [
+                {
+                  "playerId": "46046",
+                  "lastName": "Scheffler",
+                  "firstName": "Scottie",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "47995",
+                  "lastName": "Riley",
+                  "firstName": "Davis",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            },
+            {
+              "matchId": "32",
+              "matchStatus": "Complete",
+              "score": "2 & 1",
+              "players": [
+                {
+                  "playerId": "55182",
+                  "lastName": "Kim",
+                  "firstName": "Tom",
+                  "isAmateur": false,
+                  "isWinning": true,
+                  "record": "1-0-0"
+                },
+                {
+                  "playerId": "27349",
+                  "lastName": "Noren",
+                  "firstName": "Alex",
+                  "isAmateur": false,
+                  "isWinning": false,
+                  "record": "0-1-0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "1",
+      "leaderboard": [
+        {
+          "playerId": "46046",
+          "firstName": "Scottie",
+          "lastName": "Scheffler",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "47995",
+          "firstName": "Davis",
+          "lastName": "Riley",
+          "position": "2",
+          "wins": "1",
+          "losses": "1",
+          "ties": "1",
+          "points": "1.5"
+        },
+        {
+          "playerId": "55182",
+          "firstName": "Tom",
+          "lastName": "Kim",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "27349",
+          "firstName": "Alex",
+          "lastName": "Noren",
+          "position": "4",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    },
+    {
+      "groupId": "2",
+      "leaderboard": [
+        {
+          "playerId": "29420",
+          "firstName": "Billy",
+          "lastName": "Horschel",
+          "position": "1",
+          "wins": "2",
+          "losses": "0",
+          "ties": "1",
+          "points": "2.5"
+        },
+        {
+          "playerId": "32102",
+          "firstName": "Rickie",
+          "lastName": "Fowler",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "46970",
+          "firstName": "Jon",
+          "lastName": "Rahm",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "39546",
+          "firstName": "Keith",
+          "lastName": "Mitchell",
+          "position": "4",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    },
+    {
+      "groupId": "3",
+      "leaderboard": [
+        {
+          "playerId": "28237",
+          "firstName": "Rory",
+          "lastName": "McIlroy",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "33141",
+          "firstName": "Keegan",
+          "lastName": "Bradley",
+          "position": "2",
+          "wins": "1",
+          "losses": "1",
+          "ties": "1",
+          "points": "1.5"
+        },
+        {
+          "playerId": "30692",
+          "firstName": "Scott",
+          "lastName": "Stallings",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "47993",
+          "firstName": "Denny",
+          "lastName": "McCarthy",
+          "position": "4",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    },
+    {
+      "groupId": "4",
+      "leaderboard": [
+        {
+          "playerId": "35450",
+          "firstName": "Patrick",
+          "lastName": "Cantlay",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "27644",
+          "firstName": "Brian",
+          "lastName": "Harman",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "25493",
+          "firstName": "Nick",
+          "lastName": "Taylor",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "32791",
+          "firstName": "K.H.",
+          "lastName": "Lee",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "5",
+      "leaderboard": [
+        {
+          "playerId": "39977",
+          "firstName": "Max",
+          "lastName": "Homa",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "32839",
+          "firstName": "Hideki",
+          "lastName": "Matsuyama",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "29478",
+          "firstName": "Kevin",
+          "lastName": "Kisner",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "50493",
+          "firstName": "Justin",
+          "lastName": "Suh",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "groupId": "6",
+      "leaderboard": [
+        {
+          "playerId": "48081",
+          "firstName": "Xander",
+          "lastName": "Schauffele",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "45157",
+          "firstName": "Cam",
+          "lastName": "Davis",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "49964",
+          "firstName": "Aaron",
+          "lastName": "Wise",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "35532",
+          "firstName": "Tom",
+          "lastName": "Hoge",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "7",
+      "leaderboard": [
+        {
+          "playerId": "34256",
+          "firstName": "Andrew",
+          "lastName": "Putnam",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "29936",
+          "firstName": "Ryan",
+          "lastName": "Fox",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "34099",
+          "firstName": "Harris",
+          "lastName": "English",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "47483",
+          "firstName": "Will",
+          "lastName": "Zalatoris",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "8",
+      "leaderboard": [
+        {
+          "playerId": "23108",
+          "firstName": "Matt",
+          "lastName": "Kuchar",
+          "position": "1",
+          "wins": "2",
+          "losses": "0",
+          "ties": "1",
+          "points": "2.5"
+        },
+        {
+          "playerId": "37455",
+          "firstName": "Si Woo",
+          "lastName": "Kim",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "46717",
+          "firstName": "Viktor",
+          "lastName": "Hovland",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "30926",
+          "firstName": "Chris",
+          "lastName": "Kirk",
+          "position": "4",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    },
+    {
+      "groupId": "9",
+      "leaderboard": [
+        {
+          "playerId": "28089",
+          "firstName": "Jason",
+          "lastName": "Day",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "50525",
+          "firstName": "Collin",
+          "lastName": "Morikawa",
+          "position": "2",
+          "wins": "1",
+          "losses": "1",
+          "ties": "1",
+          "points": "1.5"
+        },
+        {
+          "playerId": "47679",
+          "firstName": "Victor",
+          "lastName": "Perez",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "40115",
+          "firstName": "Adam",
+          "lastName": "Svensson",
+          "position": "4",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    },
+    {
+      "groupId": "10",
+      "leaderboard": [
+        {
+          "playerId": "48117",
+          "firstName": "Kurt",
+          "lastName": "Kitayama *",
+          "position": "1",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "29725",
+          "firstName": "Tony",
+          "lastName": "Finau",
+          "position": "T2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "33674",
+          "firstName": "Adrian",
+          "lastName": "Meronk",
+          "position": "T2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "45522",
+          "firstName": "Christiaan",
+          "lastName": "Bezuidenhout",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "11",
+      "leaderboard": [
+        {
+          "playerId": "39324",
+          "firstName": "J.J.",
+          "lastName": "Spaun",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "40098",
+          "firstName": "Matt",
+          "lastName": "Fitzpatrick",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "51634",
+          "firstName": "Sahith",
+          "lastName": "Theegala",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "37378",
+          "firstName": "Min Woo",
+          "lastName": "Lee",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "groupId": "12",
+      "leaderboard": [
+        {
+          "playerId": "35506",
+          "firstName": "Mackenzie",
+          "lastName": "Hughes *",
+          "position": "1",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "55789",
+          "firstName": "Taylor",
+          "lastName": "Montgomery",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "34046",
+          "firstName": "Jordan",
+          "lastName": "Spieth",
+          "position": "T3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "33204",
+          "firstName": "Shane",
+          "lastName": "Lowry",
+          "position": "T3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "groupId": "13",
+      "leaderboard": [
+        {
+          "playerId": "47504",
+          "firstName": "Sam",
+          "lastName": "Burns",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "28252",
+          "firstName": "Seamus",
+          "lastName": "Power",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "24502",
+          "firstName": "Adam",
+          "lastName": "Scott",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "33399",
+          "firstName": "Adam",
+          "lastName": "Hadwin",
+          "position": "T2",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "groupId": "14",
+      "leaderboard": [
+        {
+          "playerId": "39058",
+          "firstName": "Lucas",
+          "lastName": "Herbert",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "34098",
+          "firstName": "Russell",
+          "lastName": "Henley",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "54591",
+          "firstName": "Ben",
+          "lastName": "Griffin",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "34363",
+          "firstName": "Tyrrell",
+          "lastName": "Hatton",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "15",
+      "leaderboard": [
+        {
+          "playerId": "57366",
+          "firstName": "Cameron",
+          "lastName": "Young",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "39997",
+          "firstName": "Corey",
+          "lastName": "Conners",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "58168",
+          "firstName": "Davis",
+          "lastName": "Thompson",
+          "position": "3",
+          "wins": "1",
+          "losses": "2",
+          "ties": "0",
+          "points": "1"
+        },
+        {
+          "playerId": "49960",
+          "firstName": "Sepp",
+          "lastName": "Straka",
+          "position": "4",
+          "wins": "0",
+          "losses": "3",
+          "ties": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "groupId": "16",
+      "leaderboard": [
+        {
+          "playerId": "49771",
+          "firstName": "J.T.",
+          "lastName": "Poston",
+          "position": "1",
+          "wins": "3",
+          "losses": "0",
+          "ties": "0",
+          "points": "3"
+        },
+        {
+          "playerId": "39971",
+          "firstName": "Sungjae",
+          "lastName": "Im",
+          "position": "2",
+          "wins": "2",
+          "losses": "1",
+          "ties": "0",
+          "points": "2"
+        },
+        {
+          "playerId": "30911",
+          "firstName": "Tommy",
+          "lastName": "Fleetwood",
+          "position": "T3",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        },
+        {
+          "playerId": "46442",
+          "firstName": "Maverick",
+          "lastName": "McNealy",
+          "position": "T3",
+          "wins": "0",
+          "losses": "2",
+          "ties": "1",
+          "points": "0.5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4992 @@
+{
+  "orgId": "1",
+  "tournId": "457",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "year": "2023",
+  "cutLines": [
+    {
+      "cutCount": 68,
+      "cutScore": "-4"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "courseId": "733",
+      "status": "active",
+      "total": "-23",
+      "currentRoundScore": "-1",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "261",
+      "roundComplete": true,
+      "teeTime": "1:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "courseId": "733",
+      "status": "active",
+      "total": "-19",
+      "currentRoundScore": "-5",
+      "position": "2",
+      "totalStrokesFromCompletedRounds": "265",
+      "roundComplete": true,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "courseId": "733",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-9",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 62,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "courseId": "733",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-6",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "courseId": "733",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "courseId": "733",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-3",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "12:50pm",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "courseId": "733",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "1:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "courseId": "733",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-6",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "courseId": "733",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-6",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "courseId": "733",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "11:05am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "courseId": "733",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "11:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "courseId": "733",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "11:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "courseId": "733",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-3",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "12:30pm",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "courseId": "733",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "E",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "12:50pm",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-7",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:15am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:15am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "courseId": "733",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "12:30pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-7",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "8:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-5",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "9:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-5",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "9:50am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-4",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "10:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "11:05am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "courseId": "733",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "12:20pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "courseId": "733",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T27",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "courseId": "733",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T27",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "10:00am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Huh",
+      "firstName": "John",
+      "playerId": "34174",
+      "courseId": "733",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "position": "T27",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "10:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "courseId": "733",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "position": "T27",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "10:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "courseId": "733",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "position": "T27",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "10:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-4",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "9:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "10:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Burmester",
+      "firstName": "Dean",
+      "playerId": "33974",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "11:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "12:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "12:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 2,
+          "strokes": 62,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "courseId": "733",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "courseId": "733",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-7",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "courseId": "733",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-5",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "8:35am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "courseId": "733",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "10:00am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "courseId": "733",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "E",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-6",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "7:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "8:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "9:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "10:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "10:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "courseId": "733",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "+3",
+      "position": "T42",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "12:20pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "courseId": "733",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-5",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "7:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "courseId": "733",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-5",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "8:05am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Knowles",
+      "firstName": "Philip",
+      "playerId": "54813",
+      "courseId": "733",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "courseId": "733",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "9:00am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "courseId": "733",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "+1",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "10:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "courseId": "733",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-4",
+      "position": "T53",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "7:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "courseId": "733",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-4",
+      "position": "T53",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "7:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "courseId": "733",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "position": "T53",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "8:15am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "courseId": "733",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "8:15am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Muñoz",
+      "firstName": "Sebastián",
+      "playerId": "48822",
+      "courseId": "733",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "8:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "courseId": "733",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "9:20am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "courseId": "733",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "position": "T59",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "7:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "courseId": "733",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "position": "T59",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "courseId": "733",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "position": "T59",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "9:00am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "courseId": "733",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+2",
+      "position": "T59",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "courseId": "733",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+3",
+      "position": "63",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "9:20am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Danny",
+      "playerId": "29926",
+      "courseId": "733",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "7:25am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "courseId": "733",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "8:05am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sabbatini",
+      "firstName": "Rory",
+      "playerId": "23621",
+      "courseId": "733",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "+1",
+      "position": "T66",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "courseId": "733",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "+1",
+      "position": "T66",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "7:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "courseId": "733",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+4",
+      "position": "68",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "teeTime": "",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Benitez",
+      "firstName": "Isidro",
+      "playerId": "49117",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Westmoreland",
+      "firstName": "Kyle",
+      "playerId": "52411",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Ryan",
+      "playerId": "60065",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Trace",
+      "firstName": "Travis",
+      "playerId": "56490",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Favela",
+      "firstName": "Armando",
+      "playerId": "34136",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Vázquez",
+      "firstName": "Sebastián",
+      "playerId": "35469",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "courseId": "733",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "courseId": "733",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "courseId": "733",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "courseId": "733",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "courseId": "733",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "courseId": "733",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rodríguez",
+      "firstName": "José de Jesús",
+      "playerId": "32058",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Arnaus",
+      "firstName": "Adri",
+      "playerId": "52096",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Marin Santander",
+      "firstName": "Enrique",
+      "playerId": "60422",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Landry",
+      "firstName": "Andrew",
+      "playerId": "33410",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "C.T.",
+      "playerId": "29908",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Brian",
+      "playerId": "21753",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "148",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "148",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Adamonis",
+      "firstName": "Brad",
+      "playerId": "23778",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+13",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "155",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Vick",
+      "firstName": "Travis",
+      "isAmateur": true,
+      "playerId": "63123",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+13",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "155",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "courseId": "733",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "156",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "courseId": "733",
+      "status": "wd",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "75",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "courseId": "733",
+      "status": "wd",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "101",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        },
+        {
+          "scoreToPar": "-44",
+          "roundId": 2,
+          "strokes": 27,
+          "courseId": "733",
+          "courseName": "El Camaleón Golf Course at Mayakoba"
+        }
+      ],
+      "currentHole": 15,
+      "startingHole": 1
+    }
+  ],
+  "status": "Official",
+  "lastUpdated": "2022-11-06T17:12:45",
+  "timestamp": "2022-11-07T07:25:09.927000"
+}

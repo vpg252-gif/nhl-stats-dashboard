@@ -1,0 +1,5985 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "026",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-06-19T02:37:17.881000",
+  "timestamp": "2023-06-19T02:37:17.881000",
+  "cutLines": [
+    {
+      "cutCount": 91,
+      "cutScore": "+2"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "1",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:30pm"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "2",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:19pm"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "3",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:19pm"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Cameron",
+      "playerId": "35891",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "4",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:35pm"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T5",
+      "total": "-5",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:51am"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T5",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:19pm"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T5",
+      "total": "-5",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:30pm"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:46pm"
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:08pm"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T10",
+      "total": "-3",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:29am"
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "playerId": "46970",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T10",
+      "total": "-3",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:02am"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T10",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:57pm"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Dustin",
+      "playerId": "30925",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T10",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:08pm"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T14",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:35pm"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T14",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:57pm"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T14",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:08pm"
+    },
+    {
+      "lastName": "Koepka",
+      "firstName": "Brooks",
+      "playerId": "36689",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T17",
+      "total": "-1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:24pm"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T17",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:57pm"
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "19",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:19pm"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Jordan",
+      "playerId": "46464",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:07am"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:13am"
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:02pm"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:46pm"
+    },
+    {
+      "lastName": "DeChambeau",
+      "firstName": "Bryson",
+      "playerId": "47959",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:46pm"
+    },
+    {
+      "lastName": "Nagano",
+      "firstName": "Ryutaro",
+      "playerId": "28521",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T20",
+      "total": "+1",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:57pm"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T27",
+      "total": "+2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:18am"
+    },
+    {
+      "lastName": "Garcia",
+      "firstName": "Sergio",
+      "playerId": "21209",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T27",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T27",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:51am"
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T27",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:24pm"
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Padraig",
+      "playerId": "20766",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T27",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:08pm"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:02am"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:24am"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:02pm"
+    },
+    {
+      "lastName": "Niemann",
+      "firstName": "Joaquin",
+      "playerId": "45486",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:13pm"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:35pm"
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:46pm"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T32",
+      "total": "+3",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:35pm"
+    },
+    {
+      "lastName": "Puig",
+      "firstName": "David",
+      "playerId": "61193",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T39",
+      "total": "+4",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:56am"
+    },
+    {
+      "lastName": "Sargent",
+      "firstName": "Gordon",
+      "playerId": "64442",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T39",
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T39",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:51am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T39",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:13pm"
+    },
+    {
+      "lastName": "Bennett",
+      "firstName": "Sam",
+      "playerId": "59652",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:29am"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:51am"
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:24am"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:35am"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T43",
+      "total": "+5",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:35am"
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T49",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:29am"
+    },
+    {
+      "lastName": "Muñoz",
+      "firstName": "Sebastián",
+      "playerId": "48822",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T49",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:07am"
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T49",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:18am"
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T49",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T49",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:13am"
+    },
+    {
+      "lastName": "Langasque",
+      "firstName": "Romain",
+      "playerId": "37250",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T54",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:07am"
+    },
+    {
+      "lastName": "Ancer",
+      "firstName": "Abraham",
+      "playerId": "45526",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T54",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:18am"
+    },
+    {
+      "lastName": "Reed",
+      "firstName": "Patrick",
+      "playerId": "34360",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T56",
+      "total": "+8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:34am"
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T56",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:29am"
+    },
+    {
+      "lastName": "Katsuragawa",
+      "firstName": "Yuto",
+      "playerId": "48632",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "58",
+      "total": "+9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "59",
+      "total": "+11",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:18am"
+    },
+    {
+      "lastName": "Solomon",
+      "firstName": "Jacob",
+      "playerId": "58669",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T60",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:34am"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "T60",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Carr",
+      "firstName": "Ben",
+      "playerId": "60006",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "complete",
+      "position": "62",
+      "total": "+13",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:56am"
+    },
+    {
+      "lastName": "Ishikawa",
+      "firstName": "Ryo",
+      "playerId": "30852",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "complete",
+      "position": "63",
+      "total": "+14",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:23am"
+    },
+    {
+      "lastName": "Potgieter",
+      "firstName": "Aldrich",
+      "playerId": "63343",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "complete",
+      "position": "64",
+      "total": "+15",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:07am"
+    },
+    {
+      "lastName": "Moldovan",
+      "firstName": "Maxwell",
+      "playerId": "57860",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "complete",
+      "position": "65",
+      "total": "+17",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "297",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mickelson",
+      "firstName": "Phil",
+      "playerId": "01810",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meronk",
+      "firstName": "Adrian",
+      "playerId": "33674",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pereira",
+      "firstName": "Mito",
+      "playerId": "47529",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cover",
+      "firstName": "Patrick",
+      "playerId": "56284",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barjon",
+      "firstName": "Paul",
+      "playerId": "37212",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mueller",
+      "firstName": "Kyle",
+      "playerId": "50489",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svoboda",
+      "firstName": "Andy",
+      "playerId": "29425",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+3",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Forsström",
+      "firstName": "Simon",
+      "playerId": "47960",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grey",
+      "firstName": "J.J.",
+      "playerId": "51865",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pieters",
+      "firstName": "Thomas",
+      "playerId": "33293",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+4",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fisher",
+      "firstName": "Ross",
+      "playerId": "27896",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Nienaber",
+      "firstName": "Wilco",
+      "playerId": "56272",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Truslow",
+      "firstName": "Austen",
+      "playerId": "45733",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Germishuys",
+      "firstName": "Deon",
+      "playerId": "56266",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Scott",
+      "playerId": "30692",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sloan",
+      "firstName": "Roger",
+      "playerId": "33486",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Barclay",
+      "playerId": "63342",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+5",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Summerhays",
+      "firstName": "Preston",
+      "playerId": "57298",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kaymer",
+      "firstName": "Martin",
+      "playerId": "27408",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thorbjornsen",
+      "firstName": "Michael",
+      "playerId": "57364",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gumberg",
+      "firstName": "Jordan",
+      "playerId": "51989",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Amat",
+      "firstName": "Bastien",
+      "playerId": "60405",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+6",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Del Rey",
+      "firstName": "Alejandro",
+      "playerId": "50762",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Nyfjall",
+      "firstName": "David",
+      "playerId": "64431",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Browne Jr.",
+      "firstName": "Olin",
+      "playerId": "36892",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pereira",
+      "firstName": "Corey",
+      "playerId": "48129",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dantorp",
+      "firstName": "Jens",
+      "playerId": "33459",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Charoenkul",
+      "firstName": "Gunn",
+      "playerId": "33605",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schutte",
+      "firstName": "Jesse",
+      "playerId": "27986",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+7",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+8",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fernandez de Oliveira",
+      "firstName": "Mateo",
+      "playerId": "54278",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+8",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Larrazabal",
+      "firstName": "Pablo",
+      "playerId": "29670",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+8",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+8",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ortiz",
+      "firstName": "Carlos",
+      "playerId": "33667",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Vilips",
+      "firstName": "Karl",
+      "playerId": "54304",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cavaliere",
+      "firstName": "Christian",
+      "playerId": "58945",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Morales",
+      "firstName": "Omar",
+      "playerId": "64690",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ding",
+      "firstName": "Wenyi",
+      "playerId": "63196",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brennan",
+      "firstName": "Michael",
+      "playerId": "61522",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "playerId": "48153",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+9",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Henson",
+      "firstName": "Berry",
+      "playerId": "31121",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+10",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+10",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+10",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Victor",
+      "playerId": "47679",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Capan III",
+      "firstName": "Frankie",
+      "playerId": "49590",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schaake",
+      "firstName": "Alex",
+      "playerId": "55670",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "McClean",
+      "firstName": "Matthew",
+      "playerId": "57736",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+11",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+12",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Yang",
+      "firstName": "Alexander",
+      "playerId": "57865",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+13",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simmons",
+      "firstName": "Isaac",
+      "playerId": "60586",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+14",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+14",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Horsey",
+      "firstName": "David",
+      "playerId": "30909",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+16",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Valdes",
+      "firstName": "Brendan",
+      "playerId": "65110",
+      "isAmateur": true,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+16",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lebioda",
+      "firstName": "Hank",
+      "playerId": "49766",
+      "isAmateur": false,
+      "courseId": "043",
+      "status": "cut",
+      "position": "MC",
+      "total": "+20",
+      "currentRoundScore": "",
+      "totalStrokesFromCompletedRounds": "160",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 2,
+          "strokes": 83,
+          "courseId": "043",
+          "courseName": "The Los Angeles Country Club (North Course)"
+        }
+      ],
+      "currentRound": 2
+    }
+  ]
+}

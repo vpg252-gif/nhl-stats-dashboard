@@ -1,0 +1,5457 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "548",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-11-12T19:18:48.471000",
+  "timestamp": "2023-11-12T19:18:48.471000",
+  "cutLines": [
+    {
+      "cutCount": 51,
+      "cutScore": "-5"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "1",
+      "total": "-24",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "260",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "2",
+      "total": "-22",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "262",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "3",
+      "total": "-21",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "263",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "4",
+      "total": "-20",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "264",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T5",
+      "total": "-19",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T5",
+      "total": "-19",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "7",
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Tyson",
+      "playerId": "33408",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T8",
+      "total": "-17",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T8",
+      "total": "-17",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T8",
+      "total": "-17",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T8",
+      "total": "-17",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:10am"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T8",
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Biondi",
+      "firstName": "Fred",
+      "playerId": "55930",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:50am"
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Redman",
+      "firstName": "Doc",
+      "playerId": "53165",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:10am"
+    },
+    {
+      "lastName": "Kodaira",
+      "firstName": "Satoshi",
+      "playerId": "32816",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T13",
+      "total": "-16",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:40am"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Points",
+      "firstName": "D.A.",
+      "playerId": "25240",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T20",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T27",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Garrigus",
+      "firstName": "Robert",
+      "playerId": "24358",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T27",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T27",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:45am"
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:05am"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:25am"
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T30",
+      "total": "-13",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:40am"
+    },
+    {
+      "lastName": "Westmoreland",
+      "firstName": "Kyle",
+      "playerId": "52411",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:50am"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:50am"
+    },
+    {
+      "lastName": "O'Hair",
+      "firstName": "Sean",
+      "playerId": "24140",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Bryan",
+      "firstName": "Wesley",
+      "playerId": "48084",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:15am"
+    },
+    {
+      "lastName": "Gay",
+      "firstName": "Brian",
+      "playerId": "19846",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T37",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:40am"
+    },
+    {
+      "lastName": "Gribble",
+      "firstName": "Cody",
+      "playerId": "39954",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:45am"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:45am"
+    },
+    {
+      "lastName": "Landry",
+      "firstName": "Andrew",
+      "playerId": "33410",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:55am"
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:25am"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:35am"
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:10am"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:15am"
+    },
+    {
+      "lastName": "Kraft",
+      "firstName": "Kelly",
+      "playerId": "35879",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:05am"
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:15am"
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:25am"
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:35am"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:05am"
+    },
+    {
+      "lastName": "Kuest",
+      "firstName": "Peter",
+      "playerId": "58696",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T53",
+      "total": "-10",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:15am"
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:55am"
+    },
+    {
+      "lastName": "Trahan",
+      "firstName": "D.J.",
+      "playerId": "23788",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:05am"
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "McGirt",
+      "firstName": "William",
+      "playerId": "31202",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:05am"
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T63",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:15am"
+    },
+    {
+      "lastName": "Koch",
+      "firstName": "Greg",
+      "playerId": "59871",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T63",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:55am"
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T65",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T65",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:15am"
+    },
+    {
+      "lastName": "Contini",
+      "firstName": "Martin",
+      "playerId": "47154",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T65",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:25am"
+    },
+    {
+      "lastName": "Potter, Jr.",
+      "firstName": "Ted",
+      "playerId": "27556",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T65",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:45am"
+    },
+    {
+      "lastName": "Bryan, IV",
+      "firstName": "George",
+      "playerId": "51363",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T69",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T69",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:55am"
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T69",
+      "total": "-6",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:45am"
+    },
+    {
+      "lastName": "Noh",
+      "firstName": "S.Y.",
+      "playerId": "29289",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:55am"
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:05am"
+    },
+    {
+      "lastName": "Percy",
+      "firstName": "Cameron",
+      "playerId": "22056",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:35am"
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:35am"
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T76",
+      "total": "-4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:55am"
+    },
+    {
+      "lastName": "Stadler",
+      "firstName": "Kevin",
+      "playerId": "26679",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T76",
+      "total": "-4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:35am"
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T76",
+      "total": "-4",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:25am"
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "T76",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:35am"
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "80",
+      "total": "-2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:25am"
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Martin",
+      "playerId": "35617",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "complete",
+      "position": "81",
+      "total": "-1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:45am"
+    },
+    {
+      "lastName": "Atwal",
+      "firstName": "Arjun",
+      "playerId": "21407",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Ricky",
+      "playerId": "24846",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bennett",
+      "firstName": "Sam",
+      "playerId": "59652",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "C.T.",
+      "playerId": "29908",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gómez",
+      "firstName": "Fabián",
+      "playerId": "28679",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stroud",
+      "firstName": "Chris",
+      "playerId": "27963",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Scott",
+      "playerId": "29479",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": true,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Zhang",
+      "firstName": "Andy",
+      "playerId": "36698",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wilshire",
+      "firstName": "Kyle",
+      "playerId": "47579",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kang",
+      "firstName": "Sung",
+      "playerId": "27974",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Chase",
+      "playerId": "54869",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Brian",
+      "playerId": "21753",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Werbylo",
+      "firstName": "Trevor",
+      "playerId": "58967",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gainey",
+      "firstName": "Tommy",
+      "playerId": "30750",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Scott",
+      "playerId": "27554",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baker",
+      "firstName": "Chris",
+      "playerId": "33404",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Richard S.",
+      "playerId": "26420",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lebioda",
+      "firstName": "Hank",
+      "playerId": "49766",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Uresti",
+      "firstName": "Omar",
+      "playerId": "08385",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Crane",
+      "firstName": "Ben",
+      "playerId": "23541",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "McNeill",
+      "firstName": "George",
+      "playerId": "24490",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Goya",
+      "firstName": "Tano",
+      "playerId": "31577",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sims",
+      "firstName": "Michael",
+      "playerId": "26490",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Overton",
+      "firstName": "Jeff",
+      "playerId": "28475",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hearn",
+      "firstName": "David",
+      "playerId": "26758",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ernst",
+      "firstName": "Derek",
+      "playerId": "37273",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Van Pelt",
+      "firstName": "Bo",
+      "playerId": "23623",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Betschart",
+      "firstName": "Oliver",
+      "playerId": "66121",
+      "isAmateur": true,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Blixt",
+      "firstName": "Jonas",
+      "playerId": "27895",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chalmers",
+      "firstName": "Greg",
+      "playerId": "20593",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lamely",
+      "firstName": "Derek",
+      "playerId": "27797",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Scott",
+      "playerId": "66122",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Guise",
+      "firstName": "Danny",
+      "playerId": "49790",
+      "isAmateur": false,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 85,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "West",
+      "firstName": "Eric",
+      "playerId": "30681",
+      "isAmateur": true,
+      "courseId": "765",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "765",
+          "courseName": "Port Royal Golf Course"
+        }
+      ],
+      "currentRound": 2
+    }
+  ]
+}

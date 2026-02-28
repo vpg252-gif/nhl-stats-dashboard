@@ -1,0 +1,2010 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "018",
+  "roundId": 4,
+  "status": "Official",
+  "roundStatus": "Official",
+  "lastUpdated": "2025-04-27T23:35:52.819000",
+  "timestamp": "2025-04-27T23:35:52.819000",
+  "cutLines": [
+    {
+      "cutCount": 45,
+      "cutScore": "-10"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "teamId": "00130",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-28",
+      "currentRoundScore": "-1",
+      "position": "1",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "260",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Novak",
+          "firstName": "Andrew",
+          "playerId": "51997",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Griffin",
+          "firstName": "Ben",
+          "playerId": "54591",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00080",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-27",
+      "currentRoundScore": "-4",
+      "position": "2",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "261",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Højgaard",
+          "firstName": "Nicolai",
+          "playerId": "52453",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Højgaard",
+          "firstName": "Rasmus",
+          "playerId": "52686",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00045",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-26",
+      "currentRoundScore": "-2",
+      "position": "3",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "262",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Knapp",
+          "firstName": "Jake",
+          "playerId": "47420",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Capan III",
+          "firstName": "Frankie",
+          "playerId": "49590",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00106",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-25",
+      "currentRoundScore": "-4",
+      "position": "T4",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "263",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Lipsky",
+          "firstName": "David",
+          "playerId": "36326",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Wu",
+          "firstName": "Dylan",
+          "playerId": "54783",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00115",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-25",
+      "currentRoundScore": "-4",
+      "position": "T4",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "263",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Dickson",
+          "firstName": "Taylor",
+          "playerId": "51690",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Crowe",
+          "firstName": "Trace",
+          "playerId": "52514",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00089",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-25",
+      "currentRoundScore": "-4",
+      "position": "T4",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "263",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Vilips",
+          "firstName": "Karl",
+          "playerId": "54304",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Thorbjornsen",
+          "firstName": "Michael",
+          "playerId": "57364",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00021",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-25",
+      "currentRoundScore": "-3",
+      "position": "T4",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "263",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "List",
+          "firstName": "Luke",
+          "playerId": "27129",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Norlander",
+          "firstName": "Henrik",
+          "playerId": "30163",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00074",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-24",
+      "currentRoundScore": "-4",
+      "position": "T8",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "264",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Ramey",
+          "firstName": "Chad",
+          "playerId": "47983",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Lower",
+          "firstName": "Justin",
+          "playerId": "40162",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00145",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-24",
+      "currentRoundScore": "-1",
+      "position": "T8",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "264",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Salinda",
+          "firstName": "Isaiah",
+          "playerId": "56781",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Velo",
+          "firstName": "Kevin",
+          "playerId": "58619",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00151",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-23",
+      "currentRoundScore": "-5",
+      "position": "T10",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "265",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Bridgeman",
+          "firstName": "Jacob",
+          "playerId": "60004",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Phillips",
+          "firstName": "Chandler",
+          "playerId": "57900",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00029",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-23",
+      "currentRoundScore": "-3",
+      "position": "T10",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "265",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Buckley",
+          "firstName": "Hayden",
+          "playerId": "55708",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Thornberry",
+          "firstName": "Braden",
+          "playerId": "52144",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00107",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "-5",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Manassero",
+          "firstName": "Matteo",
+          "playerId": "33199",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Del Solar",
+          "firstName": "Cristobal",
+          "playerId": "39859",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00055",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "-3",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Gotterup",
+          "firstName": "Chris",
+          "playerId": "59095",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Cummins",
+          "firstName": "Quade",
+          "playerId": "58605",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00060",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "-3",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Taylor",
+          "firstName": "Nick",
+          "playerId": "25493",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hadwin",
+          "firstName": "Adam",
+          "playerId": "33399",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00147",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "-3",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Gerard",
+          "firstName": "Ryan",
+          "playerId": "59018",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Walker",
+          "firstName": "Danny",
+          "playerId": "54607",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00067",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "-2",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Straka",
+          "firstName": "Sepp",
+          "playerId": "49960",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Garnett",
+          "firstName": "Brice",
+          "playerId": "29535",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00096",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-22",
+      "currentRoundScore": "E",
+      "position": "T12",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "266",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "McIlroy",
+          "firstName": "Rory",
+          "playerId": "28237",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Lowry",
+          "firstName": "Shane",
+          "playerId": "33204",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00186",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "-7",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Poston",
+          "firstName": "J.T.",
+          "playerId": "49771",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Mitchell",
+          "firstName": "Keith",
+          "playerId": "39546",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00019",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "-2",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Castillo",
+          "firstName": "Ricky",
+          "playerId": "59440",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Mouw",
+          "firstName": "William",
+          "playerId": "63121",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00095",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "-2",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Lashley",
+          "firstName": "Nate",
+          "playerId": "28775",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Springer",
+          "firstName": "Hayden",
+          "playerId": "50484",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00057",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "-1",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Rai",
+          "firstName": "Aaron",
+          "playerId": "46414",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Theegala",
+          "firstName": "Sahith",
+          "playerId": "51634",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00177",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "E",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Mullinax",
+          "firstName": "Trey",
+          "playerId": "46601",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Shelton",
+          "firstName": "Robby",
+          "playerId": "46441",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00117",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-21",
+      "currentRoundScore": "+3",
+      "position": "T18",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "267",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Hisatsune",
+          "firstName": "Ryo",
+          "playerId": "51287",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Kanaya",
+          "firstName": "Takumi",
+          "playerId": "47917",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00157",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-20",
+      "currentRoundScore": "E",
+      "position": "T24",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "268",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Fisk",
+          "firstName": "Steven",
+          "playerId": "57123",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Widing",
+          "firstName": "Tim",
+          "playerId": "50474",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00128",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-20",
+      "currentRoundScore": "+1",
+      "position": "T24",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "268",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Stevens",
+          "firstName": "Sam",
+          "playerId": "55893",
+          "isAmateur": false
+        },
+        {
+          "lastName": "McGreevy",
+          "firstName": "Max",
+          "playerId": "51950",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00175",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-19",
+      "currentRoundScore": "+1",
+      "position": "T26",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "269",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Skinns",
+          "firstName": "David",
+          "playerId": "27139",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Taylor",
+          "firstName": "Ben",
+          "playerId": "48119",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00114",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-19",
+      "currentRoundScore": "+1",
+      "position": "T26",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "269",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Whaley",
+          "firstName": "Vince",
+          "playerId": "51894",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Albertson",
+          "firstName": "Anders",
+          "playerId": "49303",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00174",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "position": "T28",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "270",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Peterson",
+          "firstName": "Paul",
+          "playerId": "36824",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Rosenmueller",
+          "firstName": "Thomas",
+          "playerId": "60882",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00170",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "position": "T28",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "270",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Tway",
+          "firstName": "Kevin",
+          "playerId": "32333",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Cauley",
+          "firstName": "Bud",
+          "playerId": "34021",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00110",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-18",
+      "currentRoundScore": "+2",
+      "position": "T28",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "270",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Echavarria",
+          "firstName": "Nico",
+          "playerId": "51349",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Greyserman",
+          "firstName": "Max",
+          "playerId": "51977",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00169",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "position": "31",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "271",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Ventura",
+          "firstName": "Kris",
+          "playerId": "35658",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Rozner",
+          "firstName": "Antoine",
+          "playerId": "46646",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00046",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-16",
+      "currentRoundScore": "-1",
+      "position": "T32",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "272",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Detry",
+          "firstName": "Thomas",
+          "playerId": "33653",
+          "isAmateur": false
+        },
+        {
+          "lastName": "MacIntyre",
+          "firstName": "Robert",
+          "playerId": "52215",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00103",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-16",
+      "currentRoundScore": "E",
+      "position": "T32",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "272",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Riley",
+          "firstName": "Davis",
+          "playerId": "47995",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hardy",
+          "firstName": "Nick",
+          "playerId": "47988",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00182",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-16",
+      "currentRoundScore": "+6",
+      "position": "T32",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "272",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Davis",
+          "firstName": "Cam",
+          "playerId": "45157",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Svensson",
+          "firstName": "Adam",
+          "playerId": "40115",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00153",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-15",
+      "currentRoundScore": "E",
+      "position": "35",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "273",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Snedeker",
+          "firstName": "Brandt",
+          "playerId": "27649",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Reavie",
+          "firstName": "Chez",
+          "playerId": "26476",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00042",
+      "courseId": "714",
+      "currentRound": 4,
+      "total": "-14",
+      "currentRoundScore": "+2",
+      "position": "36",
+      "status": "ACTIVE",
+      "totalStrokesFromCompletedRounds": "274",
+      "startingHole": 1,
+      "currentHole": 18,
+      "players": [
+        {
+          "lastName": "Chappell",
+          "firstName": "Kevin",
+          "playerId": "32366",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hoge",
+          "firstName": "Tom",
+          "playerId": "35532",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00154",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Putnam",
+          "firstName": "Andrew",
+          "playerId": "34256",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hossler",
+          "firstName": "Beau",
+          "playerId": "35461",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00166",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Fitzpatrick",
+          "firstName": "Matt",
+          "playerId": "40098",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Fitzpatrick",
+          "firstName": "Alex",
+          "playerId": "55721",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00025",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Highsmith",
+          "firstName": "Joe",
+          "playerId": "60067",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Tosti",
+          "firstName": "Alejandro",
+          "playerId": "38991",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00087",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Meissner",
+          "firstName": "Mac",
+          "playerId": "59143",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Goodwin",
+          "firstName": "Noah",
+          "playerId": "55165",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00008",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Coody",
+          "firstName": "Pierceson",
+          "playerId": "59836",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Suber",
+          "firstName": "Jackson",
+          "playerId": "60019",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00027",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Ryder",
+          "firstName": "Sam",
+          "playerId": "37275",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hoey",
+          "firstName": "Rico",
+          "playerId": "51696",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00141",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Smalley",
+          "firstName": "Alex",
+          "playerId": "46340",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Bramlett",
+          "firstName": "Joseph",
+          "playerId": "34255",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00049",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Streb",
+          "firstName": "Robert",
+          "playerId": "34431",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Merritt",
+          "firstName": "Troy",
+          "playerId": "32640",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00063",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "van Rooyen",
+          "firstName": "Erik",
+          "playerId": "40006",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Bezuidenhout",
+          "firstName": "Christiaan",
+          "playerId": "45522",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00094",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-9",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "135",
+      "players": [
+        {
+          "lastName": "Hoshino",
+          "firstName": "Rikuya",
+          "playerId": "47056",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Onishi",
+          "firstName": "Kaito",
+          "playerId": "55623",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00032",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Schenk",
+          "firstName": "Adam",
+          "playerId": "47347",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Duncan",
+          "firstName": "Tyler",
+          "playerId": "45609",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00092",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Dahmen",
+          "firstName": "Joel",
+          "playerId": "34076",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Higgs",
+          "firstName": "Harry",
+          "playerId": "33597",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00148",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Clark",
+          "firstName": "Wyndham",
+          "playerId": "51766",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Moore",
+          "firstName": "Taylor",
+          "playerId": "49947",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00176",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Morikawa",
+          "firstName": "Collin",
+          "playerId": "50525",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Kitayama",
+          "firstName": "Kurt",
+          "playerId": "48117",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00011",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Wallace",
+          "firstName": "Matt",
+          "playerId": "48887",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Olesen",
+          "firstName": "Thorbjørn",
+          "playerId": "33968",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00020",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Svensson",
+          "firstName": "Jesper",
+          "playerId": "57586",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Norgaard",
+          "firstName": "Niklas",
+          "playerId": "35706",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00160",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "NeSmith",
+          "firstName": "Matt",
+          "playerId": "36871",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Chandler",
+          "firstName": "Will",
+          "playerId": "58933",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00172",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-8",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "136",
+      "players": [
+        {
+          "lastName": "Montgomery",
+          "firstName": "Taylor",
+          "playerId": "55789",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Pak",
+          "firstName": "John",
+          "playerId": "59160",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00075",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Valimaki",
+          "firstName": "Sami",
+          "playerId": "52666",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Silverman",
+          "firstName": "Ben",
+          "playerId": "39327",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00178",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Yu",
+          "firstName": "Kevin",
+          "playerId": "45242",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Vegas",
+          "firstName": "Jhonattan",
+          "playerId": "27064",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00144",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Gordon",
+          "firstName": "Will",
+          "playerId": "56762",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Riedel",
+          "firstName": "Matthew",
+          "playerId": "64693",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00187",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Paul",
+          "firstName": "Jeremy",
+          "playerId": "50582",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Paul",
+          "firstName": "Yannik",
+          "playerId": "48051",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00191",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Del Rey",
+          "firstName": "Alejandro",
+          "playerId": "50762",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Ayora",
+          "firstName": "Angel",
+          "playerId": "64052",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00088",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Blair",
+          "firstName": "Zac",
+          "playerId": "40058",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Fishburn",
+          "firstName": "Patrick",
+          "playerId": "54576",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00035",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Pavon",
+          "firstName": "Matthieu",
+          "playerId": "48153",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Perez",
+          "firstName": "Victor",
+          "playerId": "47679",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00184",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Bhatia",
+          "firstName": "Akshay",
+          "playerId": "56630",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Young",
+          "firstName": "Carson",
+          "playerId": "52513",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00168",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-7",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "137",
+      "players": [
+        {
+          "lastName": "Canter",
+          "firstName": "Laurie",
+          "playerId": "34362",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Smith",
+          "firstName": "Jordan",
+          "playerId": "46464",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00101",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-6",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "138",
+      "players": [
+        {
+          "lastName": "Kim",
+          "firstName": "Si Woo",
+          "playerId": "37455",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Bae",
+          "firstName": "Sangmoon",
+          "playerId": "28259",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00007",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-6",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "138",
+      "players": [
+        {
+          "lastName": "Higgo",
+          "firstName": "Garrick",
+          "playerId": "54421",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Fox",
+          "firstName": "Ryan",
+          "playerId": "29936",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00039",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-6",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "138",
+      "players": [
+        {
+          "lastName": "McCarty",
+          "firstName": "Matt",
+          "playerId": "59141",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Andersen",
+          "firstName": "Mason",
+          "playerId": "52370",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00119",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-6",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "138",
+      "players": [
+        {
+          "lastName": "Kisner",
+          "firstName": "Kevin",
+          "playerId": "29478",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Sigg",
+          "firstName": "Greyson",
+          "playerId": "51890",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00143",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-5",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "139",
+      "players": [
+        {
+          "lastName": "Griffin",
+          "firstName": "Lanto",
+          "playerId": "35310",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Champ",
+          "firstName": "Cameron",
+          "playerId": "52372",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00188",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-5",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "139",
+      "players": [
+        {
+          "lastName": "Laird",
+          "firstName": "Martin",
+          "playerId": "27936",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Haas",
+          "firstName": "Bill",
+          "playerId": "24924",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00037",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-5",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "139",
+      "players": [
+        {
+          "lastName": "Villegas",
+          "firstName": "Camilo",
+          "playerId": "27770",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Donald",
+          "firstName": "Luke",
+          "playerId": "23983",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00123",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-5",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "139",
+      "players": [
+        {
+          "lastName": "Brehm",
+          "firstName": "Ryan",
+          "playerId": "28420",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Hubbard",
+          "firstName": "Mark",
+          "playerId": "36801",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00012",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-5",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "139",
+      "players": [
+        {
+          "lastName": "Malnati",
+          "firstName": "Peter",
+          "playerId": "34466",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Knox",
+          "firstName": "Russell",
+          "playerId": "33122",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00065",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-4",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "140",
+      "players": [
+        {
+          "lastName": "Ghim",
+          "firstName": "Doug",
+          "playerId": "52375",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Kim",
+          "firstName": "Chan",
+          "playerId": "34587",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00082",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-4",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "140",
+      "players": [
+        {
+          "lastName": "Hoffman",
+          "firstName": "Charley",
+          "playerId": "12716",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Watney",
+          "firstName": "Nick",
+          "playerId": "27095",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00113",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-3",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "141",
+      "players": [
+        {
+          "lastName": "Hadley",
+          "firstName": "Chesson",
+          "playerId": "34563",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Byrd",
+          "firstName": "Jonathan",
+          "playerId": "24925",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00090",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-3",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "141",
+      "players": [
+        {
+          "lastName": "Hodges",
+          "firstName": "Lee",
+          "playerId": "54628",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Dufner",
+          "firstName": "Jason",
+          "playerId": "25686",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00163",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-3",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "141",
+      "players": [
+        {
+          "lastName": "Cole",
+          "firstName": "Eric",
+          "playerId": "47591",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Saunders",
+          "firstName": "Sam",
+          "playerId": "29223",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00068",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-2",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "142",
+      "players": [
+        {
+          "lastName": "Kizzire",
+          "firstName": "Patton",
+          "playerId": "32757",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Kohles",
+          "firstName": "Ben",
+          "playerId": "36884",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00018",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-2",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "142",
+      "players": [
+        {
+          "lastName": "Roy",
+          "firstName": "Kevin",
+          "playerId": "39335",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Cone",
+          "firstName": "Trevor",
+          "playerId": "49453",
+          "isAmateur": false
+        }
+      ]
+    },
+    {
+      "teamId": "00016",
+      "courseId": "714",
+      "currentRound": -1,
+      "total": "-1",
+      "currentRoundScore": "-",
+      "position": "CUT",
+      "status": "CUT",
+      "totalStrokesFromCompletedRounds": "143",
+      "players": [
+        {
+          "lastName": "Johnson",
+          "firstName": "Zach",
+          "playerId": "24024",
+          "isAmateur": false
+        },
+        {
+          "lastName": "Palmer",
+          "firstName": "Ryan",
+          "playerId": "23320",
+          "isAmateur": false
+        }
+      ]
+    }
+  ]
+}

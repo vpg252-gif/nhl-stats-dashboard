@@ -1,0 +1,2405 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "028",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-08-17T22:20:12.524000",
+  "timestamp": "2025-08-17T22:20:12.524000",
+  "cutLines": [],
+  "leaderboardRows": [
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "1",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2025-08-17T17:40:00"
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "2",
+      "total": "-13",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2025-08-17T17:40:00"
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "3",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-08-17T17:18:00"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T4",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2025-08-17T17:07:00"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T4",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2025-08-17T17:29:00"
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "6",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-08-17T17:18:00"
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T7",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2025-08-17T16:56:00"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T7",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:07pm",
+      "teeTimeTimestamp": "2025-08-17T17:07:00"
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "playerId": "52955",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T7",
+      "total": "-7",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:29pm",
+      "teeTimeTimestamp": "2025-08-17T17:29:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "10",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:56pm",
+      "teeTimeTimestamp": "2025-08-17T16:56:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "11",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-08-17T16:45:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T12",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:07pm",
+      "teeTimeTimestamp": "2025-08-17T16:07:00"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T12",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-08-17T16:18:00"
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T12",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-08-17T16:45:00"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T15",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:56am",
+      "teeTimeTimestamp": "2025-08-17T15:56:00"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T15",
+      "total": "-2",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:29pm",
+      "teeTimeTimestamp": "2025-08-17T16:29:00"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T17",
+      "total": "-1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:56am",
+      "teeTimeTimestamp": "2025-08-17T14:56:00"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T17",
+      "total": "-1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-08-17T15:18:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T19",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:34am",
+      "teeTimeTimestamp": "2025-08-17T14:34:00"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T19",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:34am",
+      "teeTimeTimestamp": "2025-08-17T15:34:00"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T19",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:56am",
+      "teeTimeTimestamp": "2025-08-17T15:56:00"
+    },
+    {
+      "lastName": "Bridgeman",
+      "firstName": "Jacob",
+      "playerId": "60004",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T19",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-08-17T16:18:00"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T23",
+      "total": "+1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:23am",
+      "teeTimeTimestamp": "2025-08-17T14:23:00"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T23",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:07am",
+      "teeTimeTimestamp": "2025-08-17T15:07:00"
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T23",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:07pm",
+      "teeTimeTimestamp": "2025-08-17T16:07:00"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T26",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2025-08-17T15:45:00"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T26",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2025-08-17T15:45:00"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T28",
+      "total": "+3",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:56am",
+      "teeTimeTimestamp": "2025-08-17T13:56:00"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T28",
+      "total": "+3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:07am",
+      "teeTimeTimestamp": "2025-08-17T14:07:00"
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T30",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:34am",
+      "teeTimeTimestamp": "2025-08-17T14:34:00"
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T30",
+      "total": "+4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2025-08-17T14:45:00"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T30",
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:07am",
+      "teeTimeTimestamp": "2025-08-17T15:07:00"
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-08-17T13:45:00"
+    },
+    {
+      "lastName": "Cauley",
+      "firstName": "Bud",
+      "playerId": "34021",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:56am",
+      "teeTimeTimestamp": "2025-08-17T13:56:00"
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:23am",
+      "teeTimeTimestamp": "2025-08-17T14:23:00"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:56am",
+      "teeTimeTimestamp": "2025-08-17T14:56:00"
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-08-17T15:18:00"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T33",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:34am",
+      "teeTimeTimestamp": "2025-08-17T15:34:00"
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "39",
+      "total": "+7",
+      "currentRoundScore": "+10",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 4,
+          "strokes": 80,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:29pm",
+      "teeTimeTimestamp": "2025-08-17T16:29:00"
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T40",
+      "total": "+10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:12am",
+      "teeTimeTimestamp": "2025-08-17T13:12:00"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "T40",
+      "total": "+10",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:07am",
+      "teeTimeTimestamp": "2025-08-17T14:07:00"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "42",
+      "total": "+11",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-08-17T13:45:00"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "43",
+      "total": "+12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:23am",
+      "teeTimeTimestamp": "2025-08-17T13:23:00"
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "44",
+      "total": "+14",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:34am",
+      "teeTimeTimestamp": "2025-08-17T13:34:00"
+    },
+    {
+      "lastName": "Vegas",
+      "firstName": "Jhonattan",
+      "playerId": "27064",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "45",
+      "total": "+15",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:12am",
+      "teeTimeTimestamp": "2025-08-17T13:12:00"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "46",
+      "total": "+17",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "297",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:34am",
+      "teeTimeTimestamp": "2025-08-17T13:34:00"
+    },
+    {
+      "lastName": "Campbell",
+      "firstName": "Brian",
+      "playerId": "46443",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "47",
+      "total": "+18",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "298",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:23am",
+      "teeTimeTimestamp": "2025-08-17T13:23:00"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "complete",
+      "position": "48",
+      "total": "+20",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "300",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:05am",
+      "teeTimeTimestamp": "2025-08-17T13:05:00"
+    },
+    {
+      "lastName": "Berger",
+      "firstName": "Daniel",
+      "playerId": "40026",
+      "isAmateur": false,
+      "courseId": "882",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "212",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "882",
+          "courseName": "Caves Valley Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

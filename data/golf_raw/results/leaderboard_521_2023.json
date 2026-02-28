@@ -1,0 +1,3528 @@
+{
+  "orgId": "1",
+  "tournId": "521",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "year": "2023",
+  "cutLines": [
+    {
+      "cutCount": null,
+      "cutScore": "E"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "courseId": "902",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-4",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "courseId": "902",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "position": "2",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "courseId": "902",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "position": "3",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "courseId": "902",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "12:16pm",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "playerId": "46970",
+      "courseId": "902",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "12:28pm",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 2,
+          "strokes": 62,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "courseId": "902",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "6",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "12:28pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "courseId": "902",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-5",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "10:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "courseId": "902",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "11:52am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "courseId": "902",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "12:04pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "courseId": "902",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "12:16pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "courseId": "902",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "position": "T11",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "11:11am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "courseId": "902",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-1",
+      "position": "T11",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "12:16pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "courseId": "902",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-9",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "9:03am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 62,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "courseId": "902",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "11:23am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "courseId": "902",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "courseId": "902",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "11:52am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "courseId": "902",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "12:04pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Steele",
+      "firstName": "Brendan",
+      "playerId": "29518",
+      "courseId": "902",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "position": "T18",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "11:11am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Pereira",
+      "firstName": "Mito",
+      "playerId": "47529",
+      "courseId": "902",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "position": "T18",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "11:23am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "courseId": "902",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "position": "T18",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "12:04pm",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "courseId": "902",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "courseId": "902",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "11:52am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "10:47am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "10:47am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "10:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "11:11am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "courseId": "902",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+4",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "12:28pm",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "courseId": "902",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "position": "T29",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "9:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "courseId": "902",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "position": "T29",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "10:18am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "courseId": "902",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "position": "T29",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "10:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "courseId": "902",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "position": "T29",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "10:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "courseId": "902",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "position": "T29",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "teeTime": "11:23am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "courseId": "902",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-4",
+      "position": "T34",
+      "totalStrokesFromCompletedRounds": "280",
+      "roundComplete": true,
+      "teeTime": "8:52am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "courseId": "902",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-4",
+      "position": "T34",
+      "totalStrokesFromCompletedRounds": "280",
+      "roundComplete": true,
+      "teeTime": "9:14am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "courseId": "902",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "position": "T34",
+      "totalStrokesFromCompletedRounds": "280",
+      "roundComplete": true,
+      "teeTime": "9:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "courseId": "902",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "10:06am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "courseId": "902",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "10:30am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Bio",
+      "playerId": "35087",
+      "courseId": "902",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "10:47am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Muñoz",
+      "firstName": "Sebastián",
+      "playerId": "48822",
+      "courseId": "902",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "position": "T40",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "8:52am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "courseId": "902",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "position": "T40",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "9:14am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "courseId": "902",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "position": "T40",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "9:42am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "courseId": "902",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "position": "T40",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "9:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "courseId": "902",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "+1",
+      "position": "T40",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "teeTime": "10:18am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "courseId": "902",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "-3",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "283",
+      "roundComplete": true,
+      "teeTime": "8:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "courseId": "902",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "-1",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "283",
+      "roundComplete": true,
+      "teeTime": "8:52am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "courseId": "902",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "283",
+      "roundComplete": true,
+      "teeTime": "9:42am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "courseId": "902",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "283",
+      "roundComplete": true,
+      "teeTime": "10:06am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Park",
+      "firstName": "Sanghyun",
+      "playerId": "32797",
+      "courseId": "902",
+      "status": "active",
+      "total": "0",
+      "currentRoundScore": "E",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "teeTime": "9:03am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "courseId": "902",
+      "status": "active",
+      "total": "0",
+      "currentRoundScore": "+1",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "courseId": "902",
+      "status": "active",
+      "total": "0",
+      "currentRoundScore": "+3",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "teeTime": "10:06am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "-5",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "7:57am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "-3",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "8:08am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "-2",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "8:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "8:41am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "9:42am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "courseId": "902",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+4",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": "285",
+      "roundComplete": true,
+      "teeTime": "10:18am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "courseId": "902",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "teeTime": "8:30am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Scott",
+      "playerId": "30692",
+      "courseId": "902",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "teeTime": "9:03am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "courseId": "902",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "teeTime": "9:14am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "courseId": "902",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+5",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "teeTime": "10:30am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "courseId": "902",
+      "status": "active",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "position": "T62",
+      "totalStrokesFromCompletedRounds": "287",
+      "roundComplete": true,
+      "teeTime": "8:41am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "courseId": "902",
+      "status": "active",
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "position": "T62",
+      "totalStrokesFromCompletedRounds": "287",
+      "roundComplete": true,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "courseId": "902",
+      "status": "active",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "position": "64",
+      "totalStrokesFromCompletedRounds": "288",
+      "roundComplete": true,
+      "teeTime": "8:08am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "courseId": "902",
+      "status": "active",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "position": "T65",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "teeTime": "8:19am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Huh",
+      "firstName": "John",
+      "playerId": "34174",
+      "courseId": "902",
+      "status": "active",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "T65",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "teeTime": "8:19am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "courseId": "902",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "-2",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "teeTime": "7:46am",
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "courseId": "902",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+3",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "teeTime": "7:57am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "courseId": "902",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+3",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "teeTime": "8:19am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "courseId": "902",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+7",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "courseId": "902",
+      "status": "active",
+      "total": "+8",
+      "currentRoundScore": "+7",
+      "position": "71",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "teeTime": "8:41am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Jung",
+      "firstName": "Chanmin",
+      "playerId": "63371",
+      "courseId": "902",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "+1",
+      "position": "T72",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "teeTime": "7:46am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "courseId": "902",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "E",
+      "position": "T72",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "teeTime": "7:46am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "courseId": "902",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "+2",
+      "position": "T72",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "teeTime": "7:57am",
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bae",
+      "firstName": "Yongjun",
+      "playerId": "56003",
+      "courseId": "902",
+      "status": "active",
+      "total": "+10",
+      "currentRoundScore": "+6",
+      "position": "75",
+      "totalStrokesFromCompletedRounds": "294",
+      "roundComplete": true,
+      "teeTime": "8:08am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Shin",
+      "firstName": "Sanghun",
+      "playerId": "52583",
+      "courseId": "902",
+      "status": "active",
+      "total": "+17",
+      "currentRoundScore": "+2",
+      "position": "76",
+      "totalStrokesFromCompletedRounds": "301",
+      "roundComplete": true,
+      "teeTime": "7:35am",
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Seo",
+      "firstName": "Yoseop",
+      "playerId": "49022",
+      "courseId": "902",
+      "status": "active",
+      "total": "+19",
+      "currentRoundScore": "+7",
+      "position": "T77",
+      "totalStrokesFromCompletedRounds": "303",
+      "roundComplete": true,
+      "teeTime": "8:07am",
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Yeongsu",
+      "playerId": "32776",
+      "courseId": "902",
+      "status": "active",
+      "total": "+19",
+      "currentRoundScore": "+6",
+      "position": "T77",
+      "totalStrokesFromCompletedRounds": "303",
+      "roundComplete": true,
+      "teeTime": "7:35am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "902",
+          "courseName": "Congaree Golf Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    }
+  ],
+  "status": "Official",
+  "lastUpdated": "2022-10-23T17:56:38",
+  "timestamp": "2022-10-23T17:59:18.924000"
+}

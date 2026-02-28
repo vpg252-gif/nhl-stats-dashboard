@@ -1,0 +1,993 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "478",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-12-08T21:44:13.209000",
+  "timestamp": "2024-12-08T21:44:13.209000",
+  "cutLines": [],
+  "leaderboardRows": [
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "1",
+      "total": "-25",
+      "currentRoundScore": "-9",
+      "totalStrokesFromCompletedRounds": "263",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:24pm",
+      "teeTimeTimestamp": "2024-12-08T17:24:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "2",
+      "total": "-19",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:13pm",
+      "teeTimeTimestamp": "2024-12-08T17:13:00"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "3",
+      "total": "-18",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:24pm",
+      "teeTimeTimestamp": "2024-12-08T17:24:00"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "4",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:02pm",
+      "teeTimeTimestamp": "2024-12-08T17:02:00"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "5",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:13pm",
+      "teeTimeTimestamp": "2024-12-08T17:13:00"
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "playerId": "52955",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "6",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2024-12-08T16:40:00"
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "7",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:51am",
+      "teeTimeTimestamp": "2024-12-08T16:51:00"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "8",
+      "total": "-10",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:02pm",
+      "teeTimeTimestamp": "2024-12-08T17:02:00"
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T9",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:29am",
+      "teeTimeTimestamp": "2024-12-08T16:29:00"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T9",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2024-12-08T16:40:00"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "11",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:51am",
+      "teeTimeTimestamp": "2024-12-08T16:51:00"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "12",
+      "total": "-6",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:07am",
+      "teeTimeTimestamp": "2024-12-08T16:07:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "13",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2024-12-08T16:18:00"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T14",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:56am",
+      "teeTimeTimestamp": "2024-12-08T15:56:00"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T14",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2024-12-08T16:18:00"
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "16",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:29am",
+      "teeTimeTimestamp": "2024-12-08T16:29:00"
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "playerId": "48153",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T17",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:56am",
+      "teeTimeTimestamp": "2024-12-08T15:56:00"
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T17",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:07am",
+      "teeTimeTimestamp": "2024-12-08T16:07:00"
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T19",
+      "total": "+1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-12-08T15:45:00"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "232",
+      "status": "complete",
+      "position": "T19",
+      "total": "+1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "232",
+          "courseName": "Albany"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "232",
+          "courseName": "Albany"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-12-08T15:45:00"
+    }
+  ]
+}

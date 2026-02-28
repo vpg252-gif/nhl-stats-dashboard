@@ -1,0 +1,3298 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "018",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-04-28T22:29:22.534000",
+  "timestamp": "2024-04-28T22:29:22.534000",
+  "cutLines": [
+    {
+      "cutCount": 40,
+      "cutScore": "-8"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Lowry",
+      "firstName": "McIlroy/",
+      "playerId": "00087",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "1",
+      "total": "-25",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "263",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2024-04-28T17:44:00"
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Ramey/",
+      "playerId": "00126",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "2",
+      "total": "-25",
+      "currentRoundScore": "-9",
+      "totalStrokesFromCompletedRounds": "263",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:11am",
+      "teeTimeTimestamp": "2024-04-28T15:11:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Brehm/",
+      "playerId": "00001",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "3",
+      "total": "-24",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "264",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:44pm",
+      "teeTimeTimestamp": "2024-04-28T17:44:00"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Higgo/",
+      "playerId": "00009",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T4",
+      "total": "-23",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:00am",
+      "teeTimeTimestamp": "2024-04-28T15:00:00"
+    },
+    {
+      "lastName": "Barjon",
+      "firstName": "Stevens/",
+      "playerId": "00110",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T4",
+      "total": "-23",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:27am",
+      "teeTimeTimestamp": "2024-04-28T14:27:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Blair/",
+      "playerId": "00040",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T4",
+      "total": "-23",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-12",
+          "roundId": 3,
+          "strokes": 60,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-04-28T17:55:00"
+    },
+    {
+      "lastName": "Greyserman",
+      "firstName": "Echavarria/",
+      "playerId": "00099",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T4",
+      "total": "-23",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2024-04-28T17:22:00"
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Sigg/",
+      "playerId": "00162",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T8",
+      "total": "-22",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:00am",
+      "teeTimeTimestamp": "2024-04-28T15:00:00"
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Detry/",
+      "playerId": "00051",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T8",
+      "total": "-22",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2024-04-28T17:11:00"
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Taylor/",
+      "playerId": "00075",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "10",
+      "total": "-21",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:22pm",
+      "teeTimeTimestamp": "2024-04-28T17:22:00"
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kraft/",
+      "playerId": "00079",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:22am",
+      "teeTimeTimestamp": "2024-04-28T15:22:00"
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Eckroat/",
+      "playerId": "00030",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:11am",
+      "teeTimeTimestamp": "2024-04-28T16:11:00"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Garnett/",
+      "playerId": "00089",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:11am",
+      "teeTimeTimestamp": "2024-04-28T15:11:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Lee/",
+      "playerId": "00033",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2024-04-28T17:33:00"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Fitzpatrick/",
+      "playerId": "00112",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:49am",
+      "teeTimeTimestamp": "2024-04-28T15:49:00"
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Hoffman/",
+      "playerId": "00020",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:44am",
+      "teeTimeTimestamp": "2024-04-28T16:44:00"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Conners/",
+      "playerId": "00072",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:22am",
+      "teeTimeTimestamp": "2024-04-28T16:22:00"
+    },
+    {
+      "lastName": "Skinns",
+      "firstName": "Tarren/",
+      "playerId": "00088",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T11",
+      "total": "-20",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:11pm",
+      "teeTimeTimestamp": "2024-04-28T17:11:00"
+    },
+    {
+      "lastName": "Bridgeman",
+      "firstName": "Phillips/",
+      "playerId": "00050",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T19",
+      "total": "-19",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:11am",
+      "teeTimeTimestamp": "2024-04-28T16:11:00"
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Malnati/",
+      "playerId": "00124",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T19",
+      "total": "-19",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-04-28T16:55:00"
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "List/",
+      "playerId": "00058",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T19",
+      "total": "-19",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-04-28T17:55:00"
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Johnson/",
+      "playerId": "00097",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T19",
+      "total": "-19",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-04-28T16:55:00"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Morikawa/",
+      "playerId": "00141",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T23",
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:22am",
+      "teeTimeTimestamp": "2024-04-28T15:22:00"
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Meissner/",
+      "playerId": "00037",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T23",
+      "total": "-18",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:44am",
+      "teeTimeTimestamp": "2024-04-28T16:44:00"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Cantlay/",
+      "playerId": "00140",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T23",
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:49am",
+      "teeTimeTimestamp": "2024-04-28T14:49:00"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Thompson/",
+      "playerId": "00135",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T23",
+      "total": "-18",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:33am",
+      "teeTimeTimestamp": "2024-04-28T15:33:00"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "Rai/",
+      "playerId": "00078",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T23",
+      "total": "-18",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:33am",
+      "teeTimeTimestamp": "2024-04-28T15:33:00"
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Hardy/",
+      "playerId": "00012",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:49am",
+      "teeTimeTimestamp": "2024-04-28T14:49:00"
+    },
+    {
+      "lastName": "Nicholas",
+      "firstName": "Wu/",
+      "playerId": "00180",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:27am",
+      "teeTimeTimestamp": "2024-04-28T14:27:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Ghim/",
+      "playerId": "00080",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:16am",
+      "teeTimeTimestamp": "2024-04-28T14:16:00"
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "Yu/",
+      "playerId": "00008",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:33pm",
+      "teeTimeTimestamp": "2024-04-28T17:33:00"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Wu/",
+      "playerId": "00016",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2024-04-28T16:00:00"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Kohles/",
+      "playerId": "00086",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:33am",
+      "teeTimeTimestamp": "2024-04-28T16:33:00"
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Hall/",
+      "playerId": "00027",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:33am",
+      "teeTimeTimestamp": "2024-04-28T16:33:00"
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Mitchell/",
+      "playerId": "00107",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "T28",
+      "total": "-17",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:22am",
+      "teeTimeTimestamp": "2024-04-28T16:22:00"
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Wallace/",
+      "playerId": "00021",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "36",
+      "total": "-16",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2024-04-28T16:00:00"
+    },
+    {
+      "lastName": "O'Hair",
+      "firstName": "Taylor/",
+      "playerId": "00091",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "37",
+      "total": "-15",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:49am",
+      "teeTimeTimestamp": "2024-04-28T15:49:00"
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Lashley/",
+      "playerId": "00054",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "38",
+      "total": "-14",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:38am",
+      "teeTimeTimestamp": "2024-04-28T14:38:00"
+    },
+    {
+      "lastName": "Campillo",
+      "firstName": "Norrman/",
+      "playerId": "00160",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "39",
+      "total": "-13",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:38am",
+      "teeTimeTimestamp": "2024-04-28T14:38:00"
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Reavie/",
+      "playerId": "00155",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "complete",
+      "position": "40",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:16am",
+      "teeTimeTimestamp": "2024-04-28T14:16:00"
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Berger/",
+      "playerId": "00132",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Furr",
+      "firstName": "Shelton/",
+      "playerId": "00129",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dumont de Chassart",
+      "firstName": "Stanger/",
+      "playerId": "00122",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Moore/",
+      "playerId": "00031",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Chappell/",
+      "playerId": "00114",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McCormick",
+      "firstName": "Xiong/",
+      "playerId": "00074",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Hossler/",
+      "playerId": "00171",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Potter, Jr.",
+      "firstName": "Tosti/",
+      "playerId": "00159",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dougherty",
+      "firstName": "Silverman/",
+      "playerId": "00041",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Theegala/",
+      "playerId": "00084",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Hoge/",
+      "playerId": "00013",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cochran",
+      "firstName": "Cole/",
+      "playerId": "00032",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Potgieter",
+      "firstName": "Lawrence/",
+      "playerId": "00183",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Smalley/",
+      "playerId": "00104",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "Champ/",
+      "playerId": "00175",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stricker",
+      "firstName": "Kuchar/",
+      "playerId": "00172",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bae",
+      "firstName": "Kim/",
+      "playerId": "00007",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Montgomery/",
+      "playerId": "00120",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Coody/",
+      "playerId": "00018",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Spaun/",
+      "playerId": "00106",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Whitney",
+      "firstName": "Springer/",
+      "playerId": "00093",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Højgaard/",
+      "playerId": "00024",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Barnes/",
+      "playerId": "00151",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Highsmith",
+      "firstName": "Putnam/",
+      "playerId": "00044",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Woodland/",
+      "playerId": "00177",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Gutschewski/",
+      "playerId": "00156",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Horschel/",
+      "playerId": "00090",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Burgoon",
+      "firstName": "Vegas/",
+      "playerId": "00157",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Yuan/",
+      "playerId": "00066",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Crowe/",
+      "playerId": "00163",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Suh/",
+      "playerId": "00038",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Young/",
+      "playerId": "00035",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Donald",
+      "firstName": "Molinari/",
+      "playerId": "00055",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Whaley/",
+      "playerId": "00138",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Teater",
+      "firstName": "Sloan/",
+      "playerId": "00166",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Streelman/",
+      "playerId": "00061",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Merritt/",
+      "playerId": "00011",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Pereda/",
+      "playerId": "00105",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Kisner/",
+      "playerId": "00070",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Hale, Jr./",
+      "playerId": "00161",
+      "isAmateur": false,
+      "courseId": "714",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "714",
+          "courseName": "TPC Louisiana"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    }
+  ]
+}

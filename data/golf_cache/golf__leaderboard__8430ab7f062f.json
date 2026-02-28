@@ -1,0 +1,4819 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "023",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-06-04T22:24:17.642000",
+  "timestamp": "2023-06-04T22:24:17.642000",
+  "cutLines": [
+    {
+      "cutCount": 55,
+      "cutScore": "+3"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "1",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:15pm"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "2",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:25pm"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "3",
+      "total": "-6",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:55am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "4",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:35pm"
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T5",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:15am"
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T5",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:00pm"
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T7",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:35am"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T7",
+      "total": "-3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:35pm"
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T9",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:45am"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T9",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:05am"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T9",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:25am"
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T12",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:10am"
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T12",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:05pm"
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T12",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:15pm"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T12",
+      "total": "-1",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:25pm"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:10am"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "playerId": "46970",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:55am"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:50am"
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:10pm"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:20pm"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T16",
+      "total": "E",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:30pm"
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:20am"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:15am"
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T24",
+      "total": "+1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:10pm"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:55am"
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:20am"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:00pm"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:20pm"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:40pm"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:40pm"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:55pm"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T30",
+      "total": "+2",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:05pm"
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T38",
+      "total": "+3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:05am"
+    },
+    {
+      "lastName": "Donald",
+      "firstName": "Luke",
+      "playerId": "23983",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T38",
+      "total": "+3",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:00am"
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T38",
+      "total": "+3",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:05am"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:55am"
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Brandt",
+      "playerId": "27649",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:05am"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:00am"
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:50am"
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T41",
+      "total": "+4",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:30pm"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T48",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:15am"
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T48",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T48",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T48",
+      "total": "+5",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:35am"
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T52",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:45am"
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T52",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T54",
+      "total": "+7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:55am"
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T54",
+      "total": "+7",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 81,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:25am"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T56",
+      "total": "+8",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "296",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:05am"
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T56",
+      "total": "+8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "296",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:25am"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T58",
+      "total": "+9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "297",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:25am"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T58",
+      "total": "+9",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "297",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:35am"
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T60",
+      "total": "+10",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "298",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:05am"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "T60",
+      "total": "+10",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "298",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:15am"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "62",
+      "total": "+11",
+      "currentRoundScore": "+12",
+      "totalStrokesFromCompletedRounds": "299",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 4,
+          "strokes": 84,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:45am"
+    },
+    {
+      "lastName": "Bennett",
+      "firstName": "Sam",
+      "playerId": "59652",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "63",
+      "total": "+12",
+      "currentRoundScore": "+12",
+      "totalStrokesFromCompletedRounds": "300",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 4,
+          "strokes": 84,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "64",
+      "total": "+13",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "301",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:55am"
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "complete",
+      "position": "65",
+      "total": "+17",
+      "currentRoundScore": "+13",
+      "totalStrokesFromCompletedRounds": "305",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 4,
+          "strokes": 85,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:35am"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higa",
+      "firstName": "Kazuki",
+      "playerId": "35778",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Scott",
+      "playerId": "30692",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Potgieter",
+      "firstName": "Aldrich",
+      "playerId": "63343",
+      "isAmateur": true,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGirt",
+      "firstName": "William",
+      "playerId": "31202",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hojgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Micheluzzi",
+      "firstName": "David",
+      "playerId": "47102",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoag",
+      "firstName": "Bo",
+      "playerId": "33490",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Choi",
+      "firstName": "K.J.",
+      "playerId": "24357",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 84,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+18",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "162",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+16",
+          "roundId": 1,
+          "strokes": 88,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+18",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "162",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 84,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "212",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 1,
+      "teeTime": "12:55pm"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "79",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "023",
+          "courseName": "Muirfield Village Golf Club"
+        }
+      ],
+      "currentRound": 1
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "023",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [],
+      "currentRound": 1
+    }
+  ]
+}

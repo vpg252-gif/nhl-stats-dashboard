@@ -1,0 +1,3210 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "009",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-03-09T23:58:09.137000",
+  "timestamp": "2025-03-09T23:58:09.137000",
+  "cutLines": [
+    {
+      "cutCount": 21,
+      "cutScore": "+4"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "1",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:45pm",
+      "teeTimeTimestamp": "2025-03-09T17:45:00"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "2",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:45pm",
+      "teeTimeTimestamp": "2025-03-09T17:45:00"
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "3",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "teeTimeTimestamp": "2025-03-09T17:35:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "4",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2025-03-09T17:25:00"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T5",
+      "total": "-7",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2025-03-09T15:15:00"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T5",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2025-03-09T17:15:00"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "7",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2025-03-09T17:05:00"
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T8",
+      "total": "-5",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:20pm",
+      "teeTimeTimestamp": "2025-03-09T16:20:00"
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T8",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-03-09T16:30:00"
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T8",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "teeTimeTimestamp": "2025-03-09T17:35:00"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T11",
+      "total": "-4",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2025-03-09T15:45:00"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T11",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:40pm",
+      "teeTimeTimestamp": "2025-03-09T16:40:00"
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T11",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:50pm",
+      "teeTimeTimestamp": "2025-03-09T16:50:00"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T11",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2025-03-09T17:05:00"
+    },
+    {
+      "lastName": "Bridgeman",
+      "firstName": "Jacob",
+      "playerId": "60004",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T15",
+      "total": "-3",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2025-03-09T15:25:00"
+    },
+    {
+      "lastName": "Berger",
+      "firstName": "Daniel",
+      "playerId": "40026",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T15",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:20pm",
+      "teeTimeTimestamp": "2025-03-09T16:20:00"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T15",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:50pm",
+      "teeTimeTimestamp": "2025-03-09T16:50:00"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "18",
+      "total": "-2",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:30am",
+      "teeTimeTimestamp": "2025-03-09T14:30:00"
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T19",
+      "total": "-1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2025-03-09T15:15:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T19",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:10pm",
+      "teeTimeTimestamp": "2025-03-09T16:10:00"
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T19",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:40pm",
+      "teeTimeTimestamp": "2025-03-09T16:40:00"
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "playerId": "52955",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-03-09T13:45:00"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:30am",
+      "teeTimeTimestamp": "2025-03-09T14:30:00"
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Will",
+      "playerId": "47483",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2025-03-09T14:40:00"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2025-03-09T14:50:00"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-03-09T15:00:00"
+    },
+    {
+      "lastName": "Greyserman",
+      "firstName": "Max",
+      "playerId": "51977",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2025-03-09T15:35:00"
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2025-03-09T15:45:00"
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2025-03-09T15:55:00"
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T22",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-03-09T16:30:00"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T31",
+      "total": "+1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-03-09T13:55:00"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T31",
+      "total": "+1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2025-03-09T14:40:00"
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T31",
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2025-03-09T15:35:00"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T34",
+      "total": "+2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "teeTimeTimestamp": "2025-03-09T14:20:00"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T34",
+      "total": "+2",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2025-03-09T17:15:00"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T36",
+      "total": "+3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-03-09T15:00:00"
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T36",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2025-03-09T15:25:00"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T36",
+      "total": "+3",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2025-03-09T15:55:00"
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T36",
+      "total": "+3",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 80,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2025-03-09T17:25:00"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T40",
+      "total": "+4",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2025-03-09T13:15:00"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T40",
+      "total": "+4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2025-03-09T13:25:00"
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T40",
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2025-03-09T13:35:00"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T40",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-03-09T13:55:00"
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T40",
+      "total": "+4",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:10pm",
+      "teeTimeTimestamp": "2025-03-09T16:10:00"
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T45",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-03-09T13:45:00"
+    },
+    {
+      "lastName": "Salinda",
+      "firstName": "Isaiah",
+      "playerId": "56781",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T45",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-03-09T14:05:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T45",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2025-03-09T14:50:00"
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T48",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-03-09T14:05:00"
+    },
+    {
+      "lastName": "Koivun",
+      "firstName": "Jackson",
+      "playerId": "66701",
+      "isAmateur": true,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T48",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "teeTimeTimestamp": "2025-03-09T14:20:00"
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2025-03-09T13:25:00"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2025-03-09T13:35:00"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Highsmith",
+      "firstName": "Joe",
+      "playerId": "60067",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Potgieter",
+      "firstName": "Aldrich",
+      "playerId": "63343",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campbell",
+      "firstName": "Brian",
+      "playerId": "46443",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Rafael",
+      "playerId": "32070",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "playerId": "48153",
+      "isAmateur": false,
+      "courseId": "009",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 83,
+          "courseId": "009",
+          "courseName": "Arnold Palmer's Bay Hill Club & Lodge"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    }
+  ]
+}

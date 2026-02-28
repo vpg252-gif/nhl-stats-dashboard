@@ -1,0 +1,462 @@
+{
+  "orgId": "1",
+  "tournId": "058",
+  "roundId": 3,
+  "roundStatus": "Official",
+  "year": "2023",
+  "lastUpdated": "2022-12-11T16:42:31",
+  "cutLines": [
+    {
+      "cutCount": null,
+      "cutScore": "E"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Theegala",
+      "firstName": "Hoge/",
+      "playerId": "95109",
+      "courseId": "678",
+      "status": "active",
+      "total": "-34",
+      "currentRoundScore": "-10",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "182",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-12",
+          "roundId": 2,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Hoffman/",
+      "playerId": "95110",
+      "courseId": "678",
+      "status": "active",
+      "total": "-33",
+      "currentRoundScore": "-7",
+      "position": "2",
+      "totalStrokesFromCompletedRounds": "183",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-16",
+          "roundId": 1,
+          "strokes": 56,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 2,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "English/",
+      "playerId": "95102",
+      "courseId": "678",
+      "status": "active",
+      "total": "-32",
+      "currentRoundScore": "-10",
+      "position": "3",
+      "totalStrokesFromCompletedRounds": "184",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 2,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Homa/",
+      "playerId": "95101",
+      "courseId": "678",
+      "status": "active",
+      "total": "-30",
+      "currentRoundScore": "-9",
+      "position": "4",
+      "totalStrokesFromCompletedRounds": "186",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-14",
+          "roundId": 1,
+          "strokes": 58,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Mullinax/",
+      "playerId": "95104",
+      "courseId": "678",
+      "status": "active",
+      "total": "-27",
+      "currentRoundScore": "-10",
+      "position": "T5",
+      "totalStrokesFromCompletedRounds": "189",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Korda/",
+      "playerId": "95103",
+      "courseId": "678",
+      "status": "active",
+      "total": "-27",
+      "currentRoundScore": "-10",
+      "position": "T5",
+      "totalStrokesFromCompletedRounds": "189",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Stricker/",
+      "playerId": "95107",
+      "courseId": "678",
+      "status": "active",
+      "total": "-26",
+      "currentRoundScore": "-7",
+      "position": "7",
+      "totalStrokesFromCompletedRounds": "190",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Harman/",
+      "playerId": "95105",
+      "courseId": "678",
+      "status": "active",
+      "total": "-25",
+      "currentRoundScore": "-10",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "191",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-10",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Conners/",
+      "playerId": "95111",
+      "courseId": "678",
+      "status": "active",
+      "total": "-25",
+      "currentRoundScore": "-7",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "191",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-14",
+          "roundId": 1,
+          "strokes": 58,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "McNealy/",
+      "playerId": "95108",
+      "courseId": "678",
+      "status": "active",
+      "total": "-24",
+      "currentRoundScore": "-7",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "192",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Day/",
+      "playerId": "95106",
+      "courseId": "678",
+      "status": "active",
+      "total": "-24",
+      "currentRoundScore": "-2",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "192",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-11",
+          "roundId": 2,
+          "strokes": 61,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "Mitchell/",
+      "playerId": "95112",
+      "courseId": "678",
+      "status": "active",
+      "total": "-23",
+      "currentRoundScore": "-8",
+      "position": "12",
+      "totalStrokesFromCompletedRounds": "193",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-12",
+          "roundId": 1,
+          "strokes": 60,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "678",
+          "courseName": "Tiburón Golf Course"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    }
+  ],
+  "status": "Official",
+  "timestamp": "2022-12-11T18:58:48.208000"
+}

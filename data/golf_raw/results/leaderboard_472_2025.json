@@ -1,0 +1,6192 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "472",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-07-22T01:33:45.605000",
+  "timestamp": "2025-07-22T01:33:45.605000",
+  "cutLines": [
+    {
+      "cutCount": 90,
+      "cutScore": "+11"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "1",
+      "total": "+47",
+      "currentRoundScore": "+13",
+      "totalStrokesFromCompletedRounds": "+47",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+15",
+          "roundId": 2,
+          "strokes": 15,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 3,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 4,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2025-07-20T20:50:00"
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "2",
+      "total": "+44",
+      "currentRoundScore": "+11",
+      "totalStrokesFromCompletedRounds": "+44",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 4,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2025-07-20T20:40:00"
+    },
+    {
+      "lastName": "Clements",
+      "firstName": "Todd",
+      "playerId": "51151",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "3",
+      "total": "+39",
+      "currentRoundScore": "+16",
+      "totalStrokesFromCompletedRounds": "+39",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+16",
+          "roundId": 4,
+          "strokes": 16,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-20T18:30:00"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T4",
+      "total": "+37",
+      "currentRoundScore": "+17",
+      "totalStrokesFromCompletedRounds": "+37",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+17",
+          "roundId": 4,
+          "strokes": 17,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-07-20T16:45:00"
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T4",
+      "total": "+37",
+      "currentRoundScore": "+16",
+      "totalStrokesFromCompletedRounds": "+37",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+16",
+          "roundId": 2,
+          "strokes": 16,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+16",
+          "roundId": 4,
+          "strokes": 16,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2025-07-20T17:15:00"
+    },
+    {
+      "lastName": "Kruyswijk",
+      "firstName": "Jacques",
+      "playerId": "37446",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T4",
+      "total": "+37",
+      "currentRoundScore": "+10",
+      "totalStrokesFromCompletedRounds": "+37",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 3,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 4,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:00pm",
+      "teeTimeTimestamp": "2025-07-20T20:00:00"
+    },
+    {
+      "lastName": "Suber",
+      "firstName": "Jackson",
+      "playerId": "60019",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "7",
+      "total": "+35",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+35",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2025-07-20T20:10:00"
+    },
+    {
+      "lastName": "Skinns",
+      "firstName": "David",
+      "playerId": "27139",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T8",
+      "total": "+34",
+      "currentRoundScore": "+12",
+      "totalStrokesFromCompletedRounds": "+34",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 4,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2025-07-20T18:10:00"
+    },
+    {
+      "lastName": "Scrivener",
+      "firstName": "Jason",
+      "playerId": "31569",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T8",
+      "total": "+34",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+34",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 2,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 3,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:20pm",
+      "teeTimeTimestamp": "2025-07-20T20:20:00"
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T8",
+      "total": "+34",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "+34",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 2,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2025-07-20T20:50:00"
+    },
+    {
+      "lastName": "Silverman",
+      "firstName": "Ben",
+      "playerId": "39327",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T11",
+      "total": "+33",
+      "currentRoundScore": "+15",
+      "totalStrokesFromCompletedRounds": "+33",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+15",
+          "roundId": 4,
+          "strokes": 15,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2025-07-20T16:25:00"
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T11",
+      "total": "+33",
+      "currentRoundScore": "+12",
+      "totalStrokesFromCompletedRounds": "+33",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 4,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2025-07-20T17:15:00"
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T11",
+      "total": "+33",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "+33",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2025-07-20T19:15:00"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T14",
+      "total": "+32",
+      "currentRoundScore": "+13",
+      "totalStrokesFromCompletedRounds": "+32",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 4,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2025-07-20T16:35:00"
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T14",
+      "total": "+32",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "+32",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+13",
+          "roundId": 2,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-20T18:30:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T14",
+      "total": "+32",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+32",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2025-07-20T19:35:00"
+    },
+    {
+      "lastName": "Williams",
+      "firstName": "Robin",
+      "playerId": "53196",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T17",
+      "total": "+31",
+      "currentRoundScore": "+10",
+      "totalStrokesFromCompletedRounds": "+31",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 4,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2025-07-20T17:25:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T17",
+      "total": "+31",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "+31",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-07-20T18:00:00"
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T17",
+      "total": "+31",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+31",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2025-07-20T18:40:00"
+    },
+    {
+      "lastName": "Cummins",
+      "firstName": "Quade",
+      "playerId": "58605",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T20",
+      "total": "+30",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "+30",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2025-07-20T17:40:00"
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T20",
+      "total": "+30",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+30",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 3,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2025-07-20T19:25:00"
+    },
+    {
+      "lastName": "Girrbach",
+      "firstName": "Joel",
+      "playerId": "35564",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T20",
+      "total": "+30",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+30",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 3,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2025-07-20T19:35:00"
+    },
+    {
+      "lastName": "Polland",
+      "firstName": "Ben",
+      "playerId": "47567",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "+11",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 4,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "teeTimeTimestamp": "2025-07-20T16:10:00"
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Ricky",
+      "playerId": "59440",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-07-20T18:00:00"
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 3,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2025-07-20T18:55:00"
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 3,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2025-07-20T20:10:00"
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+15",
+          "roundId": 2,
+          "strokes": 15,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2025-07-20T20:30:00"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T23",
+      "total": "+29",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "+29",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2025-07-20T20:30:00"
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T29",
+      "total": "+28",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "+28",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2025-07-20T16:35:00"
+    },
+    {
+      "lastName": "Rosenmueller",
+      "firstName": "Thomas",
+      "playerId": "60882",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T29",
+      "total": "+28",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+28",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2025-07-20T17:40:00"
+    },
+    {
+      "lastName": "Katsuragawa",
+      "firstName": "Yuto",
+      "playerId": "48632",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T29",
+      "total": "+28",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "+28",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2025-07-20T18:40:00"
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T32",
+      "total": "+27",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+27",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-07-20T16:55:00"
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Chandler",
+      "playerId": "57900",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T32",
+      "total": "+27",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+27",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2025-07-20T17:50:00"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T32",
+      "total": "+27",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "+27",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+14",
+          "roundId": 1,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-07-20T19:45:00"
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2025-07-20T16:25:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2025-07-20T17:50:00"
+    },
+    {
+      "lastName": "Salinda",
+      "firstName": "Isaiah",
+      "playerId": "56781",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2025-07-20T18:20:00"
+    },
+    {
+      "lastName": "Robinson Thompson",
+      "firstName": "Brandon",
+      "playerId": "65374",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2025-07-20T18:20:00"
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-07-20T19:45:00"
+    },
+    {
+      "lastName": "Whitnell",
+      "firstName": "Dale",
+      "playerId": "33117",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T35",
+      "total": "+26",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "+26",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:20pm",
+      "teeTimeTimestamp": "2025-07-20T20:20:00"
+    },
+    {
+      "lastName": "Ventura",
+      "firstName": "Kris",
+      "playerId": "35658",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T41",
+      "total": "+25",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "+25",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2025-07-20T15:50:00"
+    },
+    {
+      "lastName": "Peterson",
+      "firstName": "Paul",
+      "playerId": "36824",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T41",
+      "total": "+25",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "+25",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2025-07-20T17:25:00"
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T41",
+      "total": "+25",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "+25",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2025-07-20T18:10:00"
+    },
+    {
+      "lastName": "Vaillant",
+      "firstName": "Tom",
+      "playerId": "59827",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T41",
+      "total": "+25",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "+25",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+15",
+          "roundId": 2,
+          "strokes": 15,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": -7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2025-07-20T20:40:00"
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T45",
+      "total": "+24",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "+24",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2025-07-20T19:05:00"
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T45",
+      "total": "+24",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "+24",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 3,
+          "strokes": 12,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2025-07-20T19:25:00"
+    },
+    {
+      "lastName": "Newcomb",
+      "firstName": "Patrick",
+      "playerId": "36789",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T47",
+      "total": "+23",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+23",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2025-07-20T16:00:00"
+    },
+    {
+      "lastName": "Hisatsune",
+      "firstName": "Ryo",
+      "playerId": "51287",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T47",
+      "total": "+23",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+23",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "teeTimeTimestamp": "2025-07-20T16:10:00"
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T47",
+      "total": "+23",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "+23",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-07-20T17:05:00"
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T50",
+      "total": "+22",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+22",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+14",
+          "roundId": 1,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2025-07-20T16:00:00"
+    },
+    {
+      "lastName": "Wilson",
+      "firstName": "Andrew",
+      "playerId": "55940",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T50",
+      "total": "+22",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "+22",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2025-07-20T19:15:00"
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T52",
+      "total": "+21",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "+21",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2025-07-20T19:05:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Patrick",
+      "playerId": "54576",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T52",
+      "total": "+21",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "+21",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 3,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": -6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:00pm",
+      "teeTimeTimestamp": "2025-07-20T20:00:00"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T54",
+      "total": "+20",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+20",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2025-07-20T15:30:00"
+    },
+    {
+      "lastName": "Cantero Gutierrez",
+      "firstName": "Ivan",
+      "playerId": "47847",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T54",
+      "total": "+20",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "+20",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2025-07-20T15:30:00"
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "56",
+      "total": "+19",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "+19",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+16",
+          "roundId": 1,
+          "strokes": 16,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2025-07-20T15:50:00"
+    },
+    {
+      "lastName": "Gouveia",
+      "firstName": "Ricardo",
+      "playerId": "46594",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T57",
+      "total": "+18",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "+18",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2025-07-20T15:40:00"
+    },
+    {
+      "lastName": "Shinkwin",
+      "firstName": "Callum",
+      "playerId": "46035",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T57",
+      "total": "+18",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "+18",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-07-20T16:45:00"
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Pierceson",
+      "playerId": "59836",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T57",
+      "total": "+18",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "+18",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": -6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2025-07-20T18:55:00"
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T60",
+      "total": "+17",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "+17",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2025-07-20T15:40:00"
+    },
+    {
+      "lastName": "Kinhult",
+      "firstName": "Marcus",
+      "playerId": "46404",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T60",
+      "total": "+17",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "+17",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-07-20T16:55:00"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "62",
+      "total": "+16",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "+16",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-07-20T17:05:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "63",
+      "total": "+12",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "+12",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": -5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:20am",
+      "teeTimeTimestamp": "2025-07-20T15:20:00"
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "64",
+      "total": "+8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": -7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:10am",
+      "teeTimeTimestamp": "2025-07-20T15:10:00"
+    },
+    {
+      "lastName": "Aphibarnrat",
+      "firstName": "Kiradech",
+      "playerId": "30978",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T65",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-11",
+          "roundId": 3,
+          "strokes": -11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:10am",
+      "teeTimeTimestamp": "2025-07-20T15:10:00"
+    },
+    {
+      "lastName": "Longmire",
+      "firstName": "David",
+      "playerId": "54404",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "complete",
+      "position": "T65",
+      "total": "+7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:20am",
+      "teeTimeTimestamp": "2025-07-20T15:20:00"
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Danny",
+      "playerId": "54607",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Knappe",
+      "firstName": "Alexander",
+      "playerId": "30959",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fisk",
+      "firstName": "Steven",
+      "playerId": "57123",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Korte",
+      "firstName": "Chris",
+      "playerId": "56349",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bairstow",
+      "firstName": "Sam",
+      "playerId": "60369",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 10,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Osborne",
+      "firstName": "Ollie",
+      "playerId": "57633",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+10",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Jeremy",
+      "playerId": "50582",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Del Solar",
+      "firstName": "Cristobal",
+      "playerId": "39859",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": -5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+14",
+          "roundId": 2,
+          "strokes": 14,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Velo",
+      "firstName": "Kevin",
+      "playerId": "58619",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Riedel",
+      "firstName": "Matthew",
+      "playerId": "64693",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jamieson",
+      "firstName": "Scott",
+      "playerId": "31138",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sterne",
+      "firstName": "Richard",
+      "playerId": "24459",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Green",
+      "firstName": "Gavin",
+      "playerId": "31273",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gainey",
+      "firstName": "Tommy",
+      "playerId": "30750",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dantorp",
+      "firstName": "Jens",
+      "playerId": "33459",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "De Bruyn",
+      "firstName": "Jannik",
+      "playerId": "51921",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Von Dellingshausen",
+      "firstName": "Nicolai",
+      "playerId": "50743",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Garcia-Heredia",
+      "firstName": "Alfredo",
+      "playerId": "26503",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Goodwin",
+      "firstName": "Noah",
+      "playerId": "55165",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+8",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+13",
+          "roundId": 1,
+          "strokes": 13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": -6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pavan",
+      "firstName": "Andrea",
+      "playerId": "30756",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Alex",
+      "playerId": "55721",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pak",
+      "firstName": "John",
+      "playerId": "59160",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Andersen",
+      "firstName": "Mason",
+      "playerId": "52370",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+7",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Yannik",
+      "playerId": "48051",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ko",
+      "firstName": "Jeong Weon",
+      "playerId": "56987",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Highsmith",
+      "firstName": "Joe",
+      "playerId": "60067",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+6",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Martin",
+      "playerId": "35617",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 9,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Crocker",
+      "firstName": "Sean",
+      "playerId": "39524",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thornberry",
+      "firstName": "Braden",
+      "playerId": "52144",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+5",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Aurilia",
+      "firstName": "Chaz",
+      "playerId": "63767",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+4",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Chan",
+      "playerId": "34587",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+4",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Brandt",
+      "playerId": "27649",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+3",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baldwin",
+      "firstName": "Matthew",
+      "playerId": "32622",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Rafael",
+      "playerId": "32070",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Onishi",
+      "firstName": "Kaito",
+      "playerId": "55623",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cabrera Bello",
+      "firstName": "Rafa",
+      "playerId": "26499",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chandler",
+      "firstName": "Will",
+      "playerId": "58933",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Aiken",
+      "firstName": "Thomas",
+      "playerId": "24461",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": -6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Capan III",
+      "firstName": "Frankie",
+      "playerId": "49590",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "+1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tosti",
+      "firstName": "Alejandro",
+      "playerId": "38991",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wiesberger",
+      "firstName": "Bernd",
+      "playerId": "29454",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Hamish",
+      "playerId": "50672",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sharma",
+      "firstName": "Shubhankar",
+      "playerId": "39113",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dickson",
+      "firstName": "Taylor",
+      "playerId": "51690",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-1",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kieffer",
+      "firstName": "Max",
+      "playerId": "30957",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-1",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haas",
+      "firstName": "Bill",
+      "playerId": "24924",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-1",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hill",
+      "firstName": "Calum",
+      "playerId": "55707",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rueck",
+      "firstName": "Cole",
+      "playerId": "66609",
+      "isAmateur": true,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-2",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": -6,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-2",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Armitage",
+      "firstName": "Marcus",
+      "playerId": "45194",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-3",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brun",
+      "firstName": "Julien",
+      "playerId": "36837",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-3",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Manke",
+      "firstName": "RJ",
+      "playerId": "59137",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-3",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-5",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-5",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": -4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jarvis",
+      "firstName": "Casey",
+      "playerId": "57688",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-5",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": -3,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bradbury",
+      "firstName": "Dan",
+      "playerId": "63459",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": -5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sisk",
+      "firstName": "Cameron",
+      "playerId": "60018",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-6",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": -5,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Elvira",
+      "firstName": "Manuel",
+      "playerId": "56643",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-8",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": -8,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 0,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "La Sasso",
+      "firstName": "Michael",
+      "playerId": "68384",
+      "isAmateur": true,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": -7,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": -2,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gumberg",
+      "firstName": "Jordan",
+      "playerId": "51989",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-9",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-13",
+          "roundId": 1,
+          "strokes": -13,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 4,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kelley",
+      "firstName": "Joshua",
+      "playerId": "35091",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-12",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-11",
+          "roundId": 1,
+          "strokes": -11,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": -1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-16",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-16",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-17",
+          "roundId": 1,
+          "strokes": -17,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 1,
+          "courseId": "931",
+          "courseName": "Tahoe Mountain Club (Old Greenwood)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "931",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

@@ -1,0 +1,6336 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "524",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-06-30T22:27:04.145000",
+  "timestamp": "2024-06-30T22:27:04.145000",
+  "cutLines": [
+    {
+      "cutCount": 82,
+      "cutScore": "-4"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "1",
+      "total": "-18",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2024-06-30T17:50:00"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T2",
+      "total": "-17",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:20pm",
+      "teeTimeTimestamp": "2024-06-30T17:20:00"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T2",
+      "total": "-17",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2024-06-30T17:30:00"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T2",
+      "total": "-17",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:00pm",
+      "teeTimeTimestamp": "2024-06-30T18:00:00"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T2",
+      "total": "-17",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:00pm",
+      "teeTimeTimestamp": "2024-06-30T18:00:00"
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T6",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2024-06-30T15:40:00"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T6",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-06-30T16:35:00"
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T6",
+      "total": "-15",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2024-06-30T17:40:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T6",
+      "total": "-15",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:50pm",
+      "teeTimeTimestamp": "2024-06-30T17:50:00"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-06-30T16:15:00"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-06-30T16:15:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-06-30T16:25:00"
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-06-30T16:35:00"
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2024-06-30T17:10:00"
+    },
+    {
+      "lastName": "Clanton",
+      "firstName": "Luke",
+      "playerId": "66743",
+      "isAmateur": true,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2024-06-30T17:30:00"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T10",
+      "total": "-14",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:40pm",
+      "teeTimeTimestamp": "2024-06-30T17:40:00"
+    },
+    {
+      "lastName": "Skinns",
+      "firstName": "David",
+      "playerId": "27139",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T17",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-06-30T16:45:00"
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T17",
+      "total": "-12",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-06-30T16:55:00"
+    },
+    {
+      "lastName": "Silverman",
+      "firstName": "Ben",
+      "playerId": "39327",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T17",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-06-30T16:55:00"
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T20",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-06-30T14:25:00"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T20",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2024-06-30T15:10:00"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T20",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2024-06-30T15:20:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T20",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2024-06-30T15:20:00"
+    },
+    {
+      "lastName": "Shipley",
+      "firstName": "Neal",
+      "playerId": "63807",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T20",
+      "total": "-11",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-06-30T16:05:00"
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-06-30T13:35:00"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-06-30T13:45:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Patrick",
+      "playerId": "54576",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-06-30T14:15:00"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-06-30T15:55:00"
+    },
+    {
+      "lastName": "Vegas",
+      "firstName": "Jhonattan",
+      "playerId": "27064",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-06-30T16:05:00"
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T25",
+      "total": "-10",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:20pm",
+      "teeTimeTimestamp": "2024-06-30T17:20:00"
+    },
+    {
+      "lastName": "Lindheim",
+      "firstName": "Nicholas",
+      "playerId": "37278",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:10am",
+      "teeTimeTimestamp": "2024-06-30T12:10:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-06-30T13:35:00"
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2024-06-30T13:55:00"
+    },
+    {
+      "lastName": "McCormick",
+      "firstName": "Ryan",
+      "playerId": "46113",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-06-30T14:25:00"
+    },
+    {
+      "lastName": "Hisatsune",
+      "firstName": "Ryo",
+      "playerId": "51287",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2024-06-30T14:50:00"
+    },
+    {
+      "lastName": "Bridgeman",
+      "firstName": "Jacob",
+      "playerId": "60004",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:50am",
+      "teeTimeTimestamp": "2024-06-30T14:50:00"
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2024-06-30T15:00:00"
+    },
+    {
+      "lastName": "Sloan",
+      "firstName": "Roger",
+      "playerId": "33486",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2024-06-30T15:00:00"
+    },
+    {
+      "lastName": "Greyserman",
+      "firstName": "Max",
+      "playerId": "51977",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2024-06-30T15:10:00"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2024-06-30T15:30:00"
+    },
+    {
+      "lastName": "Knapp",
+      "firstName": "Jake",
+      "playerId": "47420",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-06-30T15:55:00"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-06-30T16:25:00"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T31",
+      "total": "-9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "teeTimeTimestamp": "2024-06-30T17:10:00"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:00am",
+      "teeTimeTimestamp": "2024-06-30T12:00:00"
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2024-06-30T12:30:00"
+    },
+    {
+      "lastName": "Hale, Jr.",
+      "firstName": "Blaine",
+      "playerId": "60767",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2024-06-30T12:30:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2024-06-30T12:50:00"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2024-06-30T13:00:00"
+    },
+    {
+      "lastName": "James",
+      "firstName": "Ben",
+      "playerId": "57869",
+      "isAmateur": true,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2024-06-30T13:55:00"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2024-06-30T15:40:00"
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-06-30T16:45:00"
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T52",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2024-06-30T12:50:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T52",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-06-30T13:15:00"
+    },
+    {
+      "lastName": "Cauley",
+      "firstName": "Bud",
+      "playerId": "34021",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T52",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2024-06-30T14:40:00"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T52",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:40am",
+      "teeTimeTimestamp": "2024-06-30T14:40:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T52",
+      "total": "-7",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2024-06-30T15:30:00"
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:00am",
+      "teeTimeTimestamp": "2024-06-30T12:00:00"
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:10am",
+      "teeTimeTimestamp": "2024-06-30T12:10:00"
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2024-06-30T12:40:00"
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-06-30T13:25:00"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-06-30T13:45:00"
+    },
+    {
+      "lastName": "Highsmith",
+      "firstName": "Joe",
+      "playerId": "60067",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T57",
+      "total": "-6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-06-30T14:05:00"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T63",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:20am",
+      "teeTimeTimestamp": "2024-06-30T12:20:00"
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Pierceson",
+      "playerId": "59836",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T63",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2024-06-30T13:00:00"
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T63",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-06-30T13:15:00"
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "66",
+      "total": "-4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-06-30T13:25:00"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T67",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2024-06-30T11:40:00"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T67",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:50am",
+      "teeTimeTimestamp": "2024-06-30T11:50:00"
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Chandler",
+      "playerId": "57900",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T67",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:50am",
+      "teeTimeTimestamp": "2024-06-30T11:50:00"
+    },
+    {
+      "lastName": "Bryan",
+      "firstName": "Wesley",
+      "playerId": "48084",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T67",
+      "total": "-3",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-06-30T14:05:00"
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T67",
+      "total": "-3",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-06-30T14:15:00"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T72",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:40am",
+      "teeTimeTimestamp": "2024-06-30T11:40:00"
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "T72",
+      "total": "-2",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2024-06-30T12:40:00"
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "complete",
+      "position": "74",
+      "total": "-1",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:20am",
+      "teeTimeTimestamp": "2024-06-30T12:20:00"
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Chan",
+      "playerId": "34587",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thorbjornsen",
+      "firstName": "Michael",
+      "playerId": "57364",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pereda",
+      "firstName": "Raul",
+      "playerId": "47806",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Berger",
+      "firstName": "Daniel",
+      "playerId": "40026",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dougherty",
+      "firstName": "Kevin",
+      "playerId": "47663",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "C.T.",
+      "playerId": "29908",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Albertson",
+      "firstName": "Anders",
+      "playerId": "49303",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campillo",
+      "firstName": "Jorge",
+      "playerId": "32367",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kraft",
+      "firstName": "Kelly",
+      "playerId": "35879",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gutschewski",
+      "firstName": "Scott",
+      "playerId": "24980",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Koivun",
+      "firstName": "Jackson",
+      "playerId": "66701",
+      "isAmateur": true,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wilkinson",
+      "firstName": "Tim",
+      "playerId": "25349",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Russell",
+      "firstName": "Miles",
+      "playerId": "66290",
+      "isAmateur": true,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Tyson",
+      "playerId": "33408",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Teater",
+      "firstName": "Josh",
+      "playerId": "27330",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mack III",
+      "firstName": "Willie",
+      "playerId": "50006",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Brandt",
+      "playerId": "27649",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Furr",
+      "firstName": "Wilson",
+      "playerId": "56149",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Berry",
+      "firstName": "Brandon",
+      "playerId": "58989",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Crowe",
+      "firstName": "Trace",
+      "playerId": "52514",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Rafael",
+      "playerId": "32070",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dumont de Chassart",
+      "firstName": "Adrien",
+      "playerId": "50497",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Valimaki",
+      "firstName": "Sami",
+      "playerId": "52666",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Thorbjørn",
+      "playerId": "33968",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barjon",
+      "firstName": "Paul",
+      "playerId": "37212",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Martin",
+      "playerId": "35617",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Kyle",
+      "playerId": "65252",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Parker",
+      "playerId": "59442",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Guise",
+      "firstName": "Danny",
+      "playerId": "49790",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Whitney",
+      "firstName": "Tom",
+      "playerId": "48319",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bienz",
+      "firstName": "Nick",
+      "playerId": "58248",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Giantsopoulos",
+      "firstName": "Angelo",
+      "playerId": "59476",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "73",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Tosti",
+      "firstName": "Alejandro",
+      "playerId": "38991",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "74",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Will",
+      "playerId": "47483",
+      "isAmateur": false,
+      "courseId": "876",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "137",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "876",
+          "courseName": "Detroit Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

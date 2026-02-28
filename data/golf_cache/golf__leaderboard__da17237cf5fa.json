@@ -1,0 +1,3915 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "014",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-04-14T23:03:55",
+  "cutLines": [
+    {
+      "cutCount": 29,
+      "cutScore": "+6"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "isAmateur": false,
+      "playerId": "46046",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2024-04-14T18:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 66
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 68
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "isAmateur": false,
+      "playerId": "52955",
+      "teeTime": "2:25pm",
+      "teeTimeTimestamp": "2024-04-14T18:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "position": "2",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "isAmateur": false,
+      "playerId": "30911",
+      "teeTime": "1:45pm",
+      "teeTimeTimestamp": "2024-04-14T17:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-4",
+      "currentRoundScore": "-3",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "isAmateur": false,
+      "playerId": "39977",
+      "teeTime": "2:25pm",
+      "teeTimeTimestamp": "2024-04-14T18:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-4",
+      "currentRoundScore": "+1",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 67
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "isAmateur": false,
+      "playerId": "50525",
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2024-04-14T18:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-4",
+      "currentRoundScore": "+2",
+      "position": "T3",
+      "totalStrokesFromCompletedRounds": "284",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "playerId": "35891",
+      "teeTime": "1:55pm",
+      "teeTimeTimestamp": "2024-04-14T17:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "position": "T6",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "DeChambeau",
+      "firstName": "Bryson",
+      "isAmateur": false,
+      "playerId": "47959",
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": "2024-04-14T18:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-2",
+      "currentRoundScore": "+1",
+      "position": "T6",
+      "totalStrokesFromCompletedRounds": "286",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 65
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "isAmateur": false,
+      "playerId": "48081",
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": "2024-04-14T18:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "position": "8",
+      "totalStrokesFromCompletedRounds": "287",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Will",
+      "isAmateur": false,
+      "playerId": "47483",
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-04-14T16:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "E",
+      "currentRoundScore": "-3",
+      "position": "T9",
+      "totalStrokesFromCompletedRounds": "288",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "isAmateur": false,
+      "playerId": "34363",
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-04-14T16:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "E",
+      "currentRoundScore": "-3",
+      "position": "T9",
+      "totalStrokesFromCompletedRounds": "288",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "playerId": "57366",
+      "teeTime": "1:45pm",
+      "teeTimeTimestamp": "2024-04-14T17:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "E",
+      "currentRoundScore": "+1",
+      "position": "T9",
+      "totalStrokesFromCompletedRounds": "288",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "isAmateur": false,
+      "playerId": "48153",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-04-14T16:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+1",
+      "currentRoundScore": "E",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "289",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Reed",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "playerId": "34360",
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2024-04-14T17:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+1",
+      "currentRoundScore": "E",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "289",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "playerId": "47347",
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2024-04-14T17:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "289",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cameron",
+      "isAmateur": false,
+      "playerId": "45157",
+      "teeTime": "2:05pm",
+      "teeTimeTimestamp": "2024-04-14T18:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "289",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "isAmateur": false,
+      "playerId": "49960",
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-04-14T16:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+2",
+      "currentRoundScore": "E",
+      "position": "T16",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "isAmateur": false,
+      "playerId": "30926",
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2024-04-14T17:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "position": "T16",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 68
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "isAmateur": false,
+      "playerId": "33948",
+      "teeTime": "1:55pm",
+      "teeTimeTimestamp": "2024-04-14T17:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "position": "T16",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Nicolai",
+      "isAmateur": false,
+      "playerId": "52453",
+      "teeTime": "2:05pm",
+      "teeTimeTimestamp": "2024-04-14T18:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+2",
+      "currentRoundScore": "+4",
+      "position": "T16",
+      "totalStrokesFromCompletedRounds": "290",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 67
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "isAmateur": false,
+      "playerId": "49947",
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2024-04-14T15:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+3",
+      "currentRoundScore": "-2",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "isAmateur": false,
+      "playerId": "25900",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2024-04-14T17:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "291",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "isAmateur": false,
+      "playerId": "33141",
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2024-04-14T14:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "-3",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "isAmateur": false,
+      "playerId": "37378",
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2024-04-14T14:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "-3",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "isAmateur": false,
+      "playerId": "34099",
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2024-04-14T15:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "playerId": "24502",
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-04-14T16:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "E",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "isAmateur": false,
+      "playerId": "28237",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-04-14T16:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "+1",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Niemann",
+      "firstName": "Joaquín",
+      "isAmateur": false,
+      "playerId": "45486",
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-04-14T16:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "+1",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "isAmateur": false,
+      "playerId": "40098",
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2024-04-14T17:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "isAmateur": false,
+      "playerId": "35450",
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2024-04-14T17:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "position": "T22",
+      "totalStrokesFromCompletedRounds": "292",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "isAmateur": false,
+      "playerId": "55182",
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-04-14T13:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+5",
+      "currentRoundScore": "-6",
+      "position": "T30",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 66
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "isAmateur": false,
+      "playerId": "28089",
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-04-14T14:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+5",
+      "currentRoundScore": "-3",
+      "position": "T30",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "isAmateur": false,
+      "playerId": "37455",
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-04-14T14:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "position": "T30",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J. T.",
+      "isAmateur": false,
+      "playerId": "49771",
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-04-14T14:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "position": "T30",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "isAmateur": false,
+      "playerId": "32102",
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-04-14T16:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+5",
+      "currentRoundScore": "E",
+      "position": "T30",
+      "totalStrokesFromCompletedRounds": "293",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "isAmateur": false,
+      "playerId": "48117",
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2024-04-14T13:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+6",
+      "currentRoundScore": "-4",
+      "position": "T35",
+      "totalStrokesFromCompletedRounds": "294",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 82
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 68
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "isAmateur": false,
+      "playerId": "27770",
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-04-14T14:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+6",
+      "currentRoundScore": "-3",
+      "position": "T35",
+      "totalStrokesFromCompletedRounds": "294",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "isAmateur": false,
+      "playerId": "56630",
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2024-04-14T15:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "position": "T35",
+      "totalStrokesFromCompletedRounds": "294",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "isAmateur": false,
+      "playerId": "34098",
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-04-14T14:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+7",
+      "currentRoundScore": "-1",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "295",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "isAmateur": false,
+      "playerId": "39997",
+      "teeTime": "11:05am",
+      "teeTimeTimestamp": "2024-04-14T15:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "295",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "isAmateur": false,
+      "playerId": "32839",
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-04-14T15:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "295",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "isAmateur": false,
+      "playerId": "27129",
+      "teeTime": "11:55am",
+      "teeTimeTimestamp": "2024-04-14T15:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "295",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "isAmateur": false,
+      "playerId": "29936",
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-04-14T16:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+7",
+      "currentRoundScore": "+3",
+      "position": "T38",
+      "totalStrokesFromCompletedRounds": "295",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 69
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Mickelson",
+      "firstName": "Phil",
+      "isAmateur": false,
+      "playerId": "01810",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-04-14T15:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+8",
+      "currentRoundScore": "+2",
+      "position": "T43",
+      "totalStrokesFromCompletedRounds": "296",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "isAmateur": false,
+      "playerId": "33204",
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-04-14T15:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+8",
+      "currentRoundScore": "+2",
+      "position": "T43",
+      "totalStrokesFromCompletedRounds": "296",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "isAmateur": false,
+      "playerId": "47993",
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-04-14T13:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "-2",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Olazábal",
+      "firstName": "José María",
+      "isAmateur": false,
+      "playerId": "06373",
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-04-14T14:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "E",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Koepka",
+      "firstName": "Brooks",
+      "isAmateur": false,
+      "playerId": "36689",
+      "teeTime": "11:05am",
+      "teeTimeTimestamp": "2024-04-14T15:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "+3",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "isAmateur": false,
+      "playerId": "51634",
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2024-04-14T15:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "+3",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "isAmateur": false,
+      "playerId": "46970",
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2024-04-14T15:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "+4",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "isAmateur": false,
+      "playerId": "32139",
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-04-14T16:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+9",
+      "currentRoundScore": "+6",
+      "position": "T45",
+      "totalStrokesFromCompletedRounds": "297",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 68
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Murray",
+      "firstName": "Grayson",
+      "isAmateur": false,
+      "playerId": "34213",
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-04-14T13:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+10",
+      "currentRoundScore": "-2",
+      "position": "51",
+      "totalStrokesFromCompletedRounds": "298",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "isAmateur": false,
+      "playerId": "47591",
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-04-14T14:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+11",
+      "currentRoundScore": "+1",
+      "position": "52",
+      "totalStrokesFromCompletedRounds": "299",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "isAmateur": false,
+      "playerId": "33399",
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-04-14T13:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+12",
+      "currentRoundScore": "-2",
+      "position": "T53",
+      "totalStrokesFromCompletedRounds": "300",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 82
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 70
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Shipley",
+      "firstName": "Neal",
+      "isAmateur": true,
+      "playerId": "63807",
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-04-14T13:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+12",
+      "currentRoundScore": "+1",
+      "position": "T53",
+      "totalStrokesFromCompletedRounds": "300",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Knapp",
+      "firstName": "Jake",
+      "isAmateur": false,
+      "playerId": "47420",
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-04-14T13:25:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+13",
+      "currentRoundScore": "+1",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": "301",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "isAmateur": false,
+      "playerId": "40006",
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-04-14T14:05:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+13",
+      "currentRoundScore": "+4",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": "301",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "isAmateur": false,
+      "playerId": "29725",
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2024-04-14T15:45:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+13",
+      "currentRoundScore": "+8",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": "301",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Singh",
+      "firstName": "Vijay",
+      "isAmateur": false,
+      "playerId": "06567",
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-04-14T13:15:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+14",
+      "currentRoundScore": "E",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "302",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 82
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Thorbjørn",
+      "isAmateur": false,
+      "playerId": "33968",
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2024-04-14T13:55:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+14",
+      "currentRoundScore": "+3",
+      "position": "T58",
+      "totalStrokesFromCompletedRounds": "302",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Woods",
+      "firstName": "Tiger",
+      "isAmateur": false,
+      "playerId": "08793",
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-04-14T13:35:00",
+      "courseId": "014",
+      "status": "complete",
+      "currentRound": 4,
+      "total": "+16",
+      "currentRoundScore": "+5",
+      "position": "60",
+      "totalStrokesFromCompletedRounds": "304",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 3,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 82
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        }
+      ],
+      "thru": "F",
+      "startingHole": 1,
+      "currentHole": 18
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "isAmateur": false,
+      "playerId": "54628",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Weir",
+      "firstName": "Mike",
+      "isAmateur": false,
+      "playerId": "10423",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "isAmateur": false,
+      "playerId": "22405",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "isAmateur": false,
+      "playerId": "39971",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "isAmateur": false,
+      "playerId": "57362",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "isAmateur": false,
+      "playerId": "24024",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 75
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Garcia",
+      "firstName": "Sergio",
+      "isAmateur": false,
+      "playerId": "21209",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "isAmateur": false,
+      "playerId": "33448",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "playerId": "59866",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "isAmateur": false,
+      "playerId": "51766",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+7",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Hagestad",
+      "firstName": "Stewart",
+      "isAmateur": true,
+      "playerId": "51586",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+8",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Lamprecht",
+      "firstName": "Christo",
+      "isAmateur": true,
+      "playerId": "54422",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+8",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "isAmateur": false,
+      "playerId": "46717",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+8",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 71
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "isAmateur": false,
+      "playerId": "47504",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+9",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 73
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "isAmateur": false,
+      "playerId": "27644",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+9",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "isAmateur": false,
+      "playerId": "34046",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+9",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "isAmateur": false,
+      "playerId": "34466",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+10",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 82
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 72
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Watson",
+      "firstName": "Bubba",
+      "isAmateur": false,
+      "playerId": "25804",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+10",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "de la Fuente",
+      "firstName": "Santiago",
+      "isAmateur": true,
+      "playerId": "61520",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+10",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "isAmateur": false,
+      "playerId": "36799",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+10",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Schwartzel",
+      "firstName": "Charl",
+      "isAmateur": false,
+      "playerId": "26331",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+11",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 74
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Hisatsune",
+      "firstName": "Ryo",
+      "isAmateur": false,
+      "playerId": "51287",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+12",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Couples",
+      "firstName": "Fred",
+      "isAmateur": false,
+      "playerId": "01226",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+12",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Stubbs",
+      "firstName": "Jasper",
+      "isAmateur": true,
+      "playerId": "56513",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+12",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Dustin",
+      "isAmateur": false,
+      "playerId": "30925",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+13",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 79
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "isAmateur": false,
+      "playerId": "31323",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+13",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Meronk",
+      "firstName": "Adrian",
+      "isAmateur": false,
+      "playerId": "33674",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+14",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 78
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 80
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "isAmateur": false,
+      "playerId": "25493",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+14",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 77
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 81
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "isAmateur": false,
+      "playerId": "31646",
+      "courseId": "014",
+      "status": "cut",
+      "currentRound": 2,
+      "total": "+15",
+      "currentRoundScore": "-",
+      "position": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 76
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "courseId": "014",
+          "courseName": "Augusta National Golf Club",
+          "strokes": 83
+        }
+      ],
+      "thru": "",
+      "startingHole": 1,
+      "currentHole": 1
+    }
+  ],
+  "timestamp": "2024-04-14T23:04:52.590000"
+}

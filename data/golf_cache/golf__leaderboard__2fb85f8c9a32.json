@@ -1,0 +1,6023 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "543",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-09-18T01:19:47.809000",
+  "timestamp": "2023-09-18T01:19:47.809000",
+  "cutLines": [
+    {
+      "cutCount": 88,
+      "cutScore": "-3"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "1",
+      "total": "-21",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:50pm"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "2",
+      "total": "-19",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:40pm"
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "3",
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:50pm"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "4",
+      "total": "-16",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:30pm"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "5",
+      "total": "-15",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:40pm"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "6",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:15pm"
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T7",
+      "total": "-13",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:30am"
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T7",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:45pm"
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T7",
+      "total": "-13",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:20pm"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T7",
+      "total": "-13",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:30pm"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T11",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:10am"
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T11",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:20am"
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T11",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:20pm"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T14",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:00am"
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T14",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:45am"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T14",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:00pm"
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T17",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:30am"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T17",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:45am"
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:25am"
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:50am"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Lebioda",
+      "firstName": "Hank",
+      "playerId": "49766",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:25pm"
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:45pm"
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T19",
+      "total": "-9",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:10pm"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T25",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:45am"
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T25",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:10am"
+    },
+    {
+      "lastName": "Trahan",
+      "firstName": "D.J.",
+      "playerId": "23788",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T25",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:55am"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T25",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:05pm"
+    },
+    {
+      "lastName": "Kraft",
+      "firstName": "Kelly",
+      "playerId": "35879",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T25",
+      "total": "-8",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:25pm"
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Tyson",
+      "playerId": "33408",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:25am"
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:35am"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Tom",
+      "playerId": "12195",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:55am"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:05am"
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:15am"
+    },
+    {
+      "lastName": "Kodaira",
+      "firstName": "Satoshi",
+      "playerId": "32816",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:00am"
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:55am"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:35pm"
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Scott",
+      "playerId": "27554",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:00pm"
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Martin",
+      "playerId": "35617",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T30",
+      "total": "-7",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:10pm"
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:15am"
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:45am"
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:55am"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:05am"
+    },
+    {
+      "lastName": "Landry",
+      "firstName": "Andrew",
+      "playerId": "33410",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:50am"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T45",
+      "total": "-6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:35pm"
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T52",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Bae",
+      "firstName": "Sangmoon",
+      "playerId": "28259",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T52",
+      "total": "-5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T52",
+      "total": "-5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:05pm"
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T52",
+      "total": "-5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:15pm"
+    },
+    {
+      "lastName": "Summerhays",
+      "firstName": "Preston",
+      "playerId": "57298",
+      "isAmateur": true,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Crane",
+      "firstName": "Ben",
+      "playerId": "23541",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:15am"
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Scott",
+      "playerId": "30692",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T56",
+      "total": "-4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:20am"
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T62",
+      "total": "-3",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T62",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "McGirt",
+      "firstName": "William",
+      "playerId": "31202",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "64",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Kang",
+      "firstName": "Sung",
+      "playerId": "27974",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "65",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:15am"
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T66",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "T66",
+      "total": "E",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:35am"
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "complete",
+      "position": "68",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Westmoreland",
+      "firstName": "Kyle",
+      "playerId": "52411",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bryan",
+      "firstName": "Wesley",
+      "playerId": "48084",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stroud",
+      "firstName": "Chris",
+      "playerId": "27963",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kuest",
+      "firstName": "Peter",
+      "playerId": "58696",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bouniol",
+      "firstName": "Cyril",
+      "playerId": "39460",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "C.T.",
+      "playerId": "29908",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ogilvy",
+      "firstName": "Geoff",
+      "playerId": "22046",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hathcoat",
+      "firstName": "Blake",
+      "playerId": "59105",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "O'Hair",
+      "firstName": "Sean",
+      "playerId": "24140",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Redman",
+      "firstName": "Doc",
+      "playerId": "53165",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chung",
+      "firstName": "Henry",
+      "playerId": "54530",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gainey",
+      "firstName": "Tommy",
+      "playerId": "30750",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noh",
+      "firstName": "S.Y.",
+      "playerId": "29289",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bergeron",
+      "firstName": "Jacob",
+      "playerId": "55411",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Points",
+      "firstName": "D.A.",
+      "playerId": "25240",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gay",
+      "firstName": "Brian",
+      "playerId": "19846",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Scott",
+      "playerId": "29479",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Holmes",
+      "firstName": "J.B.",
+      "playerId": "27141",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Percy",
+      "firstName": "Cameron",
+      "playerId": "22056",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gribble",
+      "firstName": "Cody",
+      "playerId": "39954",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chalmers",
+      "firstName": "Greg",
+      "playerId": "20593",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Goya",
+      "firstName": "Tano",
+      "playerId": "31577",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lamely",
+      "firstName": "Derek",
+      "playerId": "27797",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stadler",
+      "firstName": "Kevin",
+      "playerId": "26679",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ernst",
+      "firstName": "Derek",
+      "playerId": "37273",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sienkiewicz",
+      "firstName": "Chase",
+      "playerId": "63548",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Deneen",
+      "firstName": "Morgan",
+      "playerId": "59608",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Biondi",
+      "firstName": "Fred",
+      "playerId": "55930",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Atwal",
+      "firstName": "Arjun",
+      "playerId": "21407",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bling",
+      "firstName": "Devon",
+      "playerId": "55888",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Ricky",
+      "playerId": "24846",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Werbylo",
+      "firstName": "Trevor",
+      "playerId": "58967",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Potter, Jr.",
+      "firstName": "Ted",
+      "playerId": "27556",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "926",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "75",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "926",
+          "courseName": "Silverado Resort (North Course)"
+        }
+      ],
+      "currentRound": 1
+    }
+  ]
+}

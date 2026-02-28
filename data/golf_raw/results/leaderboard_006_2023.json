@@ -1,0 +1,5404 @@
+{
+  "orgId": "1",
+  "tournId": "006",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "year": "2023",
+  "cutLines": [
+    {
+      "cutCount": 76,
+      "cutScore": "-2"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "courseId": "006",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-6",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "262",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "courseId": "006",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-2",
+      "position": "2",
+      "totalStrokesFromCompletedRounds": "263",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "courseId": "006",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "position": "3",
+      "totalStrokesFromCompletedRounds": "265",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "courseId": "006",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "courseId": "006",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "courseId": "006",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "courseId": "006",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-5",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "courseId": "006",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "courseId": "006",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "courseId": "006",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-2",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "courseId": "006",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "position": "T7",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "courseId": "006",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-5",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-6",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "courseId": "006",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "position": "T21",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "courseId": "006",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "courseId": "006",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-1",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "courseId": "006",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-1",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "courseId": "006",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "+1",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Michael",
+      "playerId": "32150",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Tyson",
+      "playerId": "33408",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Redman",
+      "firstName": "Doc",
+      "playerId": "53165",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-5",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "courseId": "006",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-5",
+      "position": "T32",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "courseId": "006",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-4",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Danny",
+      "playerId": "29926",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Steele",
+      "firstName": "Brendan",
+      "playerId": "29518",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "courseId": "006",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-5",
+      "position": "T48",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Nakajima",
+      "firstName": "Keita",
+      "playerId": "49228",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Winslow",
+      "firstName": "Joseph",
+      "playerId": "50154",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "courseId": "006",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-6",
+      "position": "T54",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Hammer",
+      "firstName": "Cole",
+      "playerId": "47987",
+      "courseId": "006",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "position": "T61",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kraft",
+      "firstName": "Kelly",
+      "playerId": "35879",
+      "courseId": "006",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "position": "T61",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "courseId": "006",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "position": "T61",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "courseId": "006",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "position": "T61",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "courseId": "006",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "+2",
+      "position": "T65",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "courseId": "006",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "position": "T65",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Semikawa",
+      "firstName": "Taiga",
+      "playerId": "47888",
+      "courseId": "006",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+3",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "courseId": "006",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Albertson",
+      "firstName": "Anders",
+      "playerId": "49303",
+      "courseId": "006",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "courseId": "006",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "courseId": "006",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "-3",
+      "position": "T67",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Higa",
+      "firstName": "Kazuki",
+      "playerId": "35778",
+      "courseId": "006",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "+1",
+      "position": "72",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "courseId": "006",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "+2",
+      "position": "T73",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "courseId": "006",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "position": "T73",
+      "totalStrokesFromCompletedRounds": "279",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "courseId": "006",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "position": "75",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "courseId": "006",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "position": "76",
+      "totalStrokesFromCompletedRounds": "282",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 9,
+      "startingHole": 10
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sabbatini",
+      "firstName": "Rory",
+      "playerId": "23621",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Choi",
+      "firstName": "K.J.",
+      "playerId": "24357",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "courseId": "006",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kelly",
+      "firstName": "Jerry",
+      "playerId": "08075",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "courseId": "006",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mueller",
+      "firstName": "Jesse",
+      "playerId": "28593",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McLachlin",
+      "firstName": "Parker",
+      "playerId": "24449",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Goya",
+      "firstName": "Tano",
+      "playerId": "31577",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Onishi",
+      "firstName": "Kaito",
+      "playerId": "55623",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Markham",
+      "firstName": "George",
+      "playerId": "58693",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Guise",
+      "firstName": "Danny",
+      "playerId": "49790",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Westmoreland",
+      "firstName": "Kyle",
+      "playerId": "52411",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Scott",
+      "playerId": "27554",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Akana",
+      "firstName": "Blaze",
+      "isAmateur": true,
+      "playerId": "64267",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Werbylo",
+      "firstName": "Trevor",
+      "playerId": "58967",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Katsuragawa",
+      "firstName": "Yuto",
+      "playerId": "48632",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Okada",
+      "firstName": "Kohei",
+      "isAmateur": true,
+      "playerId": "58164",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+9",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "150",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Truslow",
+      "firstName": "Austen",
+      "playerId": "45733",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "150",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Michael",
+      "playerId": "64266",
+      "courseId": "006",
+      "status": "cut",
+      "total": "+13",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "153",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "006",
+          "courseName": "Waialae Country Club"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    }
+  ],
+  "status": "Official",
+  "lastUpdated": "2023-01-15T20:13:38",
+  "timestamp": "2023-01-15T20:14:18.121000"
+}

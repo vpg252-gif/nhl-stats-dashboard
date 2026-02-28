@@ -1,0 +1,6200 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "030",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-07-06T22:35:22.793000",
+  "timestamp": "2025-07-06T22:35:22.793000",
+  "cutLines": [
+    {
+      "cutCount": 92,
+      "cutScore": "-5"
+    }
+  ],
+  "playoff": {
+    "players": [
+      {
+        "lastName": "Campbell",
+        "firstName": "Brian",
+        "playerId": "46443",
+        "position": "1",
+        "holes": [
+          {
+            "holeId": 18,
+            "par": 4,
+            "holeScore": 4
+          }
+        ]
+      },
+      {
+        "lastName": "Grillo",
+        "firstName": "Emiliano",
+        "playerId": "31646",
+        "position": "2",
+        "holes": []
+      }
+    ]
+  },
+  "leaderboardRows": [
+    {
+      "lastName": "Campbell",
+      "firstName": "Brian",
+      "playerId": "46443",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "1",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2025-07-06T17:25:00"
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "2",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2025-07-06T17:35:00"
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T3",
+      "total": "-17",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2025-07-06T16:40:00"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T3",
+      "total": "-17",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-07-06T17:45:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-07-06T15:35:00"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-07-06T16:00:00"
+    },
+    {
+      "lastName": "Bridgeman",
+      "firstName": "Jacob",
+      "playerId": "60004",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:00am",
+      "teeTimeTimestamp": "2025-07-06T16:00:00"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2025-07-06T17:05:00"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2025-07-06T17:25:00"
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T5",
+      "total": "-16",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "268",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2025-07-06T17:35:00"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "teeTimeTimestamp": "2025-07-06T14:10:00"
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-07-06T14:30:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2025-07-06T15:25:00"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-07-06T15:35:00"
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-06T16:30:00"
+    },
+    {
+      "lastName": "Koivun",
+      "firstName": "Jackson",
+      "playerId": "66701",
+      "isAmateur": true,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:50am",
+      "teeTimeTimestamp": "2025-07-06T16:50:00"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T11",
+      "total": "-15",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2025-07-06T17:15:00"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T18",
+      "total": "-14",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2025-07-06T15:15:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Patrick",
+      "playerId": "54576",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T18",
+      "total": "-14",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2025-07-06T16:10:00"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T18",
+      "total": "-14",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2025-07-06T17:45:00"
+    },
+    {
+      "lastName": "Thorbjornsen",
+      "firstName": "Michael",
+      "playerId": "57364",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2025-07-06T12:55:00"
+    },
+    {
+      "lastName": "Knapp",
+      "firstName": "Jake",
+      "playerId": "47420",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2025-07-06T13:50:00"
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2025-07-06T14:00:00"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2025-07-06T15:15:00"
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2025-07-06T16:20:00"
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T21",
+      "total": "-13",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:50am",
+      "teeTimeTimestamp": "2025-07-06T16:50:00"
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T27",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:50am",
+      "teeTimeTimestamp": "2025-07-06T13:50:00"
+    },
+    {
+      "lastName": "Ventura",
+      "firstName": "Kris",
+      "playerId": "35658",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T27",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2025-07-06T15:45:00"
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T27",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:20am",
+      "teeTimeTimestamp": "2025-07-06T16:20:00"
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T27",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:40am",
+      "teeTimeTimestamp": "2025-07-06T16:40:00"
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T31",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-07-06T15:05:00"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T31",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2025-07-06T15:25:00"
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Brandt",
+      "playerId": "27649",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2025-07-06T13:30:00"
+    },
+    {
+      "lastName": "Cauley",
+      "firstName": "Bud",
+      "playerId": "34021",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2025-07-06T13:40:00"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:00am",
+      "teeTimeTimestamp": "2025-07-06T14:00:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "teeTimeTimestamp": "2025-07-06T14:10:00"
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Jeremy",
+      "playerId": "50582",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:20am",
+      "teeTimeTimestamp": "2025-07-06T14:20:00"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2025-07-06T15:45:00"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-06T16:30:00"
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T33",
+      "total": "-10",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2025-07-06T17:05:00"
+    },
+    {
+      "lastName": "Hoshino",
+      "firstName": "Rikuya",
+      "playerId": "47056",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T41",
+      "total": "-9",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:20am",
+      "teeTimeTimestamp": "2025-07-06T12:20:00"
+    },
+    {
+      "lastName": "Valdes",
+      "firstName": "Brendan",
+      "playerId": "65110",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T41",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:40am",
+      "teeTimeTimestamp": "2025-07-06T13:40:00"
+    },
+    {
+      "lastName": "Knowles",
+      "firstName": "Philip",
+      "playerId": "54813",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T41",
+      "total": "-9",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:10am",
+      "teeTimeTimestamp": "2025-07-06T16:10:00"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "teeTimeTimestamp": "2025-07-06T12:45:00"
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2025-07-06T12:55:00"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Jesper",
+      "playerId": "57586",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2025-07-06T13:05:00"
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "teeTimeTimestamp": "2025-07-06T13:15:00"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "teeTimeTimestamp": "2025-07-06T13:15:00"
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-07-06T14:45:00"
+    },
+    {
+      "lastName": "Burgoon",
+      "firstName": "Bronson",
+      "playerId": "29268",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2025-07-06T14:45:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-07-06T14:55:00"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2025-07-06T15:05:00"
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T44",
+      "total": "-8",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2025-07-06T17:15:00"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T54",
+      "total": "-7",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:10am",
+      "teeTimeTimestamp": "2025-07-06T12:10:00"
+    },
+    {
+      "lastName": "Del Solar",
+      "firstName": "Cristobal",
+      "playerId": "39859",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T54",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2025-07-06T13:05:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T54",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:20am",
+      "teeTimeTimestamp": "2025-07-06T14:20:00"
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T57",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:35am",
+      "teeTimeTimestamp": "2025-07-06T12:35:00"
+    },
+    {
+      "lastName": "Cummins",
+      "firstName": "Quade",
+      "playerId": "58605",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T57",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:30am",
+      "teeTimeTimestamp": "2025-07-06T13:30:00"
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T57",
+      "total": "-5",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:55am",
+      "teeTimeTimestamp": "2025-07-06T14:55:00"
+    },
+    {
+      "lastName": "Hisatsune",
+      "firstName": "Ryo",
+      "playerId": "51287",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T60",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "teeTimeTimestamp": "2025-07-06T12:45:00"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "T60",
+      "total": "-4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-07-06T14:30:00"
+    },
+    {
+      "lastName": "Sargent",
+      "firstName": "Gordon",
+      "playerId": "64442",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "62",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:20am",
+      "teeTimeTimestamp": "2025-07-06T12:20:00"
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "63",
+      "total": "-1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:35am",
+      "teeTimeTimestamp": "2025-07-06T12:35:00"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "complete",
+      "position": "64",
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:10am",
+      "teeTimeTimestamp": "2025-07-06T12:10:00"
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Radcliff",
+      "firstName": "Josh",
+      "playerId": "54358",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tosti",
+      "firstName": "Alejandro",
+      "playerId": "38991",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Victor",
+      "playerId": "47679",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Suber",
+      "firstName": "Jackson",
+      "playerId": "60019",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Peterson",
+      "firstName": "Paul",
+      "playerId": "36824",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hruby",
+      "firstName": "Petr",
+      "playerId": "57461",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mouw",
+      "firstName": "William",
+      "playerId": "63121",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Chandler",
+      "playerId": "57900",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dickson",
+      "firstName": "Taylor",
+      "playerId": "51690",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McCarty",
+      "firstName": "Matt",
+      "playerId": "59141",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ford",
+      "firstName": "David",
+      "playerId": "65256",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Clanton",
+      "firstName": "Luke",
+      "playerId": "66743",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kanaya",
+      "firstName": "Takumi",
+      "playerId": "47917",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "139",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Valimaki",
+      "firstName": "Sami",
+      "playerId": "52666",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pak",
+      "firstName": "John",
+      "playerId": "59160",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Riedel",
+      "firstName": "Matthew",
+      "playerId": "64693",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "James",
+      "firstName": "Ben",
+      "playerId": "57869",
+      "isAmateur": true,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Crowe",
+      "firstName": "Trace",
+      "playerId": "52514",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rosenmueller",
+      "firstName": "Thomas",
+      "playerId": "60882",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fischer",
+      "firstName": "Zack",
+      "playerId": "39412",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Onishi",
+      "firstName": "Kaito",
+      "playerId": "55623",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Vilips",
+      "firstName": "Karl",
+      "playerId": "54304",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Highsmith",
+      "firstName": "Joe",
+      "playerId": "60067",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chandler",
+      "firstName": "Will",
+      "playerId": "58933",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fisk",
+      "firstName": "Steven",
+      "playerId": "57123",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Skinns",
+      "firstName": "David",
+      "playerId": "27139",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Thorbjørn",
+      "playerId": "33968",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Salinda",
+      "firstName": "Isaiah",
+      "playerId": "56781",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "La Sasso",
+      "firstName": "Michael",
+      "playerId": "68384",
+      "isAmateur": true,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Chan",
+      "playerId": "34587",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Andersen",
+      "firstName": "Mason",
+      "playerId": "52370",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Waring",
+      "firstName": "Paul",
+      "playerId": "31113",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Ricky",
+      "playerId": "59440",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Albertson",
+      "firstName": "Anders",
+      "playerId": "49303",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Goodwin",
+      "firstName": "Noah",
+      "playerId": "55165",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Giannetto",
+      "firstName": "Jay",
+      "playerId": "65135",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thornberry",
+      "firstName": "Braden",
+      "playerId": "52144",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Rafael",
+      "playerId": "32070",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Summerhays",
+      "firstName": "Preston",
+      "playerId": "57298",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Capan III",
+      "firstName": "Frankie",
+      "playerId": "49590",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Silverman",
+      "firstName": "Ben",
+      "playerId": "39327",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herron",
+      "firstName": "Carson",
+      "playerId": "67386",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Pierceson",
+      "playerId": "59836",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Velo",
+      "firstName": "Kevin",
+      "playerId": "58619",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "74",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Lindheim",
+      "firstName": "Nicholas",
+      "playerId": "37278",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "75",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "71",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Potgieter",
+      "firstName": "Aldrich",
+      "playerId": "63343",
+      "isAmateur": false,
+      "courseId": "669",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "209",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "669",
+          "courseName": "TPC Deere Run"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

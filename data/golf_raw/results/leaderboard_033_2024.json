@@ -1,0 +1,6407 @@
+{
+  "orgId": "1",
+  "year": "2024",
+  "tournId": "033",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2024-05-19T23:16:03.550000",
+  "timestamp": "2024-05-19T23:16:03.550000",
+  "cutLines": [
+    {
+      "cutCount": 78,
+      "cutScore": "-1"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "1",
+      "total": "-21",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "263",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2024-05-19T18:35:00"
+    },
+    {
+      "lastName": "DeChambeau",
+      "firstName": "Bryson",
+      "playerId": "47959",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "2",
+      "total": "-20",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "264",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": "2024-05-19T18:15:00"
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "3",
+      "total": "-18",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "266",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:15pm",
+      "teeTimeTimestamp": "2024-05-19T18:15:00"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T4",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2024-05-19T17:15:00"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T4",
+      "total": "-15",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:35pm",
+      "teeTimeTimestamp": "2024-05-19T18:35:00"
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T6",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:05pm",
+      "teeTimeTimestamp": "2024-05-19T18:05:00"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T6",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:25pm",
+      "teeTimeTimestamp": "2024-05-19T18:25:00"
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T8",
+      "total": "-13",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2024-05-19T15:45:00"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T8",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-05-19T16:15:00"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T8",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "teeTimeTimestamp": "2024-05-19T17:35:00"
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T8",
+      "total": "-13",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:05pm",
+      "teeTimeTimestamp": "2024-05-19T18:05:00"
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2024-05-19T15:25:00"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-05-19T16:45:00"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2024-05-19T17:05:00"
+    },
+    {
+      "lastName": "Burmester",
+      "firstName": "Dean",
+      "playerId": "33974",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:55pm",
+      "teeTimeTimestamp": "2024-05-19T17:55:00"
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:55pm",
+      "teeTimeTimestamp": "2024-05-19T17:55:00"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T12",
+      "total": "-12",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "2:25pm",
+      "teeTimeTimestamp": "2024-05-19T18:25:00"
+    },
+    {
+      "lastName": "Hisatsune",
+      "firstName": "Ryo",
+      "playerId": "51287",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T18",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-05-19T16:35:00"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T18",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:05pm",
+      "teeTimeTimestamp": "2024-05-19T17:05:00"
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T18",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2024-05-19T17:25:00"
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T18",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "teeTimeTimestamp": "2024-05-19T17:25:00"
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T18",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "teeTimeTimestamp": "2024-05-19T17:35:00"
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T23",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "teeTimeTimestamp": "2024-05-19T15:45:00"
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T23",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-05-19T16:05:00"
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T23",
+      "total": "-10",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-05-19T16:55:00"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-05-19T13:15:00"
+    },
+    {
+      "lastName": "Koepka",
+      "firstName": "Brooks",
+      "playerId": "36689",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-05-19T14:05:00"
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2024-05-19T14:35:00"
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-05-19T14:45:00"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:55am",
+      "teeTimeTimestamp": "2024-05-19T14:55:00"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:05am",
+      "teeTimeTimestamp": "2024-05-19T15:05:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-05-19T15:15:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:15pm",
+      "teeTimeTimestamp": "2024-05-19T16:15:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T26",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:45pm",
+      "teeTimeTimestamp": "2024-05-19T16:45:00"
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T35",
+      "total": "-8",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:55am",
+      "teeTimeTimestamp": "2024-05-19T14:55:00"
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T35",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "teeTimeTimestamp": "2024-05-19T15:25:00"
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T35",
+      "total": "-8",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:05pm",
+      "teeTimeTimestamp": "2024-05-19T16:05:00"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T35",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:35pm",
+      "teeTimeTimestamp": "2024-05-19T16:35:00"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Jordan",
+      "playerId": "46464",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T39",
+      "total": "-7",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2024-05-19T12:05:00"
+    },
+    {
+      "lastName": "Niemann",
+      "firstName": "Joaquin",
+      "playerId": "45486",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T39",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-05-19T13:25:00"
+    },
+    {
+      "lastName": "Björk",
+      "firstName": "Alexander",
+      "playerId": "34310",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T39",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-05-19T14:25:00"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T39",
+      "total": "-7",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-05-19T16:25:00"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Dustin",
+      "playerId": "30925",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "teeTimeTimestamp": "2024-05-19T12:15:00"
+    },
+    {
+      "lastName": "Murray",
+      "firstName": "Grayson",
+      "playerId": "34213",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:55am",
+      "teeTimeTimestamp": "2024-05-19T12:55:00"
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-05-19T13:45:00"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-05-19T14:15:00"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:25am",
+      "teeTimeTimestamp": "2024-05-19T14:25:00"
+    },
+    {
+      "lastName": "Zalatoris",
+      "firstName": "Will",
+      "playerId": "47483",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:05am",
+      "teeTimeTimestamp": "2024-05-19T15:05:00"
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2024-05-19T15:35:00"
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:25pm",
+      "teeTimeTimestamp": "2024-05-19T16:25:00"
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:55pm",
+      "teeTimeTimestamp": "2024-05-19T16:55:00"
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T43",
+      "total": "-6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:15pm",
+      "teeTimeTimestamp": "2024-05-19T17:15:00"
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "teeTimeTimestamp": "2024-05-19T12:25:00"
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:45am",
+      "teeTimeTimestamp": "2024-05-19T12:45:00"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:05am",
+      "teeTimeTimestamp": "2024-05-19T13:05:00"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Jesper",
+      "playerId": "57586",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:15am",
+      "teeTimeTimestamp": "2024-05-19T13:15:00"
+    },
+    {
+      "lastName": "Reed",
+      "firstName": "Patrick",
+      "playerId": "34360",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-05-19T13:35:00"
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Thorbjørn",
+      "playerId": "33968",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:15am",
+      "teeTimeTimestamp": "2024-05-19T14:15:00"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T53",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "teeTimeTimestamp": "2024-05-19T15:35:00"
+    },
+    {
+      "lastName": "Gooch",
+      "firstName": "Talor",
+      "playerId": "46402",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T60",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2024-05-19T12:35:00"
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T60",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:45am",
+      "teeTimeTimestamp": "2024-05-19T12:45:00"
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T60",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:55am",
+      "teeTimeTimestamp": "2024-05-19T12:55:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T63",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "teeTimeTimestamp": "2024-05-19T12:15:00"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T63",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:25am",
+      "teeTimeTimestamp": "2024-05-19T13:25:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T63",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:35am",
+      "teeTimeTimestamp": "2024-05-19T13:35:00"
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T63",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2024-05-19T14:35:00"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Cameron",
+      "playerId": "35891",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T63",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "teeTimeTimestamp": "2024-05-19T15:15:00"
+    },
+    {
+      "lastName": "Soderberg",
+      "firstName": "Sebastian",
+      "playerId": "46405",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T68",
+      "total": "-2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2024-05-19T11:55:00"
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Rasmus",
+      "playerId": "52686",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T68",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "teeTimeTimestamp": "2024-05-19T12:05:00"
+    },
+    {
+      "lastName": "Donald",
+      "firstName": "Luke",
+      "playerId": "23983",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T68",
+      "total": "-2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:05am",
+      "teeTimeTimestamp": "2024-05-19T13:05:00"
+    },
+    {
+      "lastName": "Højgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T68",
+      "total": "-2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:05am",
+      "teeTimeTimestamp": "2024-05-19T14:05:00"
+    },
+    {
+      "lastName": "Shattuck",
+      "firstName": "Braden",
+      "playerId": "63181",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "72",
+      "total": "-1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:45am",
+      "teeTimeTimestamp": "2024-05-19T13:45:00"
+    },
+    {
+      "lastName": "Tosti",
+      "firstName": "Alejandro",
+      "playerId": "38991",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T73",
+      "total": "E",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "teeTimeTimestamp": "2024-05-19T11:45:00"
+    },
+    {
+      "lastName": "Kaymer",
+      "firstName": "Martin",
+      "playerId": "27408",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "T73",
+      "total": "E",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "teeTimeTimestamp": "2024-05-19T14:45:00"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "75",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "teeTimeTimestamp": "2024-05-19T12:25:00"
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "76",
+      "total": "+5",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "8:35am",
+      "teeTimeTimestamp": "2024-05-19T12:35:00"
+    },
+    {
+      "lastName": "Wells",
+      "firstName": "Jeremy",
+      "playerId": "46628",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "77",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "teeTimeTimestamp": "2024-05-19T11:45:00"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "complete",
+      "position": "78",
+      "total": "+9",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "teeTimeTimestamp": "2024-05-19T11:55:00"
+    },
+    {
+      "lastName": "Mendoza",
+      "firstName": "Kyle",
+      "playerId": "58381",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pan",
+      "firstName": "C.T.",
+      "playerId": "29908",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Polland",
+      "firstName": "Ben",
+      "playerId": "47567",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Åberg",
+      "firstName": "Ludvig",
+      "playerId": "52955",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "playerId": "46970",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Otaegui",
+      "firstName": "Adrian",
+      "playerId": "34575",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Valimaki",
+      "firstName": "Sami",
+      "playerId": "52666",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mueller",
+      "firstName": "Jesse",
+      "playerId": "28593",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meronk",
+      "firstName": "Adrian",
+      "playerId": "33674",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Knapp",
+      "firstName": "Jake",
+      "playerId": "47420",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svoboda",
+      "firstName": "Andrew",
+      "playerId": "29425",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kanaya",
+      "firstName": "Takumi",
+      "playerId": "47917",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Puig",
+      "firstName": "David",
+      "playerId": "61193",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Collet",
+      "firstName": "Tyler",
+      "playerId": "59570",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bowser",
+      "firstName": "Evan",
+      "playerId": "51735",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mickelson",
+      "firstName": "Phil",
+      "playerId": "01810",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "van Velzen",
+      "firstName": "Ryan",
+      "playerId": "59629",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Nakajima",
+      "firstName": "Keita",
+      "playerId": "49228",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dunlap",
+      "firstName": "Nick",
+      "playerId": "59866",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Yang",
+      "firstName": "Y.E.",
+      "playerId": "24663",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Worthington II",
+      "firstName": "Wyatt",
+      "playerId": "50012",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Somers",
+      "firstName": "John",
+      "playerId": "56297",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ogletree",
+      "firstName": "Andy",
+      "playerId": "57944",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Woods",
+      "firstName": "Tiger",
+      "playerId": "08793",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Block",
+      "firstName": "Michael",
+      "playerId": "22764",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kobori",
+      "firstName": "Kazuma",
+      "playerId": "54621",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jones",
+      "firstName": "Jared",
+      "playerId": "58391",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Victor",
+      "playerId": "47679",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Marek",
+      "firstName": "Brad",
+      "playerId": "59872",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Padraig",
+      "playerId": "20766",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Speight",
+      "firstName": "Josh",
+      "playerId": "50717",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Micheel",
+      "firstName": "Shaun",
+      "playerId": "06515",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Oakley",
+      "firstName": "Zac",
+      "playerId": "62848",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pavon",
+      "firstName": "Matthieu",
+      "playerId": "48153",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bevell",
+      "firstName": "Josh",
+      "playerId": "66506",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Tracy",
+      "playerId": "46374",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gross",
+      "firstName": "Larkin",
+      "playerId": "59869",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dobyns",
+      "firstName": "Matt",
+      "playerId": "36983",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Preston",
+      "playerId": "51458",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+16",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 83,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kellen",
+      "firstName": "Jeff",
+      "playerId": "39992",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+16",
+          "roundId": 1,
+          "strokes": 87,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Beem",
+      "firstName": "Rich",
+      "playerId": "23614",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+20",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "162",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 83,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Daly",
+      "firstName": "John",
+      "playerId": "01249",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "82",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "138",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "671",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "671",
+          "courseName": "Valhalla Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

@@ -1,0 +1,6150 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "100",
+  "roundId": 4,
+  "status": "Official",
+  "roundStatus": "Official",
+  "lastUpdated": "2023-07-23T17:19:06",
+  "timestamp": "2023-07-23T17:51:17.555000",
+  "cutLines": [
+    {
+      "cutCount": 76,
+      "cutScore": "+3"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "playerId": "27644",
+      "firstName": "Brian",
+      "lastName": "Harman",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-1",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": 271,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "2:15pm",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "55182",
+      "firstName": "Tom",
+      "lastName": "Kim",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": 277,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "49960",
+      "firstName": "Sepp",
+      "lastName": "Straka",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": 277,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:45pm",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "28089",
+      "firstName": "Jason",
+      "lastName": "Day",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": 277,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:55pm",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "46970",
+      "firstName": "Jon",
+      "lastName": "Rahm",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": 277,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "2:05pm",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "31646",
+      "firstName": "Emiliano",
+      "lastName": "Grillo",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "position": "T6",
+      "totalStrokesFromCompletedRounds": 278,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "28237",
+      "firstName": "Rory",
+      "lastName": "McIlroy",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "position": "T6",
+      "totalStrokesFromCompletedRounds": 278,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39113",
+      "firstName": "Shubhankar",
+      "lastName": "Sharma",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": 279,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "57366",
+      "firstName": "Cameron",
+      "lastName": "Young",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": 279,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "2:15pm",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39977",
+      "firstName": "Max",
+      "lastName": "Homa",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": 280,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "55955",
+      "firstName": "Matthew",
+      "lastName": "Jordan",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": 280,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "30911",
+      "firstName": "Tommy",
+      "lastName": "Fleetwood",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "+1",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": 280,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:45pm",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "21528",
+      "firstName": "Henrik",
+      "lastName": "Stenson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": 281,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "32839",
+      "firstName": "Hideki",
+      "lastName": "Matsuyama",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": 281,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "33653",
+      "firstName": "Thomas",
+      "lastName": "Detry",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": 281,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:25pm",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "46717",
+      "firstName": "Viktor",
+      "lastName": "Hovland",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "position": "T13",
+      "totalStrokesFromCompletedRounds": 281,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "2:05pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34362",
+      "firstName": "Laurie",
+      "lastName": "Canter",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-3",
+      "position": "T17",
+      "totalStrokesFromCompletedRounds": 282,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:00am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "48081",
+      "firstName": "Xander",
+      "lastName": "Schauffele",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "position": "T17",
+      "totalStrokesFromCompletedRounds": 282,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "55721",
+      "firstName": "Alex",
+      "lastName": "Fitzpatrick",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-2",
+      "currentRoundScore": "+2",
+      "position": "T17",
+      "totalStrokesFromCompletedRounds": 282,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:35pm",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34363",
+      "firstName": "Tyrrell",
+      "lastName": "Hatton",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": 283,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39971",
+      "firstName": "Sungjae",
+      "lastName": "Im",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": 283,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:50pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "46646",
+      "firstName": "Antoine",
+      "lastName": "Rozner",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": 283,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:55pm",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "33674",
+      "firstName": "Adrian",
+      "lastName": "Meronk",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "-4",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "46046",
+      "firstName": "Scottie",
+      "lastName": "Scheffler",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "-4",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "35174",
+      "firstName": "Matthew",
+      "lastName": "Southgate",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "26329",
+      "firstName": "Louis",
+      "lastName": "Oosthuizen",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:50am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "27349",
+      "firstName": "Alex",
+      "lastName": "Noren",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "-1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:00am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "20229",
+      "firstName": "Stewart",
+      "lastName": "Cink",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:15am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "33948",
+      "firstName": "Byeong Hun",
+      "lastName": "An",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "32102",
+      "firstName": "Rickie",
+      "lastName": "Fowler",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "+1",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:20pm",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34046",
+      "firstName": "Jordan",
+      "lastName": "Spieth",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "52453",
+      "firstName": "Nicolai",
+      "lastName": "Hojgaard",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "position": "T23",
+      "totalStrokesFromCompletedRounds": 284,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "1:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "24502",
+      "firstName": "Adam",
+      "lastName": "Scott",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "-2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:20am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "27506",
+      "firstName": "Oliver",
+      "lastName": "Wilson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "51766",
+      "firstName": "Wyndham",
+      "lastName": "Clark",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "45836",
+      "firstName": "Richard",
+      "lastName": "Bland",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34360",
+      "firstName": "Patrick",
+      "lastName": "Reed",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "35891",
+      "firstName": "Cameron",
+      "lastName": "Smith",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:00pm",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "35450",
+      "firstName": "Patrick",
+      "lastName": "Cantlay",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+2",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "37250",
+      "firstName": "Romain",
+      "lastName": "Langasque",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "position": "T33",
+      "totalStrokesFromCompletedRounds": 285,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:40pm",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "23481",
+      "firstName": "Marcel",
+      "lastName": "Siem",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "-1",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:55am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "47679",
+      "firstName": "Victor",
+      "lastName": "Perez",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "-1",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:20am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "55509",
+      "firstName": "Hurly",
+      "lastName": "Long",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "46464",
+      "firstName": "Jordan",
+      "lastName": "Smith",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "49771",
+      "firstName": "JT",
+      "lastName": "Poston",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34310",
+      "firstName": "Alexander",
+      "lastName": "Bjork",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+3",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:35am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "37378",
+      "firstName": "Min Woo",
+      "lastName": "Lee",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+4",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:20pm",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "40098",
+      "firstName": "Matt",
+      "lastName": "Fitzpatrick",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+2",
+      "currentRoundScore": "+4",
+      "position": "T41",
+      "totalStrokesFromCompletedRounds": 286,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "12:50pm",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "45522",
+      "firstName": "Christiaan",
+      "lastName": "Bezuidenhout",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+3",
+      "currentRoundScore": "+1",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": 287,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "45526",
+      "firstName": "Abraham",
+      "lastName": "Ancer",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": 287,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:10am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "30927",
+      "firstName": "Brendon",
+      "lastName": "Todd",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+3",
+      "currentRoundScore": "+3",
+      "position": "T49",
+      "totalStrokesFromCompletedRounds": 287,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "29936",
+      "firstName": "Ryan",
+      "lastName": "Fox",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": 288,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "35913",
+      "firstName": "Michael",
+      "lastName": "Stewart",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+4",
+      "currentRoundScore": "+5",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": 288,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:05am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39997",
+      "firstName": "Corey",
+      "lastName": "Conners",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+4",
+      "currentRoundScore": "+5",
+      "position": "T52",
+      "totalStrokesFromCompletedRounds": 288,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:45am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34256",
+      "firstName": "Andrew",
+      "lastName": "Putnam",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+5",
+      "currentRoundScore": "E",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": 289,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34575",
+      "firstName": "Adrian",
+      "lastName": "Otaegui",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": 289,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "31323",
+      "firstName": "Gary",
+      "lastName": "Woodland",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": 289,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:35am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "24024",
+      "firstName": "Zach",
+      "lastName": "Johnson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+5",
+      "currentRoundScore": "+3",
+      "position": "T55",
+      "totalStrokesFromCompletedRounds": 289,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "65374",
+      "firstName": "Brandon",
+      "lastName": "Robinson Thompson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "59",
+      "totalStrokesFromCompletedRounds": 290,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:35am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "30692",
+      "firstName": "Scott",
+      "lastName": "Stallings",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "E",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": 291,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "47959",
+      "firstName": "Bryson",
+      "lastName": "DeChambeau",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": 291,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:05am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "48117",
+      "firstName": "Kurt",
+      "lastName": "Kitayama",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+4",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": 291,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "47056",
+      "firstName": "Rikuya",
+      "lastName": "Hoshino",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": 291,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "20766",
+      "firstName": "Padraig",
+      "lastName": "Harrington",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": 292,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "36689",
+      "firstName": "Brooks",
+      "lastName": "Koepka",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+8",
+      "currentRoundScore": "+4",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": 292,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "29531",
+      "firstName": "Richie",
+      "lastName": "Ramsay",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+8",
+      "currentRoundScore": "+5",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": 292,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:10am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39834",
+      "firstName": "Guido",
+      "lastName": "Migliozzi",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+8",
+      "currentRoundScore": "+9",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": 292,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "11:05am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "32139",
+      "firstName": "Danny",
+      "lastName": "Willett",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "+2",
+      "position": "T68",
+      "totalStrokesFromCompletedRounds": 293,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "34409",
+      "firstName": "David",
+      "lastName": "Lingmerth",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "+7",
+      "position": "T68",
+      "totalStrokesFromCompletedRounds": 293,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "9:50am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "52666",
+      "firstName": "Sami",
+      "lastName": "Valimaki",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+9",
+      "currentRoundScore": "+8",
+      "position": "T68",
+      "totalStrokesFromCompletedRounds": 293,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:45am",
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "52215",
+      "firstName": "Robert",
+      "lastName": "MacIntyre",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+10",
+      "currentRoundScore": "+5",
+      "position": "T71",
+      "totalStrokesFromCompletedRounds": 294,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:15am",
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "33293",
+      "firstName": "Thomas",
+      "lastName": "Pieters",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+10",
+      "currentRoundScore": "+9",
+      "position": "T71",
+      "totalStrokesFromCompletedRounds": 294,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "28300",
+      "firstName": "Joost",
+      "lastName": "Luiten",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+10",
+      "currentRoundScore": "+9",
+      "position": "T71",
+      "totalStrokesFromCompletedRounds": 294,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "10:20am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "54422",
+      "firstName": "Christo",
+      "lastName": "Lamprecht",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "active",
+      "total": "+11",
+      "currentRoundScore": "+3",
+      "position": "T74",
+      "totalStrokesFromCompletedRounds": 295,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "7:45am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "45523",
+      "firstName": "Thriston",
+      "lastName": "Lawrence",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+11",
+      "currentRoundScore": "+8",
+      "position": "T74",
+      "totalStrokesFromCompletedRounds": 295,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "8:55am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "39412",
+      "firstName": "Zack",
+      "lastName": "Fischer",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "active",
+      "total": "+13",
+      "currentRoundScore": "+7",
+      "position": "76",
+      "totalStrokesFromCompletedRounds": 297,
+      "roundComplete": true,
+      "currentRound": 4,
+      "teeTime": "7:55am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "playerId": "25883",
+      "firstName": "Kyung Nam",
+      "lastName": "Kang",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "-3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "49947",
+      "firstName": "Taylor",
+      "lastName": "Moore",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "54591",
+      "firstName": "Ben",
+      "lastName": "Griffin",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33141",
+      "firstName": "Keegan",
+      "lastName": "Bradley",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "50525",
+      "firstName": "Collin",
+      "lastName": "Morikawa",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "29670",
+      "firstName": "Pablo",
+      "lastName": "Larrazabal",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "28252",
+      "firstName": "Seamus",
+      "lastName": "Power",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "59811",
+      "firstName": "Kazuki",
+      "lastName": "Yasumori",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 146,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "35532",
+      "firstName": "Tom",
+      "lastName": "Hoge",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "51634",
+      "firstName": "Sahith",
+      "lastName": "Theegala",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "-3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "45486",
+      "firstName": "Joaquin",
+      "lastName": "Niemann",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "39058",
+      "firstName": "Lucas",
+      "lastName": "Herbert",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "60165",
+      "firstName": "Jose Luis",
+      "lastName": "Ballester Barrio",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "34099",
+      "firstName": "Harris",
+      "lastName": "English",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "48051",
+      "firstName": "Yannik",
+      "lastName": "Paul",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 147,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "35778",
+      "firstName": "Kazuki",
+      "lastName": "Higa",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "39975",
+      "firstName": "Michael",
+      "lastName": "Kim",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "29420",
+      "firstName": "Billy",
+      "lastName": "Horschel",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "48887",
+      "firstName": "Matt",
+      "lastName": "Wallace",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "25198",
+      "firstName": "Francesco",
+      "lastName": "Molinari",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "49228",
+      "firstName": "Keita",
+      "lastName": "Nakajima",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "29725",
+      "firstName": "Tony",
+      "lastName": "Finau",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "22405",
+      "firstName": "Justin",
+      "lastName": "Rose",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "25493",
+      "firstName": "Nick",
+      "lastName": "Taylor",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33568",
+      "firstName": "Kalle",
+      "lastName": "Samooja",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "46601",
+      "firstName": "Trey",
+      "lastName": "Mullinax",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47504",
+      "firstName": "Sam",
+      "lastName": "Burns",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "30926",
+      "firstName": "Chris",
+      "lastName": "Kirk",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "-1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "32791",
+      "firstName": "KH",
+      "lastName": "Lee",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47995",
+      "firstName": "Davis",
+      "lastName": "Riley",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "-1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "35087",
+      "firstName": "Bio",
+      "lastName": "Kim",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 148,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "52686",
+      "firstName": "Rasmus",
+      "lastName": "Hojgaard",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "E",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "54278",
+      "firstName": "Mateo",
+      "lastName": "Fernandez de Oliveira",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33023",
+      "firstName": "Ockie",
+      "lastName": "Strydom",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "50223",
+      "firstName": "Ewen",
+      "lastName": "Ferguson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "39201",
+      "firstName": "Nacho",
+      "lastName": "Elvira",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "34098",
+      "firstName": "Russell",
+      "lastName": "Henley",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "26331",
+      "firstName": "Charl",
+      "lastName": "Schwartzel",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "50584",
+      "firstName": "Connor",
+      "lastName": "Syme",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "46402",
+      "firstName": "Talor",
+      "lastName": "Gooch",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33204",
+      "firstName": "Shane",
+      "lastName": "Lowry",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "37455",
+      "firstName": "Si Woo",
+      "lastName": "Kim",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "63459",
+      "firstName": "Dan",
+      "lastName": "Bradbury",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 149,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47078",
+      "firstName": "Travis",
+      "lastName": "Smyth",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "+1",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 150,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "27324",
+      "firstName": "Seungsu",
+      "lastName": "Han",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 150,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "51003",
+      "firstName": "Marco",
+      "lastName": "Penge",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "+5",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 150,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "19825",
+      "firstName": "Darren",
+      "lastName": "Clarke",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 150,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33968",
+      "firstName": "Thorbjorn",
+      "lastName": "Olesen",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 150,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "49813",
+      "firstName": "Daniel",
+      "lastName": "Hillier",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+9",
+      "currentRoundScore": "+2",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 151,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "01810",
+      "firstName": "Phil",
+      "lastName": "Mickelson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+9",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 151,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "46955",
+      "firstName": "Haydn",
+      "lastName": "Barron",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+9",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 151,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "65071",
+      "firstName": "Tiger",
+      "lastName": "Christensen",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+9",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 151,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "46035",
+      "firstName": "Callum",
+      "lastName": "Shinkwin",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47102",
+      "firstName": "David",
+      "lastName": "Micheluzzi",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "29974",
+      "firstName": "Branden",
+      "lastName": "Grace",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+8",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "65373",
+      "firstName": "Alex",
+      "lastName": "Maguire",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "06522",
+      "firstName": "Ernie",
+      "lastName": "Els",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47888",
+      "firstName": "Taiga",
+      "lastName": "Semikawa",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+10",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 152,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33448",
+      "firstName": "Justin",
+      "lastName": "Thomas",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+11",
+      "currentRoundScore": "E",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 153,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "25841",
+      "firstName": "Marc",
+      "lastName": "Warren",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+11",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 153,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "53914",
+      "firstName": "Connor",
+      "lastName": "McKinney",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+11",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 153,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47917",
+      "firstName": "Takumi",
+      "lastName": "Kanaya",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+11",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 153,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "54628",
+      "firstName": "Lee",
+      "lastName": "Hodges",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+11",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 153,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47993",
+      "firstName": "Denny",
+      "lastName": "McCarthy",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+7",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "01249",
+      "firstName": "John",
+      "lastName": "Daly",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47347",
+      "firstName": "Adam",
+      "lastName": "Schenk",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "26500",
+      "firstName": "Alejandro",
+      "lastName": "Canizares",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+8",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "45165",
+      "firstName": "Graeme",
+      "lastName": "Robertson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+8",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "32594",
+      "firstName": "Oliver",
+      "lastName": "Farr",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+12",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 154,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "30925",
+      "firstName": "Dustin",
+      "lastName": "Johnson",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+13",
+      "currentRoundScore": "+10",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 155,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "50673",
+      "firstName": "Martin",
+      "lastName": "Rohwer",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+13",
+      "currentRoundScore": "+11",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 155,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "49120",
+      "firstName": "Kensei",
+      "lastName": "Hirata",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "+10",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 156,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "52956",
+      "firstName": "Kyle",
+      "lastName": "Barker",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 156,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "54288",
+      "firstName": "Harrison",
+      "lastName": "Crowe",
+      "isAmateur": true,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "+9",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 156,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "32367",
+      "firstName": "Jorge",
+      "lastName": "Campillo",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "+3",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 156,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "27747",
+      "firstName": "Hiroshi",
+      "lastName": "Iwata",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+14",
+      "currentRoundScore": "+8",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 156,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "33936",
+      "firstName": "Gunner",
+      "lastName": "Wiebe",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+16",
+      "currentRoundScore": "+8",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 158,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "54299",
+      "firstName": "Taichi",
+      "lastName": "Kho",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+18",
+      "currentRoundScore": "+6",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 160,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+12",
+          "roundId": 1,
+          "strokes": 83,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "52096",
+      "firstName": "Adri",
+      "lastName": "Arnaus",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+21",
+      "currentRoundScore": "+10",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 163,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    },
+    {
+      "playerId": "47238",
+      "firstName": "Jazz",
+      "lastName": "Janewattananond",
+      "isAmateur": false,
+      "courseId": "923",
+      "status": "cut",
+      "total": "+22",
+      "currentRoundScore": "+12",
+      "position": "CUT",
+      "totalStrokesFromCompletedRounds": 164,
+      "roundComplete": false,
+      "currentRound": 2,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 83,
+          "courseId": "923",
+          "courseName": "Royal Liverpool"
+        }
+      ],
+      "currentHole": 1,
+      "startingHole": 0
+    }
+  ]
+}

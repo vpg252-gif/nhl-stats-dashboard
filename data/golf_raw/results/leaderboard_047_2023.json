@@ -1,0 +1,5494 @@
+{
+  "orgId": "1",
+  "tournId": "047",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "year": "2023",
+  "cutLines": [
+    {
+      "cutCount": 77,
+      "cutScore": "-4"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "courseId": "538",
+      "status": "active",
+      "total": "-24",
+      "currentRoundScore": "-5",
+      "position": "1",
+      "totalStrokesFromCompletedRounds": "260",
+      "roundComplete": true,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "courseId": "538",
+      "status": "active",
+      "total": "-21",
+      "currentRoundScore": "-2",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": "263",
+      "roundComplete": true,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-11",
+          "roundId": 3,
+          "strokes": 60,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matthew",
+      "playerId": "36871",
+      "courseId": "538",
+      "status": "active",
+      "total": "-21",
+      "currentRoundScore": "-5",
+      "position": "T2",
+      "totalStrokesFromCompletedRounds": "263",
+      "roundComplete": true,
+      "teeTime": "12:10pm",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "courseId": "538",
+      "status": "active",
+      "total": "-20",
+      "currentRoundScore": "-7",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "264",
+      "roundComplete": true,
+      "teeTime": "11:37am",
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Pereira",
+      "firstName": "Mito",
+      "playerId": "47529",
+      "courseId": "538",
+      "status": "active",
+      "total": "-20",
+      "currentRoundScore": "-4",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "264",
+      "roundComplete": true,
+      "teeTime": "11:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "courseId": "538",
+      "status": "active",
+      "total": "-20",
+      "currentRoundScore": "-5",
+      "position": "T4",
+      "totalStrokesFromCompletedRounds": "264",
+      "roundComplete": true,
+      "teeTime": "11:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "courseId": "538",
+      "status": "active",
+      "total": "-19",
+      "currentRoundScore": "-4",
+      "position": "7",
+      "totalStrokesFromCompletedRounds": "265",
+      "roundComplete": true,
+      "teeTime": "11:59am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "courseId": "538",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-8",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "10:33am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "courseId": "538",
+      "status": "active",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "position": "T8",
+      "totalStrokesFromCompletedRounds": "266",
+      "roundComplete": true,
+      "teeTime": "11:37am",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "courseId": "538",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-7",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "teeTime": "10:02am",
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "courseId": "538",
+      "status": "active",
+      "total": "-17",
+      "currentRoundScore": "-3",
+      "position": "T10",
+      "totalStrokesFromCompletedRounds": "267",
+      "roundComplete": true,
+      "teeTime": "11:48am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "courseId": "538",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-5",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "courseId": "538",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "11:26am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "courseId": "538",
+      "status": "active",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "position": "T12",
+      "totalStrokesFromCompletedRounds": "268",
+      "roundComplete": true,
+      "teeTime": "11:26am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "courseId": "538",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-7",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "8:36am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "courseId": "538",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-7",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "9:18am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "courseId": "538",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-7",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "9:18am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "courseId": "538",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:06am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "courseId": "538",
+      "status": "active",
+      "total": "-15",
+      "currentRoundScore": "-1",
+      "position": "T15",
+      "totalStrokesFromCompletedRounds": "269",
+      "roundComplete": true,
+      "teeTime": "11:37am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 2,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "8:58am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "9:29am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-4",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "10:22am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "10:44am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "-3",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "11:06am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "E",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "11:48am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 3,
+          "strokes": 62,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "courseId": "538",
+      "status": "active",
+      "total": "-14",
+      "currentRoundScore": "E",
+      "position": "T20",
+      "totalStrokesFromCompletedRounds": "270",
+      "roundComplete": true,
+      "teeTime": "11:48am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "8:14am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Welch",
+      "firstName": "Patrick",
+      "isAmateur": true,
+      "playerId": "60021",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-5",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "8:36am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "8:36am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "9:51am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "courseId": "538",
+      "status": "active",
+      "total": "-13",
+      "currentRoundScore": "-2",
+      "position": "T28",
+      "totalStrokesFromCompletedRounds": "271",
+      "roundComplete": true,
+      "teeTime": "10:55am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "8:14am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-5",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "8:25am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Burmester",
+      "firstName": "Dean",
+      "playerId": "33974",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-4",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "8:47am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "10:22am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "10:33am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Yu",
+      "firstName": "Kevin",
+      "playerId": "45242",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "10:33am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "courseId": "538",
+      "status": "active",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "position": "T37",
+      "totalStrokesFromCompletedRounds": "272",
+      "roundComplete": true,
+      "teeTime": "11:06am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-8",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:00am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-8",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-6",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:21am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-5",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:32am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-4",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "7:43am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Levin",
+      "firstName": "Spencer",
+      "playerId": "27466",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "8:47am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "8:47am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "8:58am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "8:58am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "9:29am",
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "10:02am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "courseId": "538",
+      "status": "active",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "position": "T44",
+      "totalStrokesFromCompletedRounds": "273",
+      "roundComplete": true,
+      "teeTime": "10:44am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "courseId": "538",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "7:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Goya",
+      "firstName": "Tano",
+      "playerId": "31577",
+      "courseId": "538",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "7:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "courseId": "538",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "8:14am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Michael",
+      "playerId": "32150",
+      "courseId": "538",
+      "status": "active",
+      "total": "-10",
+      "currentRoundScore": "-1",
+      "position": "T56",
+      "totalStrokesFromCompletedRounds": "274",
+      "roundComplete": true,
+      "teeTime": "9:51am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "courseId": "538",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "7:32am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "courseId": "538",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "9:18am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "courseId": "538",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "9:40am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "courseId": "538",
+      "status": "active",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "position": "T60",
+      "totalStrokesFromCompletedRounds": "275",
+      "roundComplete": true,
+      "teeTime": "10:02am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "courseId": "538",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-5",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "7:10am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Alexander",
+      "firstName": "Tyson",
+      "playerId": "33408",
+      "courseId": "538",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "-5",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "7:10am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Knowles",
+      "firstName": "Philip",
+      "playerId": "54813",
+      "courseId": "538",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "9:29am",
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "courseId": "538",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "+2",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "10:22am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "courseId": "538",
+      "status": "active",
+      "total": "-8",
+      "currentRoundScore": "+4",
+      "position": "T64",
+      "totalStrokesFromCompletedRounds": "276",
+      "roundComplete": true,
+      "teeTime": "11:26am",
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "courseId": "538",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "position": "T69",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "7:43am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "courseId": "538",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "+2",
+      "position": "T69",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "9:51am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "courseId": "538",
+      "status": "active",
+      "total": "-7",
+      "currentRoundScore": "+3",
+      "position": "T69",
+      "totalStrokesFromCompletedRounds": "277",
+      "roundComplete": true,
+      "teeTime": "10:44am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "courseId": "538",
+      "status": "active",
+      "total": "-6",
+      "currentRoundScore": "+1",
+      "position": "72",
+      "totalStrokesFromCompletedRounds": "278",
+      "roundComplete": true,
+      "teeTime": "7:54am",
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "courseId": "538",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "-2",
+      "position": "T73",
+      "totalStrokesFromCompletedRounds": "280",
+      "roundComplete": true,
+      "teeTime": "7:00am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Landry",
+      "firstName": "Andrew",
+      "playerId": "33410",
+      "courseId": "538",
+      "status": "active",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "position": "T73",
+      "totalStrokesFromCompletedRounds": "280",
+      "roundComplete": true,
+      "teeTime": "7:21am",
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "courseId": "538",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "position": "T75",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "7:21am",
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "courseId": "538",
+      "status": "active",
+      "total": "-3",
+      "currentRoundScore": "+3",
+      "position": "T75",
+      "totalStrokesFromCompletedRounds": "281",
+      "roundComplete": true,
+      "teeTime": "7:43am",
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Werbylo",
+      "firstName": "Trevor",
+      "playerId": "58967",
+      "courseId": "538",
+      "status": "active",
+      "total": "-1",
+      "currentRoundScore": "+4",
+      "position": "77",
+      "totalStrokesFromCompletedRounds": "283",
+      "roundComplete": true,
+      "teeTime": "7:32am",
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "139",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "140",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "courseId": "538",
+      "status": "cut",
+      "total": "-1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "141",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "courseId": "538",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lindheim",
+      "firstName": "Nicholas",
+      "playerId": "37278",
+      "courseId": "538",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "courseId": "538",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "courseId": "538",
+      "status": "cut",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "142",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Luo",
+      "firstName": "Xuewen",
+      "playerId": "39830",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Danny",
+      "playerId": "29926",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+1",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "143",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sabbatini",
+      "firstName": "Rory",
+      "playerId": "23621",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+2",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "144",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Scott",
+      "playerId": "27554",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+3",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "145",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Huh",
+      "firstName": "John",
+      "playerId": "34174",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+4",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "146",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+5",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "147",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Mueller",
+      "firstName": "Jesse",
+      "playerId": "28593",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "148",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Ruffels",
+      "firstName": "Ryan",
+      "playerId": "39251",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "148",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Deminsky",
+      "firstName": "Derek",
+      "playerId": "63964",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+6",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "148",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Sawada",
+      "firstName": "Jared",
+      "playerId": "45582",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+7",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "149",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Hammer",
+      "firstName": "Cole",
+      "playerId": "47987",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "150",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Quinn",
+      "playerId": "63011",
+      "courseId": "538",
+      "status": "cut",
+      "total": "+8",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "150",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "courseId": "538",
+      "status": "wd",
+      "total": "0",
+      "currentRoundScore": "--",
+      "position": "--",
+      "totalStrokesFromCompletedRounds": "100",
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        },
+        {
+          "scoreToPar": "-39",
+          "roundId": 2,
+          "strokes": 32,
+          "courseId": "538",
+          "courseName": "TPC Summerlin"
+        }
+      ],
+      "currentHole": 18,
+      "startingHole": 1
+    }
+  ],
+  "status": "Official",
+  "lastUpdated": "2022-10-09T20:40:39",
+  "timestamp": "2022-10-09T20:42:18.189000"
+}

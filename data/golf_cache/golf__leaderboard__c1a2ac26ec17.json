@@ -1,0 +1,6150 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "033",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-05-22T01:26:05.274000",
+  "timestamp": "2023-05-22T01:26:05.274000",
+  "cutLines": [
+    {
+      "cutCount": 80,
+      "cutScore": "+5"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Koepka",
+      "firstName": "Brooks",
+      "playerId": "36689",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "1",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:30pm"
+    },
+    {
+      "lastName": "Scheffler",
+      "firstName": "Scottie",
+      "playerId": "46046",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T2",
+      "total": "-7",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:10pm"
+    },
+    {
+      "lastName": "Hovland",
+      "firstName": "Viktor",
+      "playerId": "46717",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T2",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:30pm"
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T4",
+      "total": "-3",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:50pm"
+    },
+    {
+      "lastName": "Kitayama",
+      "firstName": "Kurt",
+      "playerId": "48117",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T4",
+      "total": "-3",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:00pm"
+    },
+    {
+      "lastName": "DeChambeau",
+      "firstName": "Bryson",
+      "playerId": "47959",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T4",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:20pm"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T7",
+      "total": "-2",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:30pm"
+    },
+    {
+      "lastName": "McIlroy",
+      "firstName": "Rory",
+      "playerId": "28237",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T7",
+      "total": "-2",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:00pm"
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Cameron",
+      "playerId": "35891",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T9",
+      "total": "-1",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:00pm"
+    },
+    {
+      "lastName": "Cantlay",
+      "firstName": "Patrick",
+      "playerId": "35450",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T9",
+      "total": "-1",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:40pm"
+    },
+    {
+      "lastName": "Rose",
+      "firstName": "Justin",
+      "playerId": "22405",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T9",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:10pm"
+    },
+    {
+      "lastName": "Lowry",
+      "firstName": "Shane",
+      "playerId": "33204",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T12",
+      "total": "E",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:20pm"
+    },
+    {
+      "lastName": "Perez",
+      "firstName": "Victor",
+      "playerId": "47679",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T12",
+      "total": "E",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:30pm"
+    },
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T12",
+      "total": "E",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:20pm"
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T15",
+      "total": "+1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:10pm"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T15",
+      "total": "+1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:20pm"
+    },
+    {
+      "lastName": "Block",
+      "firstName": "Michael",
+      "playerId": "22764",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T15",
+      "total": "+1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "2:00pm"
+    },
+    {
+      "lastName": "Pereira",
+      "firstName": "Mito",
+      "playerId": "47529",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T18",
+      "total": "+2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:00am"
+    },
+    {
+      "lastName": "Schauffele",
+      "firstName": "Xander",
+      "playerId": "48081",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T18",
+      "total": "+2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:20am"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "Min Woo",
+      "playerId": "37378",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T18",
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:10pm"
+    },
+    {
+      "lastName": "Reed",
+      "firstName": "Patrick",
+      "playerId": "34360",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T18",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:10pm"
+    },
+    {
+      "lastName": "Fleetwood",
+      "firstName": "Tommy",
+      "playerId": "30911",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T18",
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:50pm"
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T23",
+      "total": "+3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T23",
+      "total": "+3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:40am"
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T23",
+      "total": "+3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:00pm"
+    },
+    {
+      "lastName": "Morikawa",
+      "firstName": "Collin",
+      "playerId": "50525",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T26",
+      "total": "+4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:10am"
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T26",
+      "total": "+4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:00pm"
+    },
+    {
+      "lastName": "Suh",
+      "firstName": "Justin",
+      "playerId": "50493",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T26",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:50pm"
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "McCarthy",
+      "firstName": "Denny",
+      "playerId": "47993",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:50am"
+    },
+    {
+      "lastName": "Scott",
+      "firstName": "Adam",
+      "playerId": "24502",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:10am"
+    },
+    {
+      "lastName": "Spieth",
+      "firstName": "Jordan",
+      "playerId": "34046",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:50am"
+    },
+    {
+      "lastName": "Varner III",
+      "firstName": "Harold",
+      "playerId": "37189",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:00am"
+    },
+    {
+      "lastName": "Bradley",
+      "firstName": "Keegan",
+      "playerId": "33141",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:40am"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:10pm"
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:20pm"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T29",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:50pm"
+    },
+    {
+      "lastName": "Meronk",
+      "firstName": "Adrian",
+      "playerId": "33674",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:10am"
+    },
+    {
+      "lastName": "Poston",
+      "firstName": "J.T.",
+      "playerId": "49771",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:10am"
+    },
+    {
+      "lastName": "Herbert",
+      "firstName": "Lucas",
+      "playerId": "39058",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:30am"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:10am"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:20am"
+    },
+    {
+      "lastName": "Pieters",
+      "firstName": "Thomas",
+      "playerId": "33293",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:30pm"
+    },
+    {
+      "lastName": "Theegala",
+      "firstName": "Sahith",
+      "playerId": "51634",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T40",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:40pm"
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Padraig",
+      "playerId": "20766",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Hojgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:20am"
+    },
+    {
+      "lastName": "Rahm",
+      "firstName": "Jon",
+      "playerId": "46970",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Jaeger",
+      "firstName": "Stephan",
+      "playerId": "36799",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T50",
+      "total": "+7",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "1:30pm"
+    },
+    {
+      "lastName": "Burmester",
+      "firstName": "Dean",
+      "playerId": "33974",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "54",
+      "total": "+8",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:40am"
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T55",
+      "total": "+9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Homa",
+      "firstName": "Max",
+      "playerId": "39977",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T55",
+      "total": "+9",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:30am"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Dustin",
+      "playerId": "30925",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T55",
+      "total": "+9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:50am"
+    },
+    {
+      "lastName": "Mickelson",
+      "firstName": "Phil",
+      "playerId": "01810",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T58",
+      "total": "+10",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Zach",
+      "playerId": "24024",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T58",
+      "total": "+10",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Hoge",
+      "firstName": "Tom",
+      "playerId": "35532",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T58",
+      "total": "+10",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:30am"
+    },
+    {
+      "lastName": "Mitchell",
+      "firstName": "Keith",
+      "playerId": "39546",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T58",
+      "total": "+10",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "12:20pm"
+    },
+    {
+      "lastName": "Hoshino",
+      "firstName": "Rikuya",
+      "playerId": "47056",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T62",
+      "total": "+11",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:30am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Sihwan",
+      "playerId": "32369",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T62",
+      "total": "+11",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:40am"
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T62",
+      "total": "+11",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T65",
+      "total": "+12",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Thomas",
+      "firstName": "Justin",
+      "playerId": "33448",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T65",
+      "total": "+12",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:20am"
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T65",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:50am"
+    },
+    {
+      "lastName": "Larrazabal",
+      "firstName": "Pablo",
+      "playerId": "29670",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T65",
+      "total": "+12",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "292",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:00am"
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T69",
+      "total": "+13",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:50am"
+    },
+    {
+      "lastName": "Dahmen",
+      "firstName": "Joel",
+      "playerId": "34076",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T69",
+      "total": "+13",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Yannik",
+      "playerId": "48051",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T69",
+      "total": "+13",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "293",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:20am"
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Taylor",
+      "playerId": "49947",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T72",
+      "total": "+15",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:10am"
+    },
+    {
+      "lastName": "Finau",
+      "firstName": "Tony",
+      "playerId": "29725",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T72",
+      "total": "+15",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "9:10am"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "T72",
+      "total": "+15",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "10:20am"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "75",
+      "total": "+18",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "298",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "7:50am"
+    },
+    {
+      "lastName": "Higa",
+      "firstName": "Kazuki",
+      "playerId": "35778",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "complete",
+      "position": "76",
+      "total": "+20",
+      "currentRoundScore": "+8",
+      "totalStrokesFromCompletedRounds": "300",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 4,
+      "teeTime": "8:00am"
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Harman",
+      "firstName": "Brian",
+      "playerId": "27644",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Smith",
+      "firstName": "Jordan",
+      "playerId": "46464",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Horschel",
+      "firstName": "Billy",
+      "playerId": "29420",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Fitzpatrick",
+      "firstName": "Matt",
+      "playerId": "40098",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Steele",
+      "firstName": "Brendan",
+      "playerId": "29518",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Davis",
+      "playerId": "58168",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Arnaus",
+      "firstName": "Adri",
+      "playerId": "52096",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lahiri",
+      "firstName": "Anirban",
+      "playerId": "31420",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Henley",
+      "firstName": "Russell",
+      "playerId": "34098",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Donald",
+      "firstName": "Luke",
+      "playerId": "23983",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Shinkwin",
+      "firstName": "Callum",
+      "playerId": "46035",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Tom",
+      "playerId": "55182",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Inglis",
+      "firstName": "Colin",
+      "playerId": "62846",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Clark",
+      "firstName": "Wyndham",
+      "playerId": "51766",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stallings",
+      "firstName": "Scott",
+      "playerId": "30692",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Otaegui",
+      "firstName": "Adrian",
+      "playerId": "34575",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Woodland",
+      "firstName": "Gary",
+      "playerId": "31323",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Niemann",
+      "firstName": "Joaquin",
+      "playerId": "45486",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hughes",
+      "firstName": "Mackenzie",
+      "playerId": "35506",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Day",
+      "firstName": "Jason",
+      "playerId": "28089",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "English",
+      "firstName": "Harris",
+      "playerId": "34099",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hojgaard",
+      "firstName": "Rasmus",
+      "playerId": "52686",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Cameron",
+      "playerId": "57366",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Micheluzzi",
+      "firstName": "David",
+      "playerId": "47102",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cahill",
+      "firstName": "Matt",
+      "playerId": "64754",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gooch",
+      "firstName": "Talor",
+      "playerId": "46402",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Thorbjorn",
+      "playerId": "33968",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Yang",
+      "firstName": "Y.E.",
+      "playerId": "24663",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ancer",
+      "firstName": "Abraham",
+      "playerId": "45526",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "McNealy",
+      "firstName": "Maverick",
+      "playerId": "46442",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kaewkanjana",
+      "firstName": "Sadom",
+      "playerId": "48018",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "MacIntyre",
+      "firstName": "Robert",
+      "playerId": "52215",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Koch",
+      "firstName": "Greg",
+      "playerId": "59871",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Shattuck",
+      "firstName": "Braden",
+      "playerId": "63181",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Alker",
+      "firstName": "Steven",
+      "playerId": "20771",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Holmes",
+      "firstName": "Steve",
+      "playerId": "26284",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wells",
+      "firstName": "Jeremy",
+      "playerId": "46628",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kern",
+      "firstName": "Ben",
+      "playerId": "55752",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Im",
+      "firstName": "Sungjae",
+      "playerId": "39971",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Killeen",
+      "firstName": "JJ",
+      "playerId": "31558",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Strydom",
+      "firstName": "Ockie",
+      "playerId": "33023",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+13",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "153",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simpson",
+      "firstName": "Webb",
+      "playerId": "29221",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Burns",
+      "firstName": "Sam",
+      "playerId": "47504",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wise",
+      "firstName": "Aaron",
+      "playerId": "49964",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "French",
+      "firstName": "Chris",
+      "playerId": "54338",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+15",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "155",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Somers",
+      "firstName": "John",
+      "playerId": "56297",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+16",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Droemer",
+      "firstName": "Jesse",
+      "playerId": "54954",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+16",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Beach",
+      "firstName": "Alex",
+      "playerId": "52633",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Speight",
+      "firstName": "Josh",
+      "playerId": "50717",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Worthington II",
+      "firstName": "Wyatt",
+      "playerId": "50012",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cordes",
+      "firstName": "Anthony",
+      "playerId": "59547",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+17",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "157",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Grove",
+      "firstName": "Russell",
+      "playerId": "64755",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+18",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pigman",
+      "firstName": "Kenny",
+      "playerId": "51316",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+19",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "159",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+8",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Reynolds",
+      "firstName": "Gabe",
+      "playerId": "33735",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+20",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "160",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+15",
+          "roundId": 1,
+          "strokes": 85,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Micheel",
+      "firstName": "Shaun",
+      "playerId": "06515",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+23",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "163",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+11",
+          "roundId": 1,
+          "strokes": 81,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+12",
+          "roundId": 2,
+          "strokes": 82,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sanger",
+      "firstName": "Chris",
+      "playerId": "64753",
+      "isAmateur": false,
+      "courseId": "514",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+25",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "165",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+14",
+          "roundId": 1,
+          "strokes": 84,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 2,
+          "strokes": 81,
+          "courseId": "514",
+          "courseName": "Oak Hill Country Club - East Course"
+        }
+      ],
+      "currentRound": 2
+    }
+  ]
+}

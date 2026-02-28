@@ -1,0 +1,5511 @@
+{
+  "orgId": "1",
+  "year": "2023",
+  "tournId": "041",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2023-04-02T22:13:47.895000",
+  "timestamp": "2023-04-02T22:13:47.895000",
+  "cutLines": [
+    {
+      "cutCount": 73,
+      "cutScore": "E"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Conners",
+      "firstName": "Corey",
+      "playerId": "39997",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "1",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:41am"
+    },
+    {
+      "lastName": "Stevens",
+      "firstName": "Sam",
+      "playerId": "55893",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "2",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T3",
+      "total": "-13",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "Kuchar",
+      "firstName": "Matt",
+      "playerId": "23108",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T3",
+      "total": "-13",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:41am"
+    },
+    {
+      "lastName": "Rodgers",
+      "firstName": "Patrick",
+      "playerId": "36699",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "5",
+      "total": "-11",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:41am"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T6",
+      "total": "-10",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Hodges",
+      "firstName": "Lee",
+      "playerId": "54628",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T6",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "An",
+      "firstName": "Byeong Hun",
+      "playerId": "33948",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T6",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Novak",
+      "firstName": "Andrew",
+      "playerId": "51997",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "9",
+      "total": "-9",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T10",
+      "total": "-8",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T10",
+      "total": "-8",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Fowler",
+      "firstName": "Rickie",
+      "playerId": "32102",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T10",
+      "total": "-8",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Padraig",
+      "playerId": "20766",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T10",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "Kirk",
+      "firstName": "Chris",
+      "playerId": "30926",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T10",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Noren",
+      "firstName": "Alex",
+      "playerId": "27349",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Nick",
+      "playerId": "25493",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Matsuyama",
+      "firstName": "Hideki",
+      "playerId": "32839",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T15",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Spaun",
+      "firstName": "J.J.",
+      "playerId": "39324",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Straka",
+      "firstName": "Sepp",
+      "playerId": "49960",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Hoffman",
+      "firstName": "Charley",
+      "playerId": "12716",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T22",
+      "total": "-6",
+      "currentRoundScore": "-7",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Rai",
+      "firstName": "Aaron",
+      "playerId": "46414",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:40am"
+    },
+    {
+      "lastName": "Bezuidenhout",
+      "firstName": "Christiaan",
+      "playerId": "45522",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Hojgaard",
+      "firstName": "Nicolai",
+      "playerId": "52453",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "Hall",
+      "firstName": "Harry",
+      "playerId": "57975",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Echavarria",
+      "firstName": "Nico",
+      "playerId": "51349",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Putnam",
+      "firstName": "Andrew",
+      "playerId": "34256",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T28",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Díaz",
+      "firstName": "Roberto",
+      "playerId": "35376",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T37",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Núñez",
+      "firstName": "Augusto",
+      "playerId": "36724",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T37",
+      "total": "-4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Cole",
+      "firstName": "Eric",
+      "playerId": "47591",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Michael",
+      "playerId": "32150",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Si Woo",
+      "playerId": "37455",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T39",
+      "total": "-3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Glover",
+      "firstName": "Lucas",
+      "playerId": "25900",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "45",
+      "total": "-2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Michael",
+      "playerId": "39975",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Donald",
+      "firstName": "Luke",
+      "playerId": "23983",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:24am"
+    },
+    {
+      "lastName": "Streelman",
+      "firstName": "Kevin",
+      "playerId": "27214",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Goya",
+      "firstName": "Tano",
+      "playerId": "31577",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Bhatia",
+      "firstName": "Akshay",
+      "playerId": "56630",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T46",
+      "total": "-1",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Pierceson",
+      "playerId": "59836",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T53",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Todd",
+      "firstName": "Brendon",
+      "playerId": "30927",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T53",
+      "total": "E",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T53",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:02am"
+    },
+    {
+      "lastName": "Werbylo",
+      "firstName": "Trevor",
+      "playerId": "58967",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T56",
+      "total": "+1",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "9:51am"
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T56",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:13am"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T58",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:35am"
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T58",
+      "total": "+2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "290",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T60",
+      "total": "+3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T60",
+      "total": "+3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T60",
+      "total": "+3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:19am"
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T60",
+      "total": "+3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "291",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:46am"
+    },
+    {
+      "lastName": "Kodaira",
+      "firstName": "Satoshi",
+      "playerId": "32816",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "10:57am"
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Hammer",
+      "firstName": "Cole",
+      "playerId": "47987",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:30am"
+    },
+    {
+      "lastName": "Detry",
+      "firstName": "Thomas",
+      "playerId": "33653",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+11",
+          "roundId": 3,
+          "strokes": 83,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:41am"
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Chandler",
+      "playerId": "57900",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "T64",
+      "total": "+6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "294",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:41am"
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "70",
+      "total": "+7",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "295",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "71",
+      "total": "+8",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "296",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ],
+      "teeTime": "11:08am"
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Taylor",
+      "firstName": "Ben",
+      "playerId": "48119",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Ben",
+      "playerId": "54591",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Hatton",
+      "firstName": "Tyrrell",
+      "playerId": "34363",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Dou",
+      "firstName": "Zecheng",
+      "playerId": "37338",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Moore",
+      "firstName": "Ryan",
+      "playerId": "26596",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Lebioda",
+      "firstName": "Hank",
+      "playerId": "49766",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Pendrith",
+      "firstName": "Taylor",
+      "playerId": "40250",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Davis",
+      "firstName": "Cam",
+      "playerId": "45157",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Ghim",
+      "firstName": "Doug",
+      "playerId": "52375",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "McGreevy",
+      "firstName": "Max",
+      "playerId": "51950",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Norrman",
+      "firstName": "Vincent",
+      "playerId": "51070",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Cink",
+      "firstName": "Stewart",
+      "playerId": "20229",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Landry",
+      "firstName": "Andrew",
+      "playerId": "33410",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Redman",
+      "firstName": "Doc",
+      "playerId": "53165",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Grant",
+      "firstName": "Brent",
+      "playerId": "51414",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Smotherman",
+      "firstName": "Austin",
+      "playerId": "50095",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Haley II",
+      "firstName": "Paul",
+      "playerId": "35901",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Lansburgh",
+      "firstName": "Peter",
+      "playerId": "51569",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Mueller",
+      "firstName": "Jesse",
+      "playerId": "28593",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Endycott",
+      "firstName": "Harrison",
+      "playerId": "47079",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Smalley",
+      "firstName": "Alex",
+      "playerId": "46340",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Kuest",
+      "firstName": "Peter",
+      "playerId": "58696",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Eckroat",
+      "firstName": "Austin",
+      "playerId": "57362",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matthew",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Westmoreland",
+      "firstName": "Kyle",
+      "playerId": "52411",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Harrington",
+      "firstName": "Scott",
+      "playerId": "27554",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Lashley",
+      "firstName": "Nate",
+      "playerId": "28775",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Higa",
+      "firstName": "Kazuki",
+      "playerId": "35778",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Ricky",
+      "playerId": "24846",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Holmes",
+      "firstName": "J.B.",
+      "playerId": "27141",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Fox",
+      "firstName": "Ryan",
+      "playerId": "29936",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Lingmerth",
+      "firstName": "David",
+      "playerId": "34409",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "van Rooyen",
+      "firstName": "Erik",
+      "playerId": "40006",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Kraft",
+      "firstName": "Kelly",
+      "playerId": "35879",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Wood",
+      "firstName": "JJ",
+      "playerId": "52635",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Molinari",
+      "firstName": "Francesco",
+      "playerId": "25198",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 79,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Truslow",
+      "firstName": "Austen",
+      "playerId": "45733",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 80,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Hickok",
+      "firstName": "Kramer",
+      "playerId": "49298",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Carey",
+      "firstName": "David",
+      "playerId": "48898",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Frittelli",
+      "firstName": "Dylan",
+      "playerId": "29970",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "complete",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "156",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "78",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Gligic",
+      "firstName": "Michael",
+      "playerId": "32662",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "78",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Love III",
+      "firstName": "Davis",
+      "playerId": "01706",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "82",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+10",
+          "roundId": 1,
+          "strokes": 82,
+          "courseId": "770",
+          "courseName": "TPC San Antonio (Oaks Course)"
+        }
+      ]
+    },
+    {
+      "lastName": "Matthews",
+      "firstName": "Brandon",
+      "playerId": "51491",
+      "isAmateur": false,
+      "courseId": "770",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "-",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": []
+    }
+  ]
+}

@@ -1,0 +1,5615 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "483",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-03-09T21:07:55.217000",
+  "timestamp": "2025-03-09T21:07:55.217000",
+  "cutLines": [
+    {
+      "cutCount": 54,
+      "cutScore": "-5"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Vilips",
+      "firstName": "Karl",
+      "playerId": "54304",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "1",
+      "total": "-26",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "262",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Neergaard-Petersen",
+      "firstName": "Rasmus",
+      "playerId": "52689",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "2",
+      "total": "-23",
+      "currentRoundScore": "-9",
+      "totalStrokesFromCompletedRounds": "265",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 63,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "3",
+      "total": "-21",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "267",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 3,
+          "strokes": 64,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Fisk",
+      "firstName": "Steven",
+      "playerId": "57123",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T4",
+      "total": "-19",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Van Wyk",
+      "firstName": "Kieron",
+      "playerId": "58132",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T4",
+      "total": "-19",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "269",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Schmid",
+      "firstName": "Matti",
+      "playerId": "48867",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T6",
+      "total": "-18",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Riley",
+      "firstName": "Davis",
+      "playerId": "47995",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T6",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-8",
+          "roundId": 1,
+          "strokes": 64,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Mouw",
+      "firstName": "William",
+      "playerId": "63121",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T6",
+      "total": "-18",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T6",
+      "total": "-18",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-10",
+          "roundId": 1,
+          "strokes": 62,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T10",
+      "total": "-17",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Snedeker",
+      "firstName": "Brandt",
+      "playerId": "27649",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T10",
+      "total": "-17",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Goodwin",
+      "firstName": "Noah",
+      "playerId": "55165",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T12",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Peterson",
+      "firstName": "Paul",
+      "playerId": "36824",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T12",
+      "total": "-16",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Higgo",
+      "firstName": "Garrick",
+      "playerId": "54421",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T12",
+      "total": "-16",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Xiong",
+      "firstName": "Norman",
+      "playerId": "54328",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T12",
+      "total": "-16",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "272",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Cummins",
+      "firstName": "Quade",
+      "playerId": "58605",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "Korte",
+      "firstName": "Chris",
+      "playerId": "56349",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Knowles",
+      "firstName": "Philip",
+      "playerId": "54813",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Mullinax",
+      "firstName": "Trey",
+      "playerId": "46601",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Chan",
+      "playerId": "34587",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Gotterup",
+      "firstName": "Chris",
+      "playerId": "59095",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 63,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Jeremy",
+      "playerId": "50582",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-7",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "-8",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-8",
+          "roundId": 4,
+          "strokes": 64,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T16",
+      "total": "-15",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Dumont de Chassart",
+      "firstName": "Adrien",
+      "playerId": "50497",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Wallace",
+      "firstName": "Matt",
+      "playerId": "48887",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Riedel",
+      "firstName": "Matthew",
+      "playerId": "64693",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-6",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Andersen",
+      "firstName": "Mason",
+      "playerId": "52370",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T26",
+      "total": "-14",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "Kanaya",
+      "firstName": "Takumi",
+      "playerId": "47917",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "Norgaard",
+      "firstName": "Niklas",
+      "playerId": "35706",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 3,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T34",
+      "total": "-13",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Norlander",
+      "firstName": "Henrik",
+      "playerId": "30163",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T40",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Velo",
+      "firstName": "Kevin",
+      "playerId": "58619",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T40",
+      "total": "-12",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T40",
+      "total": "-12",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "de la Fuente",
+      "firstName": "Santiago",
+      "playerId": "61520",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T40",
+      "total": "-12",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "Coody",
+      "firstName": "Pierceson",
+      "playerId": "59836",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T40",
+      "total": "-12",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Palmer",
+      "firstName": "Ryan",
+      "playerId": "23320",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "McNeill",
+      "firstName": "George",
+      "playerId": "24490",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:30am",
+      "teeTimeTimestamp": "2025-03-09T13:30:00"
+    },
+    {
+      "lastName": "Jordan",
+      "firstName": "Matthew",
+      "playerId": "55955",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Shelton",
+      "firstName": "Robby",
+      "playerId": "46441",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:13am",
+      "teeTimeTimestamp": "2025-03-09T14:13:00"
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Willett",
+      "firstName": "Danny",
+      "playerId": "32139",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Manassero",
+      "firstName": "Matteo",
+      "playerId": "33199",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T45",
+      "total": "-11",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Lawrence",
+      "firstName": "Thriston",
+      "playerId": "45523",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T54",
+      "total": "-10",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "Del Solar",
+      "firstName": "Cristobal",
+      "playerId": "39859",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T54",
+      "total": "-10",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T54",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Patrick",
+      "playerId": "54576",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T54",
+      "total": "-10",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Covello",
+      "firstName": "Vince",
+      "playerId": "32982",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T54",
+      "total": "-10",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Rosenmueller",
+      "firstName": "Thomas",
+      "playerId": "60882",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-7",
+          "roundId": 2,
+          "strokes": 65,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:40am",
+      "teeTimeTimestamp": "2025-03-09T13:40:00"
+    },
+    {
+      "lastName": "Rozner",
+      "firstName": "Antoine",
+      "playerId": "46646",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:02am",
+      "teeTimeTimestamp": "2025-03-09T14:02:00"
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Ayora",
+      "firstName": "Angel",
+      "playerId": "64052",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T59",
+      "total": "-9",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Ricky",
+      "playerId": "59440",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T64",
+      "total": "-8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Danny",
+      "playerId": "54607",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T64",
+      "total": "-8",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "9:51am",
+      "teeTimeTimestamp": "2025-03-09T13:51:00"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T64",
+      "total": "-8",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-6",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:46am",
+      "teeTimeTimestamp": "2025-03-09T14:46:00"
+    },
+    {
+      "lastName": "Hoshino",
+      "firstName": "Rikuya",
+      "playerId": "47056",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T64",
+      "total": "-8",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Tway",
+      "firstName": "Kevin",
+      "playerId": "32333",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T68",
+      "total": "-7",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:24am",
+      "teeTimeTimestamp": "2025-03-09T14:24:00"
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T68",
+      "total": "-7",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Kennedy",
+      "firstName": "Max",
+      "playerId": "65466",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T70",
+      "total": "-6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:35am",
+      "teeTimeTimestamp": "2025-03-09T14:35:00"
+    },
+    {
+      "lastName": "Polland",
+      "firstName": "Ben",
+      "playerId": "47567",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T70",
+      "total": "-6",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "10:57am",
+      "teeTimeTimestamp": "2025-03-09T14:57:00"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Crowe",
+      "firstName": "Trace",
+      "playerId": "52514",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T72",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T75",
+      "total": "-4",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:08am",
+      "teeTimeTimestamp": "2025-03-09T15:08:00"
+    },
+    {
+      "lastName": "Warian",
+      "firstName": "Ben",
+      "playerId": "65580",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T75",
+      "total": "-4",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:19am",
+      "teeTimeTimestamp": "2025-03-09T15:19:00"
+    },
+    {
+      "lastName": "Gainey",
+      "firstName": "Tommy",
+      "playerId": "30750",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "T75",
+      "total": "-4",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-03-09T15:30:00"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "complete",
+      "position": "78",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:41am",
+      "teeTimeTimestamp": "2025-03-09T15:41:00"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Walker",
+      "firstName": "Jimmy",
+      "playerId": "25632",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Werenski",
+      "firstName": "Richy",
+      "playerId": "47128",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Villegas",
+      "firstName": "Camilo",
+      "playerId": "27770",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thornberry",
+      "firstName": "Braden",
+      "playerId": "52144",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Blades",
+      "playerId": "66417",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Thorbjornsen",
+      "firstName": "Michael",
+      "playerId": "57364",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "140",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hearn",
+      "firstName": "David",
+      "playerId": "26758",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Williams",
+      "firstName": "Connor",
+      "playerId": "68020",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stroud",
+      "firstName": "Chris",
+      "playerId": "27963",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haas",
+      "firstName": "Bill",
+      "playerId": "24924",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGirt",
+      "firstName": "William",
+      "playerId": "31202",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lee",
+      "firstName": "K.H.",
+      "playerId": "32791",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pak",
+      "firstName": "John",
+      "playerId": "59160",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Nido",
+      "firstName": "Chris",
+      "playerId": "51635",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "141",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hastings",
+      "firstName": "Justin",
+      "playerId": "66248",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bryan",
+      "firstName": "Wesley",
+      "playerId": "48084",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Ryan",
+      "playerId": "59018",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Creasy",
+      "firstName": "Connor",
+      "playerId": "65417",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "White",
+      "firstName": "Brett",
+      "playerId": "50992",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Albertson",
+      "firstName": "Anders",
+      "playerId": "49303",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Onishi",
+      "firstName": "Kaito",
+      "playerId": "55623",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "O'Hair",
+      "firstName": "Sean",
+      "playerId": "24140",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Long",
+      "firstName": "Adam",
+      "playerId": "35449",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cauley",
+      "firstName": "Bud",
+      "playerId": "34021",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kang",
+      "firstName": "Sung",
+      "playerId": "27974",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "-1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Knox",
+      "firstName": "Russell",
+      "playerId": "33122",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Tosti",
+      "firstName": "Alejandro",
+      "playerId": "38991",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hernandez",
+      "firstName": "Kelvin",
+      "playerId": "66246",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadley",
+      "firstName": "Chesson",
+      "playerId": "34563",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Streb",
+      "firstName": "Robert",
+      "playerId": "34431",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Simoni",
+      "firstName": "Reinaldo",
+      "playerId": "68021",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "E",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gribble",
+      "firstName": "Cody",
+      "playerId": "39954",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sear",
+      "firstName": "Max",
+      "playerId": "56625",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jones",
+      "firstName": "Dawson",
+      "playerId": "65545",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+1",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Crane",
+      "firstName": "Ben",
+      "playerId": "23541",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dickson",
+      "firstName": "Taylor",
+      "playerId": "51690",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chandler",
+      "firstName": "Will",
+      "playerId": "58933",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Rangel",
+      "firstName": "Gustavo",
+      "playerId": "68022",
+      "isAmateur": true,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Armour",
+      "firstName": "Ryan",
+      "playerId": "19803",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stanley",
+      "firstName": "Kyle",
+      "playerId": "30110",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Filbert",
+      "firstName": "Andrew",
+      "playerId": "54459",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 78,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bae",
+      "firstName": "Sangmoon",
+      "playerId": "28259",
+      "isAmateur": false,
+      "courseId": "940",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "75",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "940",
+          "courseName": "Grand Reserve Golf Club"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}

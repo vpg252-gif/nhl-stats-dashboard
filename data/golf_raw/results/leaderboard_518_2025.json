@@ -1,0 +1,6247 @@
+{
+  "orgId": "1",
+  "year": "2025",
+  "tournId": "518",
+  "status": "Official",
+  "roundId": 4,
+  "roundStatus": "Official",
+  "lastUpdated": "2025-07-14T00:38:23.779000",
+  "timestamp": "2025-07-14T00:38:23.779000",
+  "cutLines": [
+    {
+      "cutCount": 88,
+      "cutScore": "+1"
+    }
+  ],
+  "leaderboardRows": [
+    {
+      "lastName": "Mouw",
+      "firstName": "William",
+      "playerId": "63121",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "1",
+      "total": "-10",
+      "currentRoundScore": "-9",
+      "totalStrokesFromCompletedRounds": "270",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-9",
+          "roundId": 4,
+          "strokes": 61,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Peterson",
+      "firstName": "Paul",
+      "playerId": "36824",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "2",
+      "total": "-9",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "271",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2025-07-13T17:30:00"
+    },
+    {
+      "lastName": "Elvira",
+      "firstName": "Manuel",
+      "playerId": "56643",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "3",
+      "total": "-7",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "273",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Whaley",
+      "firstName": "Vince",
+      "playerId": "51894",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T4",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Skinns",
+      "firstName": "David",
+      "playerId": "27139",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T4",
+      "total": "-6",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "274",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-07-13T17:18:00"
+    },
+    {
+      "lastName": "Koivun",
+      "firstName": "Jackson",
+      "playerId": "66701",
+      "isAmateur": true,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T6",
+      "total": "-5",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Fishburn",
+      "firstName": "Patrick",
+      "playerId": "54576",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T6",
+      "total": "-5",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "275",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Kohles",
+      "firstName": "Ben",
+      "playerId": "36884",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Ramey",
+      "firstName": "Chad",
+      "playerId": "47983",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Hardy",
+      "firstName": "Nick",
+      "playerId": "47988",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Kisner",
+      "firstName": "Kevin",
+      "playerId": "29478",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Montgomery",
+      "firstName": "Taylor",
+      "playerId": "55789",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "List",
+      "firstName": "Luke",
+      "playerId": "27129",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T8",
+      "total": "-4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "276",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 3,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2025-07-13T17:30:00"
+    },
+    {
+      "lastName": "Champ",
+      "firstName": "Cameron",
+      "playerId": "52372",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Piercy",
+      "firstName": "Scott",
+      "playerId": "25818",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Thorbjornsen",
+      "firstName": "Michael",
+      "playerId": "57364",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Malnati",
+      "firstName": "Peter",
+      "playerId": "34466",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Gordon",
+      "firstName": "Will",
+      "playerId": "56762",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Rosenmueller",
+      "firstName": "Thomas",
+      "playerId": "60882",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Springer",
+      "firstName": "Hayden",
+      "playerId": "50484",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "Hossler",
+      "firstName": "Beau",
+      "playerId": "35461",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "Cone",
+      "firstName": "Trevor",
+      "playerId": "49453",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 3,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "Chan",
+      "playerId": "34587",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T14",
+      "total": "-3",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "277",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-9",
+          "roundId": 1,
+          "strokes": 61,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-07-13T17:18:00"
+    },
+    {
+      "lastName": "NeSmith",
+      "firstName": "Matt",
+      "playerId": "36871",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T24",
+      "total": "-2",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Levy",
+      "firstName": "Alexander",
+      "playerId": "34579",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T24",
+      "total": "-2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Chandler",
+      "firstName": "Will",
+      "playerId": "58933",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T24",
+      "total": "-2",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Sargent",
+      "firstName": "Gordon",
+      "playerId": "64442",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T24",
+      "total": "-2",
+      "currentRoundScore": "-4",
+      "totalStrokesFromCompletedRounds": "278",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 4,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Lipsky",
+      "firstName": "David",
+      "playerId": "36326",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Silverman",
+      "firstName": "Ben",
+      "playerId": "39327",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Higgs",
+      "firstName": "Harry",
+      "playerId": "33597",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Fisk",
+      "firstName": "Steven",
+      "playerId": "57123",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Kim",
+      "firstName": "S.H.",
+      "playerId": "50188",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "-3",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 4,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Blair",
+      "firstName": "Zac",
+      "playerId": "40058",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T28",
+      "total": "-1",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "279",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-4",
+          "roundId": 2,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Ricky",
+      "playerId": "59440",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Laird",
+      "firstName": "Martin",
+      "playerId": "27936",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Hoey",
+      "firstName": "Rico",
+      "playerId": "51696",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Ding",
+      "firstName": "Wenyi",
+      "playerId": "63196",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:06pm",
+      "teeTimeTimestamp": "2025-07-13T16:06:00"
+    },
+    {
+      "lastName": "Martin",
+      "firstName": "Ben",
+      "playerId": "33413",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Tarren",
+      "firstName": "Callum",
+      "playerId": "48699",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T34",
+      "total": "E",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "280",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-07-13T17:18:00"
+    },
+    {
+      "lastName": "Senior",
+      "firstName": "Jack",
+      "playerId": "34708",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T40",
+      "total": "+1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Cantero Gutierrez",
+      "firstName": "Ivan",
+      "playerId": "47847",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T40",
+      "total": "+1",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 3,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Grillo",
+      "firstName": "Emiliano",
+      "playerId": "31646",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T40",
+      "total": "+1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-3",
+          "roundId": 1,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Armitage",
+      "firstName": "Marcus",
+      "playerId": "45194",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T40",
+      "total": "+1",
+      "currentRoundScore": "-1",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 4,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Teater",
+      "firstName": "Josh",
+      "playerId": "27330",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T40",
+      "total": "+1",
+      "currentRoundScore": "-2",
+      "totalStrokesFromCompletedRounds": "281",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 4,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Purcell",
+      "firstName": "Conor",
+      "playerId": "56512",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T45",
+      "total": "+2",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Suber",
+      "firstName": "Jackson",
+      "playerId": "60019",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T45",
+      "total": "+2",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Capan III",
+      "firstName": "Frankie",
+      "playerId": "49590",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T45",
+      "total": "+2",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Ventura",
+      "firstName": "Kris",
+      "playerId": "35658",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T45",
+      "total": "+2",
+      "currentRoundScore": "+9",
+      "totalStrokesFromCompletedRounds": "282",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-6",
+          "roundId": 2,
+          "strokes": 64,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 3,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 4,
+          "strokes": 79,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "1:30pm",
+      "teeTimeTimestamp": "2025-07-13T17:30:00"
+    },
+    {
+      "lastName": "Hahn",
+      "firstName": "James",
+      "playerId": "32448",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "49",
+      "total": "+3",
+      "currentRoundScore": "E",
+      "totalStrokesFromCompletedRounds": "283",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 4,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Reavie",
+      "firstName": "Chez",
+      "playerId": "26476",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T50",
+      "total": "+4",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:30am",
+      "teeTimeTimestamp": "2025-07-13T15:30:00"
+    },
+    {
+      "lastName": "Ayora",
+      "firstName": "Angel",
+      "playerId": "64052",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T50",
+      "total": "+4",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Campos",
+      "firstName": "Rafael",
+      "playerId": "32070",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T50",
+      "total": "+4",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:18pm",
+      "teeTimeTimestamp": "2025-07-13T16:18:00"
+    },
+    {
+      "lastName": "Goodwin",
+      "firstName": "Noah",
+      "playerId": "55165",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T50",
+      "total": "+4",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "284",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Merritt",
+      "firstName": "Troy",
+      "playerId": "32640",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T54",
+      "total": "+5",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Girrbach",
+      "firstName": "Joel",
+      "playerId": "35564",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T54",
+      "total": "+5",
+      "currentRoundScore": "+4",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 4,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:54am",
+      "teeTimeTimestamp": "2025-07-13T15:54:00"
+    },
+    {
+      "lastName": "Kieffer",
+      "firstName": "Max",
+      "playerId": "30957",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T54",
+      "total": "+5",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Marcus",
+      "playerId": "58816",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T54",
+      "total": "+5",
+      "currentRoundScore": "-5",
+      "totalStrokesFromCompletedRounds": "285",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+9",
+          "roundId": 3,
+          "strokes": 79,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-5",
+          "roundId": 4,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-07-13T17:18:00"
+    },
+    {
+      "lastName": "Daffue",
+      "firstName": "MJ",
+      "playerId": "39067",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T58",
+      "total": "+6",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 18,
+      "startingHole": 1,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 3,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F",
+      "currentRound": 4,
+      "teeTime": "11:42am",
+      "teeTimeTimestamp": "2025-07-13T15:42:00"
+    },
+    {
+      "lastName": "Brown",
+      "firstName": "Hamish",
+      "playerId": "50672",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T58",
+      "total": "+6",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "Del Solar",
+      "firstName": "Cristobal",
+      "playerId": "39859",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T58",
+      "total": "+6",
+      "currentRoundScore": "+1",
+      "totalStrokesFromCompletedRounds": "286",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-4",
+          "roundId": 1,
+          "strokes": 66,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 4,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "Gainey",
+      "firstName": "Tommy",
+      "playerId": "30750",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T61",
+      "total": "+7",
+      "currentRoundScore": "+7",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 3,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 4,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "11:18am",
+      "teeTimeTimestamp": "2025-07-13T15:18:00"
+    },
+    {
+      "lastName": "Griffin",
+      "firstName": "Lanto",
+      "playerId": "35310",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T61",
+      "total": "+7",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:54pm",
+      "teeTimeTimestamp": "2025-07-13T16:54:00"
+    },
+    {
+      "lastName": "Yuan",
+      "firstName": "Carl",
+      "playerId": "55454",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T61",
+      "total": "+7",
+      "currentRoundScore": "+2",
+      "totalStrokesFromCompletedRounds": "287",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 3,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 4,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Thornberry",
+      "firstName": "Braden",
+      "playerId": "52144",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T64",
+      "total": "+8",
+      "currentRoundScore": "+5",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 3,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 4,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:42pm",
+      "teeTimeTimestamp": "2025-07-13T16:42:00"
+    },
+    {
+      "lastName": "Shinkwin",
+      "firstName": "Callum",
+      "playerId": "46035",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T64",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "-5",
+          "roundId": 1,
+          "strokes": 65,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Byrd",
+      "firstName": "Jonathan",
+      "playerId": "24925",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T64",
+      "total": "+8",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "288",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 3,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "1:06pm",
+      "teeTimeTimestamp": "2025-07-13T17:06:00"
+    },
+    {
+      "lastName": "Hubbard",
+      "firstName": "Mark",
+      "playerId": "36801",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T67",
+      "total": "+9",
+      "currentRoundScore": "+6",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 3,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 4,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "12:30pm",
+      "teeTimeTimestamp": "2025-07-13T16:30:00"
+    },
+    {
+      "lastName": "Stallings Jr.",
+      "firstName": "Stephen",
+      "playerId": "54364",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "complete",
+      "position": "T67",
+      "total": "+9",
+      "currentRoundScore": "+3",
+      "totalStrokesFromCompletedRounds": "289",
+      "currentHole": 9,
+      "startingHole": 10,
+      "roundComplete": true,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 3,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 4,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "F*",
+      "currentRound": 4,
+      "teeTime": "1:18pm",
+      "teeTimeTimestamp": "2025-07-13T17:18:00"
+    },
+    {
+      "lastName": "Pavan",
+      "firstName": "Andrea",
+      "playerId": "30756",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Burgoon",
+      "firstName": "Bronson",
+      "playerId": "29268",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Garnett",
+      "firstName": "Brice",
+      "playerId": "29535",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schenk",
+      "firstName": "Adam",
+      "playerId": "47347",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Stuard",
+      "firstName": "Brian",
+      "playerId": "31560",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sigg",
+      "firstName": "Greyson",
+      "playerId": "51890",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Meissner",
+      "firstName": "Mac",
+      "playerId": "59143",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gómez",
+      "firstName": "Fabián",
+      "playerId": "28679",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Hadwin",
+      "firstName": "Adam",
+      "playerId": "33399",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brun",
+      "firstName": "Julien",
+      "playerId": "36837",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Haas",
+      "firstName": "Bill",
+      "playerId": "24924",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lower",
+      "firstName": "Justin",
+      "playerId": "40162",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+2",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "142",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Moscatel",
+      "firstName": "Joel",
+      "playerId": "59826",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Watney",
+      "firstName": "Nick",
+      "playerId": "27095",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Williams",
+      "firstName": "Robin",
+      "playerId": "53196",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kanaya",
+      "firstName": "Takumi",
+      "playerId": "47917",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Olesen",
+      "firstName": "Jacob Skov",
+      "playerId": "55965",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Paul",
+      "firstName": "Jeremy",
+      "playerId": "50582",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-2",
+          "roundId": 1,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Doyle",
+      "firstName": "Drew",
+      "playerId": "65422",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Onishi",
+      "firstName": "Kaito",
+      "playerId": "55623",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sterne",
+      "firstName": "Richard",
+      "playerId": "24459",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Aiken",
+      "firstName": "Thomas",
+      "playerId": "24461",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Chappell",
+      "firstName": "Kevin",
+      "playerId": "32366",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Phillips",
+      "firstName": "Chandler",
+      "playerId": "57900",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Zanotti",
+      "firstName": "Fabrizio",
+      "playerId": "29939",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Russell",
+      "firstName": "Miles",
+      "playerId": "66290",
+      "isAmateur": true,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+3",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "143",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Garcia-Heredia",
+      "firstName": "Alfredo",
+      "playerId": "26503",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-2",
+          "roundId": 2,
+          "strokes": 68,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kizzire",
+      "firstName": "Patton",
+      "playerId": "32757",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wilson",
+      "firstName": "Andrew",
+      "playerId": "55940",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dantorp",
+      "firstName": "Jens",
+      "playerId": "33459",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Balcar",
+      "firstName": "Michael",
+      "playerId": "54377",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cummins",
+      "firstName": "Quade",
+      "playerId": "58605",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Musselman",
+      "firstName": "Cooper",
+      "playerId": "55420",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Halvorsen",
+      "firstName": "Andreas",
+      "playerId": "40226",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ryder",
+      "firstName": "Sam",
+      "playerId": "37275",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Noh",
+      "firstName": "S.Y.",
+      "playerId": "29289",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Knappe",
+      "firstName": "Alexander",
+      "playerId": "30959",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+4",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "144",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jarvis",
+      "firstName": "Casey",
+      "playerId": "57688",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Dylan",
+      "playerId": "54783",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Lindberg",
+      "firstName": "Mikael",
+      "playerId": "48293",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "De Bruyn",
+      "firstName": "Jannik",
+      "playerId": "51921",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Doyle",
+      "firstName": "Brendon",
+      "playerId": "57198",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McGirt",
+      "firstName": "William",
+      "playerId": "31202",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Riedel",
+      "firstName": "Matthew",
+      "playerId": "64693",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Velo",
+      "firstName": "Kevin",
+      "playerId": "58619",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bramlett",
+      "firstName": "Joseph",
+      "playerId": "34255",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Schwab",
+      "firstName": "Matthias",
+      "playerId": "34610",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Scrivener",
+      "firstName": "Jason",
+      "playerId": "31569",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Brehm",
+      "firstName": "Ryan",
+      "playerId": "28420",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Åkesson",
+      "firstName": "Björn",
+      "playerId": "29655",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Svensson",
+      "firstName": "Adam",
+      "playerId": "40115",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Buckley",
+      "firstName": "Hayden",
+      "playerId": "55708",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "-1",
+          "roundId": 1,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Bryant",
+      "firstName": "Davis",
+      "playerId": "60495",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Robinson Thompson",
+      "firstName": "Brandon",
+      "playerId": "65374",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+5",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "145",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Holmes",
+      "firstName": "J.B.",
+      "playerId": "27141",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kinhult",
+      "firstName": "Marcus",
+      "playerId": "46404",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "O'Hair",
+      "firstName": "Sean",
+      "playerId": "24140",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Kobori",
+      "firstName": "Kazuma",
+      "playerId": "54621",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Overton",
+      "firstName": "Jeff",
+      "playerId": "28475",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+9",
+          "roundId": 1,
+          "strokes": 79,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-3",
+          "roundId": 2,
+          "strokes": 67,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Duncan",
+      "firstName": "Tyler",
+      "playerId": "45609",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+1",
+          "roundId": 2,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cook",
+      "firstName": "Austin",
+      "playerId": "46435",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Widing",
+      "firstName": "Tim",
+      "playerId": "50474",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+6",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "146",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Cabrera Bello",
+      "firstName": "Rafa",
+      "playerId": "26499",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Power",
+      "firstName": "Seamus",
+      "playerId": "28252",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+3",
+          "roundId": 2,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Herman",
+      "firstName": "Jim",
+      "playerId": "31557",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Roy",
+      "firstName": "Kevin",
+      "playerId": "39335",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baddeley",
+      "firstName": "Aaron",
+      "playerId": "22371",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gouveia",
+      "firstName": "Ricardo",
+      "playerId": "46594",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Young",
+      "firstName": "Carson",
+      "playerId": "52513",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+7",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "147",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Gribble",
+      "firstName": "Cody",
+      "playerId": "39954",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Green",
+      "firstName": "Gavin",
+      "playerId": "31273",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Pak",
+      "firstName": "John",
+      "playerId": "59160",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "E",
+          "roundId": 2,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dufner",
+      "firstName": "Jason",
+      "playerId": "25686",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+1",
+          "roundId": 1,
+          "strokes": 71,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "McNeill",
+      "firstName": "George",
+      "playerId": "24490",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+8",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "148",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+4",
+          "roundId": 2,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Vaillant",
+      "firstName": "Tom",
+      "playerId": "59827",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+2",
+          "roundId": 2,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Baldwin",
+      "firstName": "Matthew",
+      "playerId": "32622",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Ko",
+      "firstName": "Jeong Weon",
+      "playerId": "56987",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+2",
+          "roundId": 1,
+          "strokes": 72,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+7",
+          "roundId": 2,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jin",
+      "firstName": "Zihao",
+      "playerId": "58986",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+9",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "149",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+3",
+          "roundId": 1,
+          "strokes": 73,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Carson",
+      "playerId": "68982",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "E",
+          "roundId": 1,
+          "strokes": 70,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Dickson",
+      "firstName": "Taylor",
+      "playerId": "51690",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+10",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "150",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Aphibarnrat",
+      "firstName": "Kiradech",
+      "playerId": "30978",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Trainer",
+      "firstName": "Martin",
+      "playerId": "35617",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+6",
+          "roundId": 1,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Andersen",
+      "firstName": "Mason",
+      "playerId": "52370",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+11",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "151",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+5",
+          "roundId": 1,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Jamieson",
+      "firstName": "Scott",
+      "playerId": "31138",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+12",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "152",
+      "currentHole": 1,
+      "startingHole": 1,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+7",
+          "roundId": 1,
+          "strokes": 77,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+5",
+          "roundId": 2,
+          "strokes": 75,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Wu",
+      "firstName": "Brandon",
+      "playerId": "52374",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+15",
+          "roundId": 1,
+          "strokes": 85,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "-1",
+          "roundId": 2,
+          "strokes": 69,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Sharma",
+      "firstName": "Shubhankar",
+      "playerId": "39113",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+14",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "154",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+6",
+          "roundId": 2,
+          "strokes": 76,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Iceman",
+      "firstName": "Daniel",
+      "playerId": "47277",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "cut",
+      "position": "CUT",
+      "total": "+18",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "158",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+8",
+          "roundId": 1,
+          "strokes": 78,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        },
+        {
+          "scoreToPar": "+10",
+          "roundId": 2,
+          "strokes": 80,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 2
+    },
+    {
+      "lastName": "Barnes",
+      "firstName": "Erik",
+      "playerId": "34374",
+      "isAmateur": false,
+      "courseId": "934",
+      "status": "wd",
+      "position": "WD",
+      "total": "-",
+      "currentRoundScore": "-",
+      "totalStrokesFromCompletedRounds": "74",
+      "currentHole": 10,
+      "startingHole": 10,
+      "roundComplete": false,
+      "rounds": [
+        {
+          "scoreToPar": "+4",
+          "roundId": 1,
+          "strokes": 74,
+          "courseId": "934",
+          "courseName": "Hurstbourne Country Club (Championship Course)"
+        }
+      ],
+      "thru": "-",
+      "currentRound": 1
+    }
+  ]
+}
