@@ -1,0 +1,1568 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020918,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BOS",
+      "toi": "12:06",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020894,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 11,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CHI",
+      "toi": "8:34",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020887,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-03",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "11:10",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020868,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-31",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "STL",
+      "toi": "11:31",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020858,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-30",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CHI",
+      "toi": "8:03",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020840,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PHI",
+      "toi": "8:38",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020814,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-24",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TBL",
+      "toi": "13:08",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020797,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-22",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 9,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "toi": "6:43",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020782,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-20",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 0,
+      "plusMinus": -3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "10:29",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020760,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-17",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PIT",
+      "toi": "8:57",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020743,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-15",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "toi": "13:22",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020728,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-13",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "points": 1,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CGY",
+      "toi": "14:27",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020714,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-11",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Mammoth"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 1,
+      "otGoals": 1,
+      "shots": 3,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "UTA",
+      "toi": "14:03",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020699,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-10",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "COL",
+      "toi": "14:04",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020692,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-08",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Golden Knights"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VGK",
+      "toi": "16:29",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020675,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-06",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SJS",
+      "toi": "16:08",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020658,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-04",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PIT",
+      "toi": "10:07",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020646,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-03",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 12,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BUF",
+      "toi": "9:11",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020627,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "12:53",
+      "pim": 5
+    },
+    {
+      "gameId": 2025020606,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-29",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "16:31",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020603,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "14:20",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020574,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-22",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Kings"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "LAK",
+      "toi": "12:08",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020560,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-20",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "ANA",
+      "toi": "14:38",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020540,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "toi": "15:25",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020525,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "ANA",
+      "toi": "16:19",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020502,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Golden Knights"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VGK",
+      "toi": "17:26",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020486,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-11",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 1,
+      "plusMinus": -4,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "18:45",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020471,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-09",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Hurricanes"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CAR",
+      "toi": "18:10",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020459,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "points": 0,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WSH",
+      "toi": "16:27",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020442,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-06",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 2,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "toi": "16:18",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020432,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "toi": "18:30",
+      "pim": 6
+    },
+    {
+      "gameId": 2025020406,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "12:37",
+      "pim": 10
+    },
+    {
+      "gameId": 2025020388,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PIT",
+      "toi": "14:42",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020369,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "toi": "16:45",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020356,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-24",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "points": 0,
+      "plusMinus": -3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WSH",
+      "toi": "16:13",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020335,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-22",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "toi": "16:16",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020319,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-20",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 2,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "toi": "17:38",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020311,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Jets"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WPG",
+      "toi": "15:00",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020305,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-17",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 2,
+      "plusMinus": 1,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "toi": "16:47",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020290,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-15",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "toi": "17:19",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020274,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Oilers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "EDM",
+      "toi": "15:58",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020264,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Kraken"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SEA",
+      "toi": "18:14",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020254,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-10",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Oilers"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "EDM",
+      "toi": "15:49",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020241,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-08",
+      "goals": 1,
+      "assists": 2,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 3,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "toi": "15:26",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020215,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-05",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CGY",
+      "toi": "15:56",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020195,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-02",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "16:33",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020189,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "STL",
+      "toi": "14:31",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020166,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-29",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "toi": "13:36",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020152,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BUF",
+      "toi": "13:59",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020134,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-25",
+      "goals": 2,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "points": 2,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PIT",
+      "toi": "17:13",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020125,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-24",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WSH",
+      "toi": "16:45",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020106,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-21",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "toi": "15:27",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020082,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-18",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TBL",
+      "toi": "14:43",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020067,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "COL",
+      "toi": "15:47",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020045,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-13",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 1,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "17:09",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020033,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-11",
+      "goals": 0,
+      "assists": 2,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 2,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "toi": "15:01",
+      "pim": 4
+    },
+    {
+      "gameId": 2025020016,
+      "teamAbbrev": "CBJ",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-09",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Blue Jackets"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "15:21",
+      "pim": 0
+    }
+  ]
+}

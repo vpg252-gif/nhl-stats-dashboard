@@ -1,0 +1,313 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20202021,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20192020,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20182019,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20172018,
+      "gameTypes": [
+        2,
+        3
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020931,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-27",
+      "goals": 2,
+      "assists": 1,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Golden Knights"
+      },
+      "points": 3,
+      "plusMinus": 3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 6,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VGK",
+      "toi": "19:37",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020911,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PHI",
+      "toi": "16:57",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020908,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-05",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 2,
+      "plusMinus": 1,
+      "powerPlayGoals": 1,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "17:35",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020179,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 7,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "6:02",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020159,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "toi": "19:58",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020135,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "15:05",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020038,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-12",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "toi": "15:32",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020028,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "18:30",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020005,
+      "teamAbbrev": "WSH",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-08",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Capitals"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BOS",
+      "toi": "18:05",
+      "pim": 0
+    }
+  ]
+}

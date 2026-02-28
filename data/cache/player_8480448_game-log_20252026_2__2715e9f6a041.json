@@ -1,0 +1,1586 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20202021,
+      "gameTypes": [
+        2
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020927,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "toi": "13:24",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020914,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-25",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Mammoth"
+      },
+      "points": 2,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "UTA",
+      "toi": "15:21",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020897,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "points": 0,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SJS",
+      "toi": "16:11",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020883,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-02",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "toi": "16:05",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020860,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-31",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "toi": "14:20",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020845,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "toi": "13:11",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020841,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-28",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "14:04",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020819,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-25",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "toi": "11:29",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020805,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-23",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PHI",
+      "toi": "14:06",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020789,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-21",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "ANA",
+      "toi": "12:04",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020771,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-19",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WSH",
+      "toi": "16:22",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020752,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "16:52",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020723,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-12",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "toi": "14:28",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020699,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-10",
+      "goals": 0,
+      "assists": 2,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "points": 2,
+      "plusMinus": 3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CBJ",
+      "toi": "14:38",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020691,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-08",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "toi": "17:06",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020668,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-06",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TBL",
+      "toi": "11:20",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020659,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "toi": "12:49",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020653,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-03",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Hurricanes"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CAR",
+      "toi": "10:27",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020629,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "STL",
+      "toi": "16:39",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020611,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Kings"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "LAK",
+      "toi": "8:45",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020600,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-27",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Golden Knights"
+      },
+      "points": 0,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VGK",
+      "toi": "9:01",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020584,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-23",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Mammoth"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "UTA",
+      "toi": "11:34",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020563,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-21",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "toi": "10:35",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020546,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-19",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Jets"
+      },
+      "points": 1,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 1,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WPG",
+      "toi": "10:49",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020528,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Kraken"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SEA",
+      "toi": "11:23",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020506,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "9:35",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020490,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "toi": "13:25",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020475,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "10:29",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020453,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PHI",
+      "toi": "10:18",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020441,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-06",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 14,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "toi": "10:20",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020430,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "13:07",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020417,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-02",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "toi": "12:04",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020392,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "toi": "14:15",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020378,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "toi": "14:07",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020371,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-26",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 19,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SJS",
+      "toi": "14:48",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020350,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-23",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CHI",
+      "toi": "13:34",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020343,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-22",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "toi": "15:48",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020326,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-20",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "toi": "13:06",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020300,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-16",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "toi": "8:54",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020275,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BUF",
+      "toi": "12:10",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020262,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-11",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "ANA",
+      "toi": "10:18",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020250,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "toi": "13:37",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020240,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-08",
+      "goals": 2,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Oilers"
+      },
+      "points": 3,
+      "plusMinus": 4,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 17,
+      "shorthandedGoals": 1,
+      "shorthandedPoints": 1,
+      "opponentAbbrev": "EDM",
+      "toi": "10:32",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020209,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TBL",
+      "toi": "13:53",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020184,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SJS",
+      "toi": "11:14",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020178,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Golden Knights"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VGK",
+      "toi": "11:45",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020161,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-28",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 2,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 1,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "13:02",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020140,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "toi": "9:30",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020128,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BOS",
+      "toi": "8:01",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020121,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-23",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Hurricanes"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 21,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CAR",
+      "toi": "14:38",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020107,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-21",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Mammoth"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "UTA",
+      "toi": "9:21",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020085,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 18,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BOS",
+      "toi": "13:14",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020067,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CBJ",
+      "toi": "11:09",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020039,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BUF",
+      "toi": "12:27",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020034,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "toi": "10:55",
+      "pim": 0
+    },
+    {
+      "gameId": 2025020018,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Mammoth"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "UTA",
+      "toi": "12:19",
+      "pim": 2
+    },
+    {
+      "gameId": 2025020003,
+      "teamAbbrev": "COL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Avalanche"
+      },
+      "opponentCommonName": {
+        "default": "Kings"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 16,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "LAK",
+      "toi": "10:58",
+      "pim": 0
+    }
+  ]
+}

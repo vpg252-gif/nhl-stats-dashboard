@@ -1,0 +1,389 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20202021,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20192020,
+      "gameTypes": [
+        2
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020923,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-26",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Hurricanes"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 8,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CAR",
+      "pim": 0,
+      "toi": "5:00"
+    },
+    {
+      "gameId": 2025020912,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 9,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "5:54"
+    },
+    {
+      "gameId": 2025020904,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-05",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "9:23"
+    },
+    {
+      "gameId": 2025020886,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-03",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 8,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BUF",
+      "pim": 0,
+      "toi": "6:03"
+    },
+    {
+      "gameId": 2025020602,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 4,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "pim": 5,
+      "toi": "2:20"
+    },
+    {
+      "gameId": 2025020591,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-27",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 10,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 26,
+      "toi": "6:32"
+    },
+    {
+      "gameId": 2025020514,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-15",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "9:25"
+    },
+    {
+      "gameId": 2025020498,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 12,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "pim": 0,
+      "toi": "6:56"
+    },
+    {
+      "gameId": 2025020481,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-11",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 12,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 9,
+      "toi": "9:08"
+    },
+    {
+      "gameId": 2025020466,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 11,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "pim": 5,
+      "toi": "8:26"
+    },
+    {
+      "gameId": 2025020297,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 15,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "pim": 16,
+      "toi": "10:14"
+    },
+    {
+      "gameId": 2025020283,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-15",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 13,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "9:06"
+    },
+    {
+      "gameId": 2025020265,
+      "teamAbbrev": "TBL",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-12",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Lightning"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 17,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "pim": 2,
+      "toi": "11:42"
+    }
+  ]
+}

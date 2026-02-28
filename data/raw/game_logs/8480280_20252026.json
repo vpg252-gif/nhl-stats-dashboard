@@ -1,0 +1,877 @@
+[
+  {
+    "gameId": 2025020873,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-02-01",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Lightning"
+    },
+    "gamesStarted": 1,
+    "decision": "O",
+    "shotsAgainst": 46,
+    "goalsAgainst": 5,
+    "savePctg": 0.891304,
+    "shutouts": 0,
+    "opponentAbbrev": "TBL",
+    "pim": 9,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020843,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-29",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Flyers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 36,
+    "goalsAgainst": 3,
+    "savePctg": 0.916667,
+    "shutouts": 0,
+    "opponentAbbrev": "PHI",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020830,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-27",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Predators"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 30,
+    "goalsAgainst": 2,
+    "savePctg": 0.933333,
+    "shutouts": 0,
+    "opponentAbbrev": "NSH",
+    "pim": 0,
+    "toi": "60:15"
+  },
+  {
+    "gameId": 2025020812,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-24",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Canadiens"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 25,
+    "goalsAgainst": 3,
+    "savePctg": 0.88,
+    "shutouts": 0,
+    "opponentAbbrev": "MTL",
+    "pim": 0,
+    "toi": "59:36"
+  },
+  {
+    "gameId": 2025020783,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-20",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Stars"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 34,
+    "goalsAgainst": 6,
+    "savePctg": 0.823529,
+    "shutouts": 0,
+    "opponentAbbrev": "DAL",
+    "pim": 0,
+    "toi": "46:37"
+  },
+  {
+    "gameId": 2025020739,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-15",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Kraken"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 28,
+    "goalsAgainst": 2,
+    "savePctg": 0.928571,
+    "shutouts": 0,
+    "opponentAbbrev": "SEA",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020729,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-13",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Red Wings"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 24,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "DET",
+    "pim": 0,
+    "toi": "59:34"
+  },
+  {
+    "gameId": 2025020697,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-10",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Rangers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 29,
+    "goalsAgainst": 2,
+    "savePctg": 0.931034,
+    "shutouts": 0,
+    "opponentAbbrev": "NYR",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020676,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-06",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Kraken"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 26,
+    "goalsAgainst": 6,
+    "savePctg": 0.769231,
+    "shutouts": 0,
+    "opponentAbbrev": "SEA",
+    "pim": 2,
+    "toi": "58:03"
+  },
+  {
+    "gameId": 2025020656,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-03",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Canucks"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 34,
+    "goalsAgainst": 2,
+    "savePctg": 0.941176,
+    "shutouts": 0,
+    "opponentAbbrev": "VAN",
+    "pim": 0,
+    "toi": "63:27"
+  },
+  {
+    "gameId": 2025020631,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-31",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Oilers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 36,
+    "goalsAgainst": 2,
+    "savePctg": 0.944444,
+    "shutouts": 0,
+    "opponentAbbrev": "EDM",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020613,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-29",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Flames"
+    },
+    "gamesStarted": 1,
+    "decision": "O",
+    "shotsAgainst": 20,
+    "goalsAgainst": 2,
+    "savePctg": 0.95,
+    "shutouts": 0,
+    "opponentAbbrev": "CGY",
+    "pim": 0,
+    "toi": "61:53"
+  },
+  {
+    "gameId": 2025020577,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-23",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Canadiens"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 29,
+    "goalsAgainst": 6,
+    "savePctg": 0.793103,
+    "shutouts": 0,
+    "opponentAbbrev": "MTL",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020564,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-21",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Senators",
+      "fr": "Sénateurs"
+    },
+    "gamesStarted": 0,
+    "shotsAgainst": 11,
+    "goalsAgainst": 1,
+    "savePctg": 0.909091,
+    "shutouts": 0,
+    "opponentAbbrev": "OTT",
+    "pim": 0,
+    "toi": "32:57"
+  },
+  {
+    "gameId": 2025020555,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-20",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Canucks"
+    },
+    "gamesStarted": 1,
+    "decision": "O",
+    "shotsAgainst": 23,
+    "goalsAgainst": 4,
+    "savePctg": 0.826087,
+    "shutouts": 0,
+    "opponentAbbrev": "VAN",
+    "pim": 0,
+    "toi": "64:54"
+  },
+  {
+    "gameId": 2025020534,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-18",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Oilers"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 25,
+    "goalsAgainst": 3,
+    "savePctg": 0.88,
+    "shutouts": 0,
+    "opponentAbbrev": "EDM",
+    "pim": 0,
+    "toi": "58:35"
+  },
+  {
+    "gameId": 2025020519,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-16",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Mammoth"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 21,
+    "goalsAgainst": 1,
+    "savePctg": 0.952381,
+    "shutouts": 0,
+    "opponentAbbrev": "UTA",
+    "pim": 0,
+    "toi": "58:54"
+  },
+  {
+    "gameId": 2025020511,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-14",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Wild"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 31,
+    "goalsAgainst": 6,
+    "savePctg": 0.806452,
+    "shutouts": 0,
+    "opponentAbbrev": "MIN",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020472,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-09",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Blues"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 26,
+    "goalsAgainst": 2,
+    "savePctg": 0.923077,
+    "shutouts": 0,
+    "opponentAbbrev": "STL",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020443,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-06",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Devils"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 30,
+    "goalsAgainst": 1,
+    "savePctg": 0.966667,
+    "shutouts": 0,
+    "opponentAbbrev": "NJD",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020412,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-02",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Red Wings"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 23,
+    "goalsAgainst": 5,
+    "savePctg": 0.782609,
+    "shutouts": 0,
+    "opponentAbbrev": "DET",
+    "pim": 0,
+    "toi": "43:55"
+  },
+  {
+    "gameId": 2025020394,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-29",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Red Wings"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 26,
+    "goalsAgainst": 2,
+    "savePctg": 0.923077,
+    "shutouts": 0,
+    "opponentAbbrev": "DET",
+    "pim": 0,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020365,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-26",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Islanders"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 44,
+    "goalsAgainst": 1,
+    "savePctg": 0.977273,
+    "shutouts": 0,
+    "opponentAbbrev": "NYI",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020351,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-23",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Sharks"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 30,
+    "goalsAgainst": 2,
+    "savePctg": 0.933333,
+    "shutouts": 0,
+    "opponentAbbrev": "SJS",
+    "pim": 0,
+    "toi": "59:48"
+  },
+  {
+    "gameId": 2025020334,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-21",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Kings"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 32,
+    "goalsAgainst": 1,
+    "savePctg": 0.96875,
+    "shutouts": 0,
+    "opponentAbbrev": "LAK",
+    "pim": 0,
+    "toi": "62:27"
+  },
+  {
+    "gameId": 2025020301,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-17",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Hurricanes"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 32,
+    "goalsAgainst": 3,
+    "savePctg": 0.90625,
+    "shutouts": 0,
+    "opponentAbbrev": "CAR",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020285,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-15",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Canadiens"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 28,
+    "goalsAgainst": 2,
+    "savePctg": 0.928571,
+    "shutouts": 0,
+    "opponentAbbrev": "MTL",
+    "pim": 0,
+    "toi": "59:48"
+  },
+  {
+    "gameId": 2025020256,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-11",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Maple Leafs"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 33,
+    "goalsAgainst": 3,
+    "savePctg": 0.909091,
+    "shutouts": 0,
+    "opponentAbbrev": "TOR",
+    "pim": 0,
+    "toi": "59:53"
+  },
+  {
+    "gameId": 2025020234,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-08",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Maple Leafs"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 33,
+    "goalsAgainst": 3,
+    "savePctg": 0.909091,
+    "shutouts": 0,
+    "opponentAbbrev": "TOR",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020205,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-04",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Islanders"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 33,
+    "goalsAgainst": 3,
+    "savePctg": 0.909091,
+    "shutouts": 0,
+    "opponentAbbrev": "NYI",
+    "pim": 0,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020181,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-01",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Hurricanes"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 29,
+    "goalsAgainst": 1,
+    "savePctg": 0.965517,
+    "shutouts": 0,
+    "opponentAbbrev": "CAR",
+    "pim": 0,
+    "toi": "59:34"
+  },
+  {
+    "gameId": 2025020149,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-27",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Senators",
+      "fr": "Sénateurs"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 23,
+    "goalsAgainst": 7,
+    "savePctg": 0.695652,
+    "shutouts": 0,
+    "opponentAbbrev": "OTT",
+    "pim": 0,
+    "toi": "59:57"
+  },
+  {
+    "gameId": 2025020128,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-25",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Avalanche"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 33,
+    "goalsAgainst": 2,
+    "savePctg": 0.939394,
+    "shutouts": 0,
+    "opponentAbbrev": "COL",
+    "pim": 0,
+    "toi": "59:30"
+  },
+  {
+    "gameId": 2025020103,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-21",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Panthers"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 23,
+    "goalsAgainst": 4,
+    "savePctg": 0.826087,
+    "shutouts": 0,
+    "opponentAbbrev": "FLA",
+    "pim": 0,
+    "toi": "59:16"
+  },
+  {
+    "gameId": 2025020085,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-18",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Avalanche"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 37,
+    "goalsAgainst": 3,
+    "savePctg": 0.918919,
+    "shutouts": 0,
+    "opponentAbbrev": "COL",
+    "pim": 0,
+    "toi": "59:44"
+  },
+  {
+    "gameId": 2025020069,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-16",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Golden Knights"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 37,
+    "goalsAgainst": 6,
+    "savePctg": 0.837838,
+    "shutouts": 0,
+    "opponentAbbrev": "VGK",
+    "pim": 0,
+    "toi": "59:01"
+  },
+  {
+    "gameId": 2025020024,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-11",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Sabres"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 22,
+    "goalsAgainst": 1,
+    "savePctg": 0.954545,
+    "shutouts": 0,
+    "opponentAbbrev": "BUF",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020005,
+    "teamAbbrev": "BOS",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-08",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "opponentCommonName": {
+      "default": "Capitals"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 36,
+    "goalsAgainst": 1,
+    "savePctg": 0.972222,
+    "shutouts": 0,
+    "opponentAbbrev": "WSH",
+    "pim": 0,
+    "toi": "60:00"
+  }
+]

@@ -1,0 +1,1067 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2,
+        3
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020932,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-27",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 28,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MIN",
+      "pim": 0,
+      "toi": "18:53"
+    },
+    {
+      "gameId": 2025020914,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "COL",
+      "pim": 0,
+      "toi": "19:43"
+    },
+    {
+      "gameId": 2025020898,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-04",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "pim": 0,
+      "toi": "19:46"
+    },
+    {
+      "gameId": 2025020884,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-02",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 20,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "pim": 0,
+      "toi": "16:57"
+    },
+    {
+      "gameId": 2025020870,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "pim": 2,
+      "toi": "18:26"
+    },
+    {
+      "gameId": 2025020851,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Hurricanes"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CAR",
+      "pim": 0,
+      "toi": "19:32"
+    },
+    {
+      "gameId": 2025020834,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-27",
+      "goals": 1,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 2,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 24,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "19:56"
+    },
+    {
+      "gameId": 2025020825,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TBL",
+      "pim": 2,
+      "toi": "20:39"
+    },
+    {
+      "gameId": 2025020811,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-24",
+      "goals": 0,
+      "assists": 2,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 2,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 0,
+      "toi": "20:14"
+    },
+    {
+      "gameId": 2025020790,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-21",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "points": 0,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 30,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PHI",
+      "pim": 0,
+      "toi": "20:13"
+    },
+    {
+      "gameId": 2025020757,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-17",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Kraken"
+      },
+      "points": 0,
+      "plusMinus": -3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 27,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SEA",
+      "pim": 0,
+      "toi": "18:01"
+    },
+    {
+      "gameId": 2025020746,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-15",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 28,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "pim": 0,
+      "toi": "20:08"
+    },
+    {
+      "gameId": 2025020733,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 28,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "20:41"
+    },
+    {
+      "gameId": 2025020714,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "22:04"
+    },
+    {
+      "gameId": 2025020696,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-09",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 1,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "STL",
+      "pim": 0,
+      "toi": "23:09"
+    },
+    {
+      "gameId": 2025020680,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "points": 0,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 30,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "OTT",
+      "pim": 0,
+      "toi": "23:12"
+    },
+    {
+      "gameId": 2025020662,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-05",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 1,
+      "otGoals": 1,
+      "shots": 2,
+      "shifts": 30,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYR",
+      "pim": 2,
+      "toi": "22:09"
+    },
+    {
+      "gameId": 2025020645,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-03",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 1,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 0,
+      "toi": "20:44"
+    },
+    {
+      "gameId": 2025020633,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-01",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NYI",
+      "pim": 0,
+      "toi": "20:21"
+    },
+    {
+      "gameId": 2025020612,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-29",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 0,
+      "toi": "20:23"
+    },
+    {
+      "gameId": 2025020584,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-23",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 28,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "COL",
+      "pim": 0,
+      "toi": "20:35"
+    },
+    {
+      "gameId": 2025020569,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-21",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Jets"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "WPG",
+      "pim": 0,
+      "toi": "21:43"
+    },
+    {
+      "gameId": 2025020547,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-19",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 4,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 0,
+      "toi": "19:00"
+    },
+    {
+      "gameId": 2025020530,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-17",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "points": 1,
+      "plusMinus": 2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 5,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DET",
+      "pim": 0,
+      "toi": "18:10"
+    },
+    {
+      "gameId": 2025020519,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-16",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 1,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 28,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "BOS",
+      "pim": 10,
+      "toi": "23:02"
+    },
+    {
+      "gameId": 2025020509,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-14",
+      "goals": 1,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "points": 1,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 30,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "PIT",
+      "pim": 0,
+      "toi": "17:59"
+    },
+    {
+      "gameId": 2025020494,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-12",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Kraken"
+      },
+      "points": 0,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 25,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SEA",
+      "pim": 0,
+      "toi": "18:07"
+    },
+    {
+      "gameId": 2025020478,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-10",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 29,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 2,
+      "toi": "20:15"
+    },
+    {
+      "gameId": 2025020462,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-08",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Kings"
+      },
+      "points": 0,
+      "plusMinus": -2,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 26,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "LAK",
+      "pim": 0,
+      "toi": "23:41"
+    },
+    {
+      "gameId": 2025020448,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-06",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 27,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "CGY",
+      "pim": 0,
+      "toi": "24:19"
+    },
+    {
+      "gameId": 2025020439,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-05",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 27,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "VAN",
+      "pim": 0,
+      "toi": "18:31"
+    },
+    {
+      "gameId": 2025020424,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-03",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "points": 1,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 3,
+      "shifts": 29,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "ANA",
+      "pim": 0,
+      "toi": "19:01"
+    },
+    {
+      "gameId": 2025020410,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "points": 0,
+      "plusMinus": -3,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 1,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "SJS",
+      "pim": 0,
+      "toi": "17:02"
+    },
+    {
+      "gameId": 2025020398,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 22,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "STL",
+      "pim": 2,
+      "toi": "18:35"
+    },
+    {
+      "gameId": 2025020390,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 29,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "DAL",
+      "pim": 4,
+      "toi": "22:29"
+    },
+    {
+      "gameId": 2025020372,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "points": 0,
+      "plusMinus": 0,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "MTL",
+      "pim": 0,
+      "toi": "21:34"
+    },
+    {
+      "gameId": 2025020032,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-11",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "points": 1,
+      "plusMinus": 1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 0,
+      "shifts": 23,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 4,
+      "toi": "16:58"
+    },
+    {
+      "gameId": 2025020018,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "points": 0,
+      "plusMinus": -1,
+      "powerPlayGoals": 0,
+      "powerPlayPoints": 0,
+      "gameWinningGoals": 0,
+      "otGoals": 0,
+      "shots": 2,
+      "shifts": 29,
+      "shorthandedGoals": 0,
+      "shorthandedPoints": 0,
+      "opponentAbbrev": "COL",
+      "pim": 0,
+      "toi": "20:53"
+    }
+  ]
+}

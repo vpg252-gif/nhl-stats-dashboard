@@ -1,0 +1,831 @@
+[
+  {
+    "gameId": 2025020919,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-02-26",
+    "goals": 0,
+    "assists": 1,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Canadiens"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 25,
+    "goalsAgainst": 3,
+    "savePctg": 0.88,
+    "shutouts": 0,
+    "opponentAbbrev": "MTL",
+    "pim": 0,
+    "toi": "61:01"
+  },
+  {
+    "gameId": 2025020905,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-02-05",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Devils"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 24,
+    "goalsAgainst": 1,
+    "savePctg": 0.958333,
+    "shutouts": 0,
+    "opponentAbbrev": "NJD",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020888,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-02-03",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Penguins"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 35,
+    "goalsAgainst": 4,
+    "savePctg": 0.885714,
+    "shutouts": 0,
+    "opponentAbbrev": "PIT",
+    "pim": 0,
+    "toi": "60:22"
+  },
+  {
+    "gameId": 2025020867,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-31",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Predators"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 42,
+    "goalsAgainst": 4,
+    "savePctg": 0.904762,
+    "shutouts": 0,
+    "opponentAbbrev": "NSH",
+    "pim": 0,
+    "toi": "58:50"
+  },
+  {
+    "gameId": 2025020849,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-29",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Rangers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 21,
+    "goalsAgainst": 1,
+    "savePctg": 0.952381,
+    "shutouts": 0,
+    "opponentAbbrev": "NYR",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020827,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-26",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Flyers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 21,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "PHI",
+    "pim": 0,
+    "toi": "59:36"
+  },
+  {
+    "gameId": 2025020793,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-21",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Kraken"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 24,
+    "goalsAgainst": 3,
+    "savePctg": 0.875,
+    "shutouts": 0,
+    "opponentAbbrev": "SEA",
+    "pim": 0,
+    "toi": "58:16"
+  },
+  {
+    "gameId": 2025020778,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-19",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Canucks"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 32,
+    "goalsAgainst": 3,
+    "savePctg": 0.90625,
+    "shutouts": 0,
+    "opponentAbbrev": "VAN",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020747,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-15",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Oilers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 35,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "EDM",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020732,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-13",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Jets"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 22,
+    "goalsAgainst": 5,
+    "savePctg": 0.772727,
+    "shutouts": 0,
+    "opponentAbbrev": "WPG",
+    "pim": 0,
+    "toi": "56:13"
+  },
+  {
+    "gameId": 2025020708,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2026-01-10",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Wild"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 36,
+    "goalsAgainst": 3,
+    "savePctg": 0.916667,
+    "shutouts": 0,
+    "opponentAbbrev": "MIN",
+    "pim": 0,
+    "toi": "61:14"
+  },
+  {
+    "gameId": 2025020669,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2026-01-06",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Devils"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 44,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "NJD",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020545,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-19",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Canucks"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 30,
+    "goalsAgainst": 3,
+    "savePctg": 0.9,
+    "shutouts": 0,
+    "opponentAbbrev": "VAN",
+    "pim": 0,
+    "toi": "56:21"
+  },
+  {
+    "gameId": 2025020522,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-16",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Red Wings"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 21,
+    "goalsAgainst": 3,
+    "savePctg": 0.857143,
+    "shutouts": 0,
+    "opponentAbbrev": "DET",
+    "pim": 0,
+    "toi": "58:06"
+  },
+  {
+    "gameId": 2025020498,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-13",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Lightning"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 34,
+    "goalsAgainst": 2,
+    "savePctg": 0.941176,
+    "shutouts": 0,
+    "opponentAbbrev": "TBL",
+    "pim": 0,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020468,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-09",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Golden Knights"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 37,
+    "goalsAgainst": 4,
+    "savePctg": 0.891892,
+    "shutouts": 0,
+    "opponentAbbrev": "VGK",
+    "pim": 2,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020446,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-12-06",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Lightning"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 32,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "TBL",
+    "pim": 0,
+    "toi": "59:50"
+  },
+  {
+    "gameId": 2025020430,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-04",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Avalanche"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 38,
+    "goalsAgainst": 3,
+    "savePctg": 0.921053,
+    "shutouts": 0,
+    "opponentAbbrev": "COL",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020414,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-12-02",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Lightning"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 31,
+    "goalsAgainst": 1,
+    "savePctg": 0.967742,
+    "shutouts": 0,
+    "opponentAbbrev": "TBL",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020402,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-30",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Capitals"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 17,
+    "goalsAgainst": 2,
+    "savePctg": 0.882353,
+    "shutouts": 0,
+    "opponentAbbrev": "WSH",
+    "pim": 0,
+    "toi": "57:33"
+  },
+  {
+    "gameId": 2025020365,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-26",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Bruins"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 14,
+    "goalsAgainst": 3,
+    "savePctg": 0.785714,
+    "shutouts": 0,
+    "opponentAbbrev": "BOS",
+    "pim": 0,
+    "toi": "55:26"
+  },
+  {
+    "gameId": 2025020336,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-22",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Blues"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 22,
+    "goalsAgainst": 2,
+    "savePctg": 0.909091,
+    "shutouts": 0,
+    "opponentAbbrev": "STL",
+    "pim": 0,
+    "toi": "56:49"
+  },
+  {
+    "gameId": 2025020321,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-20",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Red Wings"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 29,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "DET",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020300,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-16",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Avalanche"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 27,
+    "goalsAgainst": 3,
+    "savePctg": 0.888889,
+    "shutouts": 0,
+    "opponentAbbrev": "COL",
+    "pim": 0,
+    "toi": "58:26"
+  },
+  {
+    "gameId": 2025020277,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-13",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Golden Knights"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 29,
+    "goalsAgainst": 3,
+    "savePctg": 0.896552,
+    "shutouts": 0,
+    "opponentAbbrev": "VGK",
+    "pim": 0,
+    "toi": "61:46"
+  },
+  {
+    "gameId": 2025020252,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-10",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Devils"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 35,
+    "goalsAgainst": 2,
+    "savePctg": 0.942857,
+    "shutouts": 0,
+    "opponentAbbrev": "NJD",
+    "pim": 0,
+    "toi": "61:17"
+  },
+  {
+    "gameId": 2025020237,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-11-08",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Rangers"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 33,
+    "goalsAgainst": 0,
+    "savePctg": 1.0,
+    "shutouts": 1,
+    "opponentAbbrev": "NYR",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020205,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-11-04",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Bruins"
+    },
+    "gamesStarted": 1,
+    "decision": "O",
+    "shotsAgainst": 27,
+    "goalsAgainst": 3,
+    "savePctg": 0.888889,
+    "shutouts": 0,
+    "opponentAbbrev": "BOS",
+    "pim": 0,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020179,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-31",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Capitals"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 23,
+    "goalsAgainst": 1,
+    "savePctg": 0.956522,
+    "shutouts": 0,
+    "opponentAbbrev": "WSH",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020154,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-28",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Bruins"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 21,
+    "goalsAgainst": 4,
+    "savePctg": 0.809524,
+    "shutouts": 0,
+    "opponentAbbrev": "BOS",
+    "pim": 0,
+    "toi": "58:58"
+  },
+  {
+    "gameId": 2025020127,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-25",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Flyers"
+    },
+    "gamesStarted": 1,
+    "decision": "O",
+    "shotsAgainst": 26,
+    "goalsAgainst": 3,
+    "savePctg": 0.884615,
+    "shutouts": 0,
+    "opponentAbbrev": "PHI",
+    "pim": 0,
+    "toi": "65:00"
+  },
+  {
+    "gameId": 2025020100,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-21",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Sharks"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 36,
+    "goalsAgainst": 3,
+    "savePctg": 0.916667,
+    "shutouts": 0,
+    "opponentAbbrev": "SJS",
+    "pim": 0,
+    "toi": "59:49"
+  },
+  {
+    "gameId": 2025020077,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-18",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Senators",
+      "fr": "Sénateurs"
+    },
+    "gamesStarted": 1,
+    "decision": "W",
+    "shotsAgainst": 32,
+    "goalsAgainst": 4,
+    "savePctg": 0.875,
+    "shutouts": 0,
+    "opponentAbbrev": "OTT",
+    "pim": 0,
+    "toi": "60:00"
+  },
+  {
+    "gameId": 2025020042,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-13",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Jets"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 25,
+    "goalsAgainst": 4,
+    "savePctg": 0.84,
+    "shutouts": 0,
+    "opponentAbbrev": "WPG",
+    "pim": 0,
+    "toi": "58:18"
+  },
+  {
+    "gameId": 2025020028,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "H",
+    "gameDate": "2025-10-11",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Capitals"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 29,
+    "goalsAgainst": 4,
+    "savePctg": 0.862069,
+    "shutouts": 0,
+    "opponentAbbrev": "WSH",
+    "pim": 0,
+    "toi": "56:09"
+  },
+  {
+    "gameId": 2025020013,
+    "teamAbbrev": "NYI",
+    "homeRoadFlag": "R",
+    "gameDate": "2025-10-09",
+    "goals": 0,
+    "assists": 0,
+    "commonName": {
+      "default": "Islanders"
+    },
+    "opponentCommonName": {
+      "default": "Penguins"
+    },
+    "gamesStarted": 1,
+    "decision": "L",
+    "shotsAgainst": 28,
+    "goalsAgainst": 4,
+    "savePctg": 0.857143,
+    "shutouts": 0,
+    "opponentAbbrev": "PIT",
+    "pim": 0,
+    "toi": "57:45"
+  }
+]

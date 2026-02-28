@@ -1,0 +1,656 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020922,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 30,
+      "goalsAgainst": 1,
+      "savePctg": 0.966667,
+      "shutouts": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 0,
+      "toi": "59:44"
+    },
+    {
+      "gameId": 2025020903,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-05",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 27,
+      "goalsAgainst": 2,
+      "savePctg": 0.925926,
+      "shutouts": 0,
+      "opponentAbbrev": "BUF",
+      "pim": 0,
+      "toi": "59:38"
+    },
+    {
+      "gameId": 2025020877,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-02-02",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 31,
+      "goalsAgainst": 3,
+      "savePctg": 0.903226,
+      "shutouts": 0,
+      "opponentAbbrev": "OTT",
+      "pim": 0,
+      "toi": "57:33"
+    },
+    {
+      "gameId": 2025020850,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 20,
+      "goalsAgainst": 2,
+      "savePctg": 0.9,
+      "shutouts": 0,
+      "opponentAbbrev": "CHI",
+      "pim": 0,
+      "toi": "59:57"
+    },
+    {
+      "gameId": 2025020800,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-22",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Oilers"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 32,
+      "goalsAgainst": 2,
+      "savePctg": 0.9375,
+      "shutouts": 0,
+      "opponentAbbrev": "EDM",
+      "pim": 0,
+      "toi": "59:26"
+    },
+    {
+      "gameId": 2025020760,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-17",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 26,
+      "goalsAgainst": 3,
+      "savePctg": 0.884615,
+      "shutouts": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "64:26"
+    },
+    {
+      "gameId": 2025020726,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 31,
+      "goalsAgainst": 1,
+      "savePctg": 0.967742,
+      "shutouts": 0,
+      "opponentAbbrev": "TBL",
+      "pim": 0,
+      "toi": "63:59"
+    },
+    {
+      "gameId": 2025020698,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-10",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 25,
+      "goalsAgainst": 2,
+      "savePctg": 0.92,
+      "shutouts": 0,
+      "opponentAbbrev": "CGY",
+      "pim": 0,
+      "toi": "57:53"
+    },
+    {
+      "gameId": 2025020658,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 25,
+      "goalsAgainst": 4,
+      "savePctg": 0.84,
+      "shutouts": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "60:41"
+    },
+    {
+      "gameId": 2025020635,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Red Wings"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 27,
+      "goalsAgainst": 3,
+      "savePctg": 0.888889,
+      "shutouts": 0,
+      "opponentAbbrev": "DET",
+      "pim": 0,
+      "toi": "60:58"
+    },
+    {
+      "gameId": 2025020604,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 24,
+      "goalsAgainst": 3,
+      "savePctg": 0.875,
+      "shutouts": 0,
+      "opponentAbbrev": "CHI",
+      "pim": 0,
+      "toi": "59:31"
+    },
+    {
+      "gameId": 2025020566,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-21",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 25,
+      "goalsAgainst": 3,
+      "savePctg": 0.88,
+      "shutouts": 0,
+      "opponentAbbrev": "MTL",
+      "pim": 0,
+      "toi": "65:00"
+    },
+    {
+      "gameId": 2025020537,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 26,
+      "goalsAgainst": 4,
+      "savePctg": 0.846154,
+      "shutouts": 0,
+      "opponentAbbrev": "OTT",
+      "pim": 2,
+      "toi": "59:53"
+    },
+    {
+      "gameId": 2025020497,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 31,
+      "goalsAgainst": 6,
+      "savePctg": 0.806452,
+      "shutouts": 0,
+      "opponentAbbrev": "SJS",
+      "pim": 0,
+      "toi": "62:44"
+    },
+    {
+      "gameId": 2025020470,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 28,
+      "goalsAgainst": 3,
+      "savePctg": 0.928571,
+      "shutouts": 0,
+      "opponentAbbrev": "ANA",
+      "pim": 0,
+      "toi": "64:48"
+    },
+    {
+      "gameId": 2025020396,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 10,
+      "goalsAgainst": 4,
+      "savePctg": 0.6,
+      "shutouts": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "24:37"
+    },
+    {
+      "gameId": 2025020332,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-21",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 10,
+      "goalsAgainst": 4,
+      "savePctg": 0.6,
+      "shutouts": 0,
+      "opponentAbbrev": "MIN",
+      "pim": 0,
+      "toi": "21:06"
+    },
+    {
+      "gameId": 2025020281,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-14",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 30,
+      "goalsAgainst": 2,
+      "savePctg": 0.933333,
+      "shutouts": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 0,
+      "toi": "60:44"
+    },
+    {
+      "gameId": 2025020231,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-08",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 24,
+      "goalsAgainst": 1,
+      "savePctg": 0.958333,
+      "shutouts": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 0,
+      "toi": "65:00"
+    },
+    {
+      "gameId": 2025020221,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-06",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 30,
+      "goalsAgainst": 3,
+      "savePctg": 0.9,
+      "shutouts": 0,
+      "opponentAbbrev": "WSH",
+      "pim": 0,
+      "toi": "59:37"
+    },
+    {
+      "gameId": 2025020182,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Jets"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 33,
+      "goalsAgainst": 4,
+      "savePctg": 0.878788,
+      "shutouts": 0,
+      "opponentAbbrev": "WPG",
+      "pim": 0,
+      "toi": "59:13"
+    },
+    {
+      "gameId": 2025020150,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 34,
+      "goalsAgainst": 2,
+      "savePctg": 0.941176,
+      "shutouts": 0,
+      "opponentAbbrev": "PHI",
+      "pim": 0,
+      "toi": "65:00"
+    },
+    {
+      "gameId": 2025020134,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-25",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 41,
+      "goalsAgainst": 4,
+      "savePctg": 0.902439,
+      "shutouts": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "64:57"
+    },
+    {
+      "gameId": 2025020101,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-21",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 24,
+      "goalsAgainst": 1,
+      "savePctg": 0.958333,
+      "shutouts": 0,
+      "opponentAbbrev": "VAN",
+      "pim": 0,
+      "toi": "59:52"
+    },
+    {
+      "gameId": 2025020071,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Kings"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 32,
+      "goalsAgainst": 2,
+      "savePctg": 0.9375,
+      "shutouts": 0,
+      "opponentAbbrev": "LAK",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020029,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 30,
+      "goalsAgainst": 6,
+      "savePctg": 0.8,
+      "shutouts": 0,
+      "opponentAbbrev": "NYR",
+      "pim": 0,
+      "toi": "59:37"
+    },
+    {
+      "gameId": 2025020002,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Rangers"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 25,
+      "goalsAgainst": 0,
+      "savePctg": 1.0,
+      "shutouts": 1,
+      "opponentAbbrev": "NYR",
+      "pim": 0,
+      "toi": "60:00"
+    }
+  ]
+}

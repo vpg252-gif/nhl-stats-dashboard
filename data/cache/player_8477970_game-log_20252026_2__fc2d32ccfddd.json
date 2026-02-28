@@ -1,0 +1,370 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20202021,
+      "gameTypes": [
+        2,
+        3
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020834,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-27",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 30,
+      "goalsAgainst": 3,
+      "savePctg": 0.9,
+      "shutouts": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "59:58"
+    },
+    {
+      "gameId": 2025020714,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 36,
+      "goalsAgainst": 3,
+      "savePctg": 0.916667,
+      "shutouts": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "61:01"
+    },
+    {
+      "gameId": 2025020612,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 26,
+      "goalsAgainst": 4,
+      "savePctg": 0.846154,
+      "shutouts": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 0,
+      "toi": "58:15"
+    },
+    {
+      "gameId": 2025020584,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-23",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Avalanche"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 26,
+      "goalsAgainst": 1,
+      "savePctg": 0.961538,
+      "shutouts": 0,
+      "opponentAbbrev": "COL",
+      "pim": 0,
+      "toi": "57:42"
+    },
+    {
+      "gameId": 2025020519,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 23,
+      "goalsAgainst": 4,
+      "savePctg": 0.826087,
+      "shutouts": 0,
+      "opponentAbbrev": "BOS",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020448,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-06",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 22,
+      "goalsAgainst": 1,
+      "savePctg": 0.954545,
+      "shutouts": 0,
+      "opponentAbbrev": "CGY",
+      "pim": 0,
+      "toi": "59:10"
+    },
+    {
+      "gameId": 2025020410,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "gamesStarted": 0,
+      "decision": "L",
+      "shotsAgainst": 21,
+      "goalsAgainst": 3,
+      "savePctg": 0.857143,
+      "shutouts": 0,
+      "opponentAbbrev": "SJS",
+      "pim": 0,
+      "toi": "46:51"
+    },
+    {
+      "gameId": 2025020390,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 28,
+      "goalsAgainst": 4,
+      "savePctg": 0.857143,
+      "shutouts": 0,
+      "opponentAbbrev": "DAL",
+      "pim": 0,
+      "toi": "58:25"
+    },
+    {
+      "gameId": 2025020314,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 22,
+      "goalsAgainst": 3,
+      "savePctg": 0.863636,
+      "shutouts": 0,
+      "opponentAbbrev": "SJS",
+      "pim": 0,
+      "toi": "62:52"
+    },
+    {
+      "gameId": 2025020247,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-09",
+      "goals": 0,
+      "assists": 1,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Senators",
+        "fr": "Sénateurs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 25,
+      "goalsAgainst": 4,
+      "savePctg": 0.84,
+      "shutouts": 0,
+      "opponentAbbrev": "OTT",
+      "pim": 0,
+      "toi": "57:14"
+    },
+    {
+      "gameId": 2025020213,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-05",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 18,
+      "goalsAgainst": 4,
+      "savePctg": 0.777778,
+      "shutouts": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "58:19"
+    },
+    {
+      "gameId": 2025020143,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Jets"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 30,
+      "goalsAgainst": 2,
+      "savePctg": 0.933333,
+      "shutouts": 0,
+      "opponentAbbrev": "WPG",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020092,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-19",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 26,
+      "goalsAgainst": 2,
+      "savePctg": 0.923077,
+      "shutouts": 0,
+      "opponentAbbrev": "BOS",
+      "pim": 0,
+      "toi": "59:55"
+    },
+    {
+      "gameId": 2025020048,
+      "teamAbbrev": "UTA",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Mammoth"
+      },
+      "opponentCommonName": {
+        "default": "Blackhawks"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 13,
+      "goalsAgainst": 2,
+      "savePctg": 0.846154,
+      "shutouts": 0,
+      "opponentAbbrev": "CHI",
+      "pim": 0,
+      "toi": "59:40"
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "seasonId": 20252026,
+  "gameTypeId": 2,
+  "playerStatsSeasons": [
+    {
+      "season": 20252026,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20242025,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20232024,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20222023,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20212022,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20202021,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20192020,
+      "gameTypes": [
+        2,
+        3
+      ]
+    },
+    {
+      "season": 20182019,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20172018,
+      "gameTypes": [
+        2
+      ]
+    },
+    {
+      "season": 20162017,
+      "gameTypes": [
+        2
+      ]
+    }
+  ],
+  "gameLog": [
+    {
+      "gameId": 2025020917,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-25",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "gamesStarted": 1,
+      "shotsAgainst": 25,
+      "goalsAgainst": 5,
+      "savePctg": 0.8,
+      "shutouts": 0,
+      "opponentAbbrev": "ANA",
+      "pim": 0,
+      "toi": "46:39"
+    },
+    {
+      "gameId": 2025020900,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-02-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Flames"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 25,
+      "goalsAgainst": 4,
+      "savePctg": 0.84,
+      "shutouts": 0,
+      "opponentAbbrev": "CGY",
+      "pim": 0,
+      "toi": "58:32"
+    },
+    {
+      "gameId": 2025020871,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-31",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 20,
+      "goalsAgainst": 5,
+      "savePctg": 0.75,
+      "shutouts": 0,
+      "opponentAbbrev": "MIN",
+      "pim": 0,
+      "toi": "35:40"
+    },
+    {
+      "gameId": 2025020829,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 41,
+      "goalsAgainst": 4,
+      "savePctg": 0.902439,
+      "shutouts": 0,
+      "opponentAbbrev": "ANA",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020818,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-24",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Capitals"
+      },
+      "gamesStarted": 0,
+      "decision": "W",
+      "shotsAgainst": 15,
+      "goalsAgainst": 2,
+      "savePctg": 0.866667,
+      "shutouts": 0,
+      "opponentAbbrev": "WSH",
+      "pim": 0,
+      "toi": "24:29"
+    },
+    {
+      "gameId": 2025020800,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-22",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 23,
+      "goalsAgainst": 6,
+      "savePctg": 0.73913,
+      "shutouts": 0,
+      "opponentAbbrev": "PIT",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020786,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "H",
+      "gameDate": "2026-01-20",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Devils"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 17,
+      "goalsAgainst": 2,
+      "savePctg": 0.882353,
+      "shutouts": 0,
+      "opponentAbbrev": "NJD",
+      "pim": 0,
+      "toi": "58:29"
+    },
+    {
+      "gameId": 2025020764,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-17",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Canucks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 31,
+      "goalsAgainst": 0,
+      "savePctg": 1.0,
+      "shutouts": 1,
+      "opponentAbbrev": "VAN",
+      "pim": 0,
+      "toi": "59:49"
+    },
+    {
+      "gameId": 2025020731,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2026-01-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Predators"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 27,
+      "goalsAgainst": 4,
+      "savePctg": 0.851852,
+      "shutouts": 0,
+      "opponentAbbrev": "NSH",
+      "pim": 0,
+      "toi": "63:43"
+    },
+    {
+      "gameId": 2025020534,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Bruins"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 13,
+      "goalsAgainst": 1,
+      "savePctg": 0.923077,
+      "shutouts": 0,
+      "opponentAbbrev": "BOS",
+      "pim": 0,
+      "toi": "36:08"
+    },
+    {
+      "gameId": 2025020524,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-16",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Penguins"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 30,
+      "goalsAgainst": 4,
+      "savePctg": 0.866667,
+      "shutouts": 0,
+      "opponentAbbrev": "PIT",
+      "pim": 0,
+      "toi": "59:55"
+    },
+    {
+      "gameId": 2025020499,
+      "teamAbbrev": "EDM",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-13",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Oilers"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 28,
+      "goalsAgainst": 3,
+      "savePctg": 0.892857,
+      "shutouts": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020484,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-12-11",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Canadiens"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 29,
+      "goalsAgainst": 4,
+      "savePctg": 0.862069,
+      "shutouts": 0,
+      "opponentAbbrev": "MTL",
+      "pim": 0,
+      "toi": "56:00"
+    },
+    {
+      "gameId": 2025020456,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-07",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Stars"
+      },
+      "gamesStarted": 1,
+      "decision": "O",
+      "shotsAgainst": 23,
+      "goalsAgainst": 2,
+      "savePctg": 0.913043,
+      "shutouts": 0,
+      "opponentAbbrev": "DAL",
+      "pim": 0,
+      "toi": "64:50"
+    },
+    {
+      "gameId": 2025020428,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-04",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Lightning"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 40,
+      "goalsAgainst": 3,
+      "savePctg": 0.925,
+      "shutouts": 0,
+      "opponentAbbrev": "TBL",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020407,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-12-01",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Flyers"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 29,
+      "goalsAgainst": 1,
+      "savePctg": 0.965517,
+      "shutouts": 0,
+      "opponentAbbrev": "PHI",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020396,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-29",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "gamesStarted": 0,
+      "shotsAgainst": 13,
+      "goalsAgainst": 3,
+      "savePctg": 0.769231,
+      "shutouts": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "35:07"
+    },
+    {
+      "gameId": 2025020388,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-28",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blue Jackets"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 29,
+      "goalsAgainst": 3,
+      "savePctg": 0.896552,
+      "shutouts": 0,
+      "opponentAbbrev": "CBJ",
+      "pim": 0,
+      "toi": "59:36"
+    },
+    {
+      "gameId": 2025020366,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-11-26",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Sabres"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 31,
+      "goalsAgainst": 2,
+      "savePctg": 0.935484,
+      "shutouts": 0,
+      "opponentAbbrev": "BUF",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020199,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-11-03",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Maple Leafs"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 20,
+      "goalsAgainst": 4,
+      "savePctg": 0.8,
+      "shutouts": 0,
+      "opponentAbbrev": "TOR",
+      "pim": 0,
+      "toi": "57:32"
+    },
+    {
+      "gameId": 2025020173,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-30",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Wild"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 27,
+      "goalsAgainst": 1,
+      "savePctg": 0.962963,
+      "shutouts": 0,
+      "opponentAbbrev": "MIN",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020148,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-27",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Blues"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 28,
+      "goalsAgainst": 3,
+      "savePctg": 0.892857,
+      "shutouts": 0,
+      "opponentAbbrev": "STL",
+      "pim": 0,
+      "toi": "59:15"
+    },
+    {
+      "gameId": 2025020114,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-23",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Panthers"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 37,
+      "goalsAgainst": 3,
+      "savePctg": 0.918919,
+      "shutouts": 0,
+      "opponentAbbrev": "FLA",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020088,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-18",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Sharks"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 31,
+      "goalsAgainst": 0,
+      "savePctg": 1.0,
+      "shutouts": 1,
+      "opponentAbbrev": "SJS",
+      "pim": 0,
+      "toi": "60:00"
+    },
+    {
+      "gameId": 2025020056,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "R",
+      "gameDate": "2025-10-14",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Ducks"
+      },
+      "gamesStarted": 1,
+      "decision": "L",
+      "shotsAgainst": 22,
+      "goalsAgainst": 4,
+      "savePctg": 0.818182,
+      "shutouts": 0,
+      "opponentAbbrev": "ANA",
+      "pim": 0,
+      "toi": "59:01"
+    },
+    {
+      "gameId": 2025020013,
+      "teamAbbrev": "PIT",
+      "homeRoadFlag": "H",
+      "gameDate": "2025-10-09",
+      "goals": 0,
+      "assists": 0,
+      "commonName": {
+        "default": "Penguins"
+      },
+      "opponentCommonName": {
+        "default": "Islanders"
+      },
+      "gamesStarted": 1,
+      "decision": "W",
+      "shotsAgainst": 37,
+      "goalsAgainst": 3,
+      "savePctg": 0.918919,
+      "shutouts": 0,
+      "opponentAbbrev": "NYI",
+      "pim": 0,
+      "toi": "59:24"
+    }
+  ]
+}
