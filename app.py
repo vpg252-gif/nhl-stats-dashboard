@@ -288,7 +288,7 @@ def load_nfl_trends(seasons=(2022,2023,2024,2025)):
         passing_completion_pct, qbr, yards_per_pass_attempt,
         rushing_yards, rushing_touchdowns, rushing_attempts, yards_per_rush_attempt,
         receptions, receiving_yards, receiving_touchdowns, receiving_targets,
-        total_tackles, defensive_sacks, points_for, points_against
+        total_tackles, defensive_sacks
         FROM nfl_player_stats
         WHERE postseason=0 AND season IN ({s_list})
         ORDER BY full_name, season""", conn)
