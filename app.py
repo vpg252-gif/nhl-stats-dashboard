@@ -1197,7 +1197,8 @@ elif sport == "🏈 NFL":
 
             c1,c2 = st.columns(2)
             with c1:
-                qb_t = trends[trends["passing_yards"].notna() & (trends["passing_yards"]>500)]
+                qb_t = trends[trends["passing_yards"].notna() & trends["qbr"].notna() & trends["yards_per_pass_attempt"].notna() & (trends["passing_yards"]>500)].copy()
+                qb_t["passing_yards"] = qb_t["passing_yards"].fillna(0).astype(int)
                 fig = px.scatter(qb_t, x="yards_per_pass_attempt", y="qbr",
                     color="season", hover_name="full_name", size="passing_yards",
                     trendline="ols", trendline_scope="overall", trendline_color_override="#FFD700",
@@ -1207,9 +1208,11 @@ elif sport == "🏈 NFL":
                     font_color="white", height=420)
                 st.plotly_chart(fig, use_container_width=True)
             with c2:
-                rb_t = trends[(trends["position_abbrev"]=="RB") & trends["rushing_yards"].notna() & (trends["rushing_yards"]>100)]
+                rb_t = trends[(trends["position_abbrev"]=="RB") & trends["rushing_yards"].notna() & trends["rushing_attempts"].notna() & (trends["rushing_yards"]>100)].copy()
+                rb_t["rushing_touchdowns"] = rb_t["rushing_touchdowns"].fillna(0).astype(int)
+                rb_t["rushing_touchdowns_size"] = rb_t["rushing_touchdowns"] + 1
                 fig2 = px.scatter(rb_t, x="rushing_attempts", y="rushing_yards",
-                    color="season", hover_name="full_name", size="rushing_touchdowns",
+                    color="season", hover_name="full_name", size="rushing_touchdowns_size",
                     trendline="ols", trendline_scope="overall", trendline_color_override="#FFD700",
                     title="Rush Attempts → Rush Yards (r≈0.94) — RBs 2022-2025",
                     color_discrete_sequence=["#1a1a2e","#825A2C","#D4AF37","#ffffff"])
@@ -1219,7 +1222,7 @@ elif sport == "🏈 NFL":
 
             c3,c4 = st.columns(2)
             with c3:
-                wr_t = trends[(trends["position_abbrev"]=="WR") & trends["receiving_yards"].notna() & (trends["receiving_yards"]>100)]
+                wr_t = trends[(trends["position_abbrev"]=="WR") & trends["receiving_yards"].notna() & trends["receiving_targets"].notna() & (trends["receiving_yards"]>100)].copy()
                 fig3 = px.scatter(wr_t, x="receiving_targets", y="receiving_yards",
                     color="season", hover_name="full_name",
                     trendline="ols", trendline_scope="overall", trendline_color_override="#FFD700",
@@ -1229,8 +1232,9 @@ elif sport == "🏈 NFL":
                     font_color="white", height=420)
                 st.plotly_chart(fig3, use_container_width=True)
             with c4:
-                # Passing TDs vs Completion %
-                fig4 = px.scatter(qb_t, x="passing_completion_pct", y="passing_touchdowns",
+                qb_t2 = trends[trends["passing_yards"].notna() & trends["passing_touchdowns"].notna() & trends["passing_completion_pct"].notna() & (trends["passing_yards"]>500)].copy()
+                qb_t2["passing_yards"] = qb_t2["passing_yards"].fillna(0).astype(int)
+                fig4 = px.scatter(qb_t2, x="passing_completion_pct", y="passing_touchdowns",
                     color="season", hover_name="full_name", size="passing_yards",
                     trendline="ols", trendline_scope="overall", trendline_color_override="#FFD700",
                     title="Completion% → Pass TDs (r≈0.72) — QBs 2022-2025",
